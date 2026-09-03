@@ -1,0 +1,1501 @@
+District,State,Reference_Year,Population,Rural_Percent,Urban_Percent,Literacy_Percent,Poverty_Percent,Population_Density_per_sq_km,Dataset_Status
+AP_District_01,Andhra Pradesh,2011,1976053,73.35,26.65,67.44,24.12,500.73,Synthetic data for visualization practice
+AP_District_01,Andhra Pradesh,2016,2118545,52.99,47.01,79.45,8.36,2392.21,Synthetic data for visualization practice
+AP_District_01,Andhra Pradesh,2021,2191852,66.79,33.21,78.06,29.17,512.85,Synthetic data for visualization practice
+AP_District_02,Andhra Pradesh,2011,224238,53.18,46.82,84.99,35.55,62.27,Synthetic data for visualization practice
+AP_District_02,Andhra Pradesh,2016,240252,75.03,24.97,69.7,18.87,236.78,Synthetic data for visualization practice
+AP_District_02,Andhra Pradesh,2021,264372,52.37,47.63,61.94,30.2,110.94,Synthetic data for visualization practice
+AP_District_03,Andhra Pradesh,2011,2171573,83.53,16.47,57.85,12.41,748.35,Synthetic data for visualization practice
+AP_District_03,Andhra Pradesh,2016,2309758,58.38,41.62,69.81,15.66,924.83,Synthetic data for visualization practice
+AP_District_03,Andhra Pradesh,2021,2528482,66.98,33.02,84.17,25.17,508.82,Synthetic data for visualization practice
+AP_District_04,Andhra Pradesh,2011,755509,61.97,38.03,68.67,17.53,390.01,Synthetic data for visualization practice
+AP_District_04,Andhra Pradesh,2016,794796,61.84,38.16,76.51,16.93,203.15,Synthetic data for visualization practice
+AP_District_04,Andhra Pradesh,2021,845632,53.05,46.95,49.25,9.46,212.94,Synthetic data for visualization practice
+AP_District_05,Andhra Pradesh,2011,1812859,36.35,63.65,73.95,36.16,398.89,Synthetic data for visualization practice
+AP_District_05,Andhra Pradesh,2016,1950149,49.94,50.06,67.4,22.66,753.0,Synthetic data for visualization practice
+AP_District_05,Andhra Pradesh,2021,2106763,30.91,69.09,80.01,22.31,1310.77,Synthetic data for visualization practice
+AP_District_06,Andhra Pradesh,2011,792140,40.3,59.7,82.79,20.33,358.7,Synthetic data for visualization practice
+AP_District_06,Andhra Pradesh,2016,828098,54.56,45.44,59.65,22.8,566.37,Synthetic data for visualization practice
+AP_District_06,Andhra Pradesh,2021,926359,41.45,58.55,68.92,26.3,862.34,Synthetic data for visualization practice
+AP_District_07,Andhra Pradesh,2011,2679325,40.74,59.26,81.72,12.76,765.54,Synthetic data for visualization practice
+AP_District_07,Andhra Pradesh,2016,2903819,47.34,52.66,61.04,6.24,1550.62,Synthetic data for visualization practice
+AP_District_07,Andhra Pradesh,2021,3100614,38.84,61.16,72.87,10.19,2950.99,Synthetic data for visualization practice
+AP_District_08,Andhra Pradesh,2011,988473,53.83,46.17,67.49,12.48,215.1,Synthetic data for visualization practice
+AP_District_08,Andhra Pradesh,2016,1079150,35.29,64.71,81.74,19.12,337.18,Synthetic data for visualization practice
+AP_District_08,Andhra Pradesh,2021,1134813,68.72,31.28,65.15,33.98,579.26,Synthetic data for visualization practice
+AP_District_09,Andhra Pradesh,2011,1318457,61.75,38.25,59.63,14.46,955.16,Synthetic data for visualization practice
+AP_District_09,Andhra Pradesh,2016,1413331,69.64,30.36,68.13,23.13,284.2,Synthetic data for visualization practice
+AP_District_09,Andhra Pradesh,2021,1541018,41.87,58.13,74.03,22.75,414.52,Synthetic data for visualization practice
+AP_District_10,Andhra Pradesh,2011,2531899,41.05,58.95,73.64,13.76,727.6,Synthetic data for visualization practice
+AP_District_10,Andhra Pradesh,2016,2693018,57.62,42.38,69.06,25.7,6348.51,Synthetic data for visualization practice
+AP_District_10,Andhra Pradesh,2021,2801145,39.08,60.92,81.52,22.67,1349.29,Synthetic data for visualization practice
+AP_District_11,Andhra Pradesh,2011,2823163,41.88,58.12,61.7,30.0,660.91,Synthetic data for visualization practice
+AP_District_11,Andhra Pradesh,2016,2967028,56.8,43.2,86.21,26.43,2226.76,Synthetic data for visualization practice
+AP_District_11,Andhra Pradesh,2021,3291366,34.67,65.33,74.39,25.9,766.94,Synthetic data for visualization practice
+AP_District_12,Andhra Pradesh,2011,1320160,47.29,52.71,78.26,7.28,601.92,Synthetic data for visualization practice
+AP_District_12,Andhra Pradesh,2016,1427901,72.25,27.75,71.6,31.99,604.21,Synthetic data for visualization practice
+AP_District_12,Andhra Pradesh,2021,1505199,66.82,33.18,79.15,25.78,466.76,Synthetic data for visualization practice
+AP_District_13,Andhra Pradesh,2011,2725163,36.16,63.84,79.94,27.65,1493.88,Synthetic data for visualization practice
+AP_District_13,Andhra Pradesh,2016,2938507,46.47,53.53,90.7,15.09,1006.25,Synthetic data for visualization practice
+AP_District_13,Andhra Pradesh,2021,3129337,73.22,26.78,69.81,16.99,1258.46,Synthetic data for visualization practice
+AP_District_14,Andhra Pradesh,2011,333277,41.21,58.79,60.99,31.27,156.11,Synthetic data for visualization practice
+AP_District_14,Andhra Pradesh,2016,363734,28.25,71.75,61.96,12.08,176.4,Synthetic data for visualization practice
+AP_District_14,Andhra Pradesh,2021,387290,41.21,58.79,67.84,35.54,223.08,Synthetic data for visualization practice
+AP_District_15,Andhra Pradesh,2011,2533096,51.44,48.56,75.6,24.24,650.71,Synthetic data for visualization practice
+AP_District_15,Andhra Pradesh,2016,2750420,68.67,31.33,62.26,24.96,791.15,Synthetic data for visualization practice
+AP_District_15,Andhra Pradesh,2021,2931389,34.37,65.63,62.03,24.75,953.72,Synthetic data for visualization practice
+AP_District_16,Andhra Pradesh,2011,1345066,67.81,32.19,75.36,23.38,286.02,Synthetic data for visualization practice
+AP_District_16,Andhra Pradesh,2016,1404484,70.37,29.63,71.43,21.06,985.85,Synthetic data for visualization practice
+AP_District_16,Andhra Pradesh,2021,1512044,56.14,43.86,76.36,21.22,1048.99,Synthetic data for visualization practice
+AP_District_17,Andhra Pradesh,2011,1783687,82.63,17.37,79.1,17.24,2943.42,Synthetic data for visualization practice
+AP_District_17,Andhra Pradesh,2016,1905505,74.64,25.36,67.28,23.51,4356.02,Synthetic data for visualization practice
+AP_District_17,Andhra Pradesh,2021,2056186,41.72,58.28,77.18,25.34,556.55,Synthetic data for visualization practice
+AP_District_18,Andhra Pradesh,2011,251861,48.82,51.18,79.1,15.65,66.45,Synthetic data for visualization practice
+AP_District_18,Andhra Pradesh,2016,268522,73.86,26.14,75.39,18.11,68.61,Synthetic data for visualization practice
+AP_District_18,Andhra Pradesh,2021,284033,46.6,53.4,84.0,26.64,81.19,Synthetic data for visualization practice
+AP_District_19,Andhra Pradesh,2011,2179033,38.59,61.41,64.53,33.9,855.92,Synthetic data for visualization practice
+AP_District_19,Andhra Pradesh,2016,2374532,74.79,25.21,82.95,26.46,706.4,Synthetic data for visualization practice
+AP_District_19,Andhra Pradesh,2021,2415903,66.04,33.96,65.33,27.86,1274.47,Synthetic data for visualization practice
+AP_District_20,Andhra Pradesh,2011,1902479,50.3,49.7,76.29,16.8,742.51,Synthetic data for visualization practice
+AP_District_20,Andhra Pradesh,2016,1997714,48.24,51.76,72.17,17.12,650.92,Synthetic data for visualization practice
+AP_District_20,Andhra Pradesh,2021,2152252,51.39,48.61,61.38,19.22,463.22,Synthetic data for visualization practice
+AP_District_21,Andhra Pradesh,2011,428236,58.18,41.82,78.83,21.67,149.74,Synthetic data for visualization practice
+AP_District_21,Andhra Pradesh,2016,455744,90.0,10.0,69.45,23.63,376.74,Synthetic data for visualization practice
+AP_District_21,Andhra Pradesh,2021,466438,55.12,44.88,71.96,14.69,103.54,Synthetic data for visualization practice
+AP_District_22,Andhra Pradesh,2011,1970601,81.29,18.71,79.14,27.11,608.47,Synthetic data for visualization practice
+AP_District_22,Andhra Pradesh,2016,2105399,75.84,24.16,96.0,31.56,686.47,Synthetic data for visualization practice
+AP_District_22,Andhra Pradesh,2021,2209636,42.29,57.71,80.96,13.19,3822.95,Synthetic data for visualization practice
+AP_District_23,Andhra Pradesh,2011,810554,54.14,45.86,72.91,21.88,200.39,Synthetic data for visualization practice
+AP_District_23,Andhra Pradesh,2016,845127,45.69,54.31,59.35,17.97,200.12,Synthetic data for visualization practice
+AP_District_23,Andhra Pradesh,2021,930744,64.91,35.09,60.36,19.63,190.05,Synthetic data for visualization practice
+AP_District_24,Andhra Pradesh,2011,1897209,61.4,38.6,72.95,30.74,1715.92,Synthetic data for visualization practice
+AP_District_24,Andhra Pradesh,2016,2033670,61.12,38.88,68.12,22.53,1289.85,Synthetic data for visualization practice
+AP_District_24,Andhra Pradesh,2021,2134028,35.21,64.79,83.19,30.53,852.72,Synthetic data for visualization practice
+AP_District_25,Andhra Pradesh,2011,1025410,37.65,62.35,55.2,16.64,453.05,Synthetic data for visualization practice
+AP_District_25,Andhra Pradesh,2016,1099590,57.65,42.35,82.47,28.74,671.59,Synthetic data for visualization practice
+AP_District_25,Andhra Pradesh,2021,1223920,65.74,34.26,73.32,25.39,248.61,Synthetic data for visualization practice
+AP_District_26,Andhra Pradesh,2011,970564,15.0,85.0,62.52,25.89,251.65,Synthetic data for visualization practice
+AP_District_26,Andhra Pradesh,2016,1019605,33.7,66.3,68.81,12.03,275.96,Synthetic data for visualization practice
+AP_District_26,Andhra Pradesh,2021,1141267,45.59,54.41,65.18,24.1,343.44,Synthetic data for visualization practice
+AP_District_27,Andhra Pradesh,2011,2537974,53.92,46.08,62.7,16.16,1018.09,Synthetic data for visualization practice
+AP_District_27,Andhra Pradesh,2016,2672704,34.77,65.23,68.23,22.79,2537.11,Synthetic data for visualization practice
+AP_District_27,Andhra Pradesh,2021,2868395,50.37,49.63,69.89,28.52,1176.26,Synthetic data for visualization practice
+AP_District_28,Andhra Pradesh,2011,2681507,52.95,47.05,71.55,22.37,683.5,Synthetic data for visualization practice
+AP_District_28,Andhra Pradesh,2016,2819372,69.05,30.95,73.86,21.64,1841.17,Synthetic data for visualization practice
+AP_District_28,Andhra Pradesh,2021,2977693,26.6,73.4,66.77,17.5,1069.54,Synthetic data for visualization practice
+AP_District_29,Andhra Pradesh,2011,738737,76.73,23.27,77.81,31.0,841.66,Synthetic data for visualization practice
+AP_District_29,Andhra Pradesh,2016,777970,43.04,56.96,78.02,21.97,173.82,Synthetic data for visualization practice
+AP_District_29,Andhra Pradesh,2021,842012,46.06,53.94,86.59,13.2,688.96,Synthetic data for visualization practice
+AP_District_30,Andhra Pradesh,2011,1116926,31.31,68.69,64.52,16.7,322.13,Synthetic data for visualization practice
+AP_District_30,Andhra Pradesh,2016,1216409,53.72,46.28,58.88,40.61,1144.0,Synthetic data for visualization practice
+AP_District_30,Andhra Pradesh,2021,1309672,46.89,53.11,66.13,37.3,404.34,Synthetic data for visualization practice
+AP_District_01,Arunachal Pradesh,2011,2777728,48.92,51.08,66.26,14.11,1764.29,Synthetic data for visualization practice
+AP_District_01,Arunachal Pradesh,2016,2924614,50.27,49.73,71.19,11.13,609.94,Synthetic data for visualization practice
+AP_District_01,Arunachal Pradesh,2021,3023908,51.44,48.56,66.67,21.35,4663.48,Synthetic data for visualization practice
+AP_District_02,Arunachal Pradesh,2011,1640945,66.18,33.82,81.79,35.73,980.74,Synthetic data for visualization practice
+AP_District_02,Arunachal Pradesh,2016,1746060,66.89,33.11,73.3,24.8,541.96,Synthetic data for visualization practice
+AP_District_02,Arunachal Pradesh,2021,1943066,31.84,68.16,57.37,23.54,1499.75,Synthetic data for visualization practice
+AP_District_03,Arunachal Pradesh,2011,1352532,57.75,42.25,63.86,29.19,496.26,Synthetic data for visualization practice
+AP_District_03,Arunachal Pradesh,2016,1445030,37.05,62.95,70.4,30.78,352.6,Synthetic data for visualization practice
+AP_District_03,Arunachal Pradesh,2021,1604472,46.82,53.18,63.1,16.75,504.46,Synthetic data for visualization practice
+AP_District_04,Arunachal Pradesh,2011,1944023,64.5,35.5,64.93,21.28,1860.55,Synthetic data for visualization practice
+AP_District_04,Arunachal Pradesh,2016,2032028,45.83,54.17,66.82,15.23,992.29,Synthetic data for visualization practice
+AP_District_04,Arunachal Pradesh,2021,2302940,52.97,47.03,72.49,32.2,607.31,Synthetic data for visualization practice
+AP_District_05,Arunachal Pradesh,2011,812662,58.38,41.62,67.85,24.62,168.02,Synthetic data for visualization practice
+AP_District_05,Arunachal Pradesh,2016,849309,62.72,37.28,64.21,17.32,408.23,Synthetic data for visualization practice
+AP_District_05,Arunachal Pradesh,2021,883838,47.76,52.24,60.07,28.21,178.41,Synthetic data for visualization practice
+AP_District_06,Arunachal Pradesh,2011,2154854,50.42,49.58,75.91,21.84,1141.03,Synthetic data for visualization practice
+AP_District_06,Arunachal Pradesh,2016,2318944,50.55,49.45,74.23,22.07,2104.6,Synthetic data for visualization practice
+AP_District_06,Arunachal Pradesh,2021,2350538,64.98,35.02,72.03,42.42,1345.67,Synthetic data for visualization practice
+AP_District_07,Arunachal Pradesh,2011,916057,57.91,42.09,71.39,14.1,209.06,Synthetic data for visualization practice
+AP_District_07,Arunachal Pradesh,2016,982445,61.41,38.59,67.74,20.49,310.62,Synthetic data for visualization practice
+AP_District_07,Arunachal Pradesh,2021,1053614,50.83,49.17,61.06,32.02,584.48,Synthetic data for visualization practice
+AP_District_08,Arunachal Pradesh,2011,1285685,67.62,32.38,76.27,5.0,1100.06,Synthetic data for visualization practice
+AP_District_08,Arunachal Pradesh,2016,1380380,50.06,49.94,71.02,9.12,1893.21,Synthetic data for visualization practice
+AP_District_08,Arunachal Pradesh,2021,1440401,50.71,49.29,73.41,30.59,288.67,Synthetic data for visualization practice
+AP_District_09,Arunachal Pradesh,2011,701396,48.56,51.44,62.02,10.45,252.89,Synthetic data for visualization practice
+AP_District_09,Arunachal Pradesh,2016,736314,72.99,27.01,65.88,14.79,263.85,Synthetic data for visualization practice
+AP_District_09,Arunachal Pradesh,2021,796550,55.13,44.87,80.87,22.94,367.35,Synthetic data for visualization practice
+AP_District_10,Arunachal Pradesh,2011,2489326,29.6,70.4,75.53,23.28,3769.15,Synthetic data for visualization practice
+AP_District_10,Arunachal Pradesh,2016,2643472,51.97,48.03,81.29,19.66,4651.59,Synthetic data for visualization practice
+AP_District_10,Arunachal Pradesh,2021,2945716,61.93,38.07,68.61,35.18,3354.97,Synthetic data for visualization practice
+AP_District_11,Arunachal Pradesh,2011,1012848,31.91,68.09,59.21,19.43,307.75,Synthetic data for visualization practice
+AP_District_11,Arunachal Pradesh,2016,1063025,30.37,69.63,82.36,39.23,417.7,Synthetic data for visualization practice
+AP_District_11,Arunachal Pradesh,2021,1209947,58.39,41.61,64.41,22.58,283.11,Synthetic data for visualization practice
+AP_District_12,Arunachal Pradesh,2011,2563490,48.18,51.82,81.97,31.39,1058.74,Synthetic data for visualization practice
+AP_District_12,Arunachal Pradesh,2016,2787388,47.47,52.53,72.63,30.83,675.92,Synthetic data for visualization practice
+AP_District_12,Arunachal Pradesh,2021,3043256,56.52,43.48,92.94,24.55,6653.01,Synthetic data for visualization practice
+AP_District_13,Arunachal Pradesh,2011,1567483,28.07,71.93,69.84,19.95,1974.37,Synthetic data for visualization practice
+AP_District_13,Arunachal Pradesh,2016,1662385,23.99,76.01,68.87,23.95,1053.11,Synthetic data for visualization practice
+AP_District_13,Arunachal Pradesh,2021,1790098,53.72,46.28,64.94,22.09,544.14,Synthetic data for visualization practice
+AP_District_14,Arunachal Pradesh,2011,670504,59.02,40.98,74.35,20.67,351.79,Synthetic data for visualization practice
+AP_District_14,Arunachal Pradesh,2016,709313,50.87,49.13,69.49,18.62,202.46,Synthetic data for visualization practice
+AP_District_14,Arunachal Pradesh,2021,790847,44.71,55.29,66.89,17.69,399.65,Synthetic data for visualization practice
+AP_District_15,Arunachal Pradesh,2011,1063102,68.1,31.9,73.77,34.48,285.49,Synthetic data for visualization practice
+AP_District_15,Arunachal Pradesh,2016,1109958,83.24,16.76,71.13,22.5,250.63,Synthetic data for visualization practice
+AP_District_15,Arunachal Pradesh,2021,1222823,55.04,44.96,66.17,26.7,1645.39,Synthetic data for visualization practice
+AP_District_16,Arunachal Pradesh,2011,2959220,61.21,38.79,70.3,26.53,608.78,Synthetic data for visualization practice
+AP_District_16,Arunachal Pradesh,2016,3198195,48.06,51.94,96.0,23.25,764.41,Synthetic data for visualization practice
+AP_District_16,Arunachal Pradesh,2021,3488907,74.58,25.42,68.85,15.67,1232.85,Synthetic data for visualization practice
+AP_District_17,Arunachal Pradesh,2011,2016793,55.3,44.7,73.43,23.86,3148.27,Synthetic data for visualization practice
+AP_District_17,Arunachal Pradesh,2016,2194649,71.42,28.58,72.51,15.47,561.11,Synthetic data for visualization practice
+AP_District_17,Arunachal Pradesh,2021,2276259,28.2,71.8,55.97,29.35,612.16,Synthetic data for visualization practice
+AP_District_18,Arunachal Pradesh,2011,1357860,56.51,43.49,68.4,19.91,1282.3,Synthetic data for visualization practice
+AP_District_18,Arunachal Pradesh,2016,1475043,38.39,61.61,69.29,20.84,389.86,Synthetic data for visualization practice
+AP_District_18,Arunachal Pradesh,2021,1536774,48.74,51.26,68.2,24.26,449.28,Synthetic data for visualization practice
+AP_District_19,Arunachal Pradesh,2011,2474845,34.04,65.96,69.21,22.48,1862.45,Synthetic data for visualization practice
+AP_District_19,Arunachal Pradesh,2016,2646138,57.73,42.27,65.18,10.38,737.06,Synthetic data for visualization practice
+AP_District_19,Arunachal Pradesh,2021,2876810,72.25,27.75,72.26,24.36,734.86,Synthetic data for visualization practice
+AP_District_20,Arunachal Pradesh,2011,293999,60.43,39.57,61.77,20.99,264.77,Synthetic data for visualization practice
+AP_District_20,Arunachal Pradesh,2016,312904,54.2,45.8,61.9,23.88,146.77,Synthetic data for visualization practice
+AP_District_20,Arunachal Pradesh,2021,328626,71.0,29.0,76.13,28.88,71.36,Synthetic data for visualization practice
+AP_District_21,Arunachal Pradesh,2011,2599725,36.72,63.28,67.25,29.21,607.21,Synthetic data for visualization practice
+AP_District_21,Arunachal Pradesh,2016,2777697,65.13,34.87,53.25,34.71,1204.4,Synthetic data for visualization practice
+AP_District_21,Arunachal Pradesh,2021,2844454,24.5,75.5,74.31,17.49,916.39,Synthetic data for visualization practice
+AP_District_22,Arunachal Pradesh,2011,1585802,60.49,39.51,62.47,21.54,474.44,Synthetic data for visualization practice
+AP_District_22,Arunachal Pradesh,2016,1707560,69.84,30.16,73.35,11.79,616.43,Synthetic data for visualization practice
+AP_District_22,Arunachal Pradesh,2021,1845147,79.69,20.31,45.23,22.51,452.18,Synthetic data for visualization practice
+AP_District_23,Arunachal Pradesh,2011,1689711,51.0,49.0,76.97,12.81,382.21,Synthetic data for visualization practice
+AP_District_23,Arunachal Pradesh,2016,1802728,40.97,59.03,82.12,9.64,760.48,Synthetic data for visualization practice
+AP_District_23,Arunachal Pradesh,2021,2007543,87.16,12.84,65.83,5.0,3142.81,Synthetic data for visualization practice
+AP_District_24,Arunachal Pradesh,2011,1363662,66.76,33.24,92.49,33.26,301.32,Synthetic data for visualization practice
+AP_District_24,Arunachal Pradesh,2016,1485395,79.36,20.64,68.68,16.73,327.37,Synthetic data for visualization practice
+AP_District_24,Arunachal Pradesh,2021,1505012,48.02,51.98,69.9,27.85,1182.34,Synthetic data for visualization practice
+AP_District_25,Arunachal Pradesh,2011,697215,58.14,41.86,72.65,17.57,297.71,Synthetic data for visualization practice
+AP_District_25,Arunachal Pradesh,2016,753896,75.86,24.14,64.98,22.71,596.76,Synthetic data for visualization practice
+AP_District_25,Arunachal Pradesh,2021,800075,54.77,45.23,71.66,11.51,287.17,Synthetic data for visualization practice
+AP_District_26,Arunachal Pradesh,2011,398522,63.33,36.67,61.32,22.08,279.08,Synthetic data for visualization practice
+AP_District_26,Arunachal Pradesh,2016,422484,60.48,39.52,83.52,12.58,104.51,Synthetic data for visualization practice
+AP_District_26,Arunachal Pradesh,2021,460251,59.26,40.74,65.05,8.29,162.79,Synthetic data for visualization practice
+AP_District_27,Arunachal Pradesh,2011,2903032,61.04,38.96,73.95,25.24,629.83,Synthetic data for visualization practice
+AP_District_27,Arunachal Pradesh,2016,3165948,56.24,43.76,87.69,23.14,7683.85,Synthetic data for visualization practice
+AP_District_27,Arunachal Pradesh,2021,3348437,51.73,48.27,68.08,23.67,1276.86,Synthetic data for visualization practice
+AP_District_28,Arunachal Pradesh,2011,763318,43.14,56.86,72.97,26.67,169.98,Synthetic data for visualization practice
+AP_District_28,Arunachal Pradesh,2016,834444,63.86,36.14,73.08,14.05,906.48,Synthetic data for visualization practice
+AP_District_28,Arunachal Pradesh,2021,910089,70.68,29.32,71.48,5.0,1881.51,Synthetic data for visualization practice
+AP_District_29,Arunachal Pradesh,2011,2447118,43.93,56.07,70.86,18.12,1699.82,Synthetic data for visualization practice
+AP_District_29,Arunachal Pradesh,2016,2607848,51.33,48.67,65.41,12.97,632.0,Synthetic data for visualization practice
+AP_District_29,Arunachal Pradesh,2021,2770671,57.01,42.99,66.75,17.8,758.91,Synthetic data for visualization practice
+AP_District_30,Arunachal Pradesh,2011,1715580,55.13,44.87,74.12,15.72,1695.87,Synthetic data for visualization practice
+AP_District_30,Arunachal Pradesh,2016,1858030,30.06,69.94,71.94,14.39,434.33,Synthetic data for visualization practice
+AP_District_30,Arunachal Pradesh,2021,2006475,46.82,53.18,61.05,32.59,1454.24,Synthetic data for visualization practice
+A_District_01,Assam,2011,648003,63.9,36.1,69.44,34.0,181.55,Synthetic data for visualization practice
+A_District_01,Assam,2016,696485,39.67,60.33,76.42,11.79,159.87,Synthetic data for visualization practice
+A_District_01,Assam,2021,748043,42.63,57.37,79.24,39.93,219.61,Synthetic data for visualization practice
+A_District_02,Assam,2011,2247216,48.52,51.48,72.77,9.94,5609.98,Synthetic data for visualization practice
+A_District_02,Assam,2016,2368578,81.98,18.02,55.84,19.75,511.83,Synthetic data for visualization practice
+A_District_02,Assam,2021,2545855,52.43,47.57,64.5,14.54,672.42,Synthetic data for visualization practice
+A_District_03,Assam,2011,1349857,56.77,43.23,64.91,18.16,370.88,Synthetic data for visualization practice
+A_District_03,Assam,2016,1440383,47.07,52.93,62.44,22.69,1069.8,Synthetic data for visualization practice
+A_District_03,Assam,2021,1499661,45.85,54.15,70.89,5.59,543.52,Synthetic data for visualization practice
+A_District_04,Assam,2011,406612,41.0,59.0,65.23,18.72,138.46,Synthetic data for visualization practice
+A_District_04,Assam,2016,443210,41.08,58.92,67.34,18.06,120.33,Synthetic data for visualization practice
+A_District_04,Assam,2021,440833,56.39,43.61,76.83,17.23,148.38,Synthetic data for visualization practice
+A_District_05,Assam,2011,796797,51.56,48.44,83.09,18.6,275.38,Synthetic data for visualization practice
+A_District_05,Assam,2016,864923,43.52,56.48,77.94,15.01,1106.38,Synthetic data for visualization practice
+A_District_05,Assam,2021,910752,41.9,58.1,71.36,17.61,690.89,Synthetic data for visualization practice
+A_District_06,Assam,2011,1238660,49.44,50.56,76.8,22.2,376.33,Synthetic data for visualization practice
+A_District_06,Assam,2016,1321662,42.14,57.86,75.02,19.69,738.81,Synthetic data for visualization practice
+A_District_06,Assam,2021,1424242,56.49,43.51,69.95,32.72,371.65,Synthetic data for visualization practice
+A_District_07,Assam,2011,674262,58.17,41.83,66.71,14.62,136.1,Synthetic data for visualization practice
+A_District_07,Assam,2016,717961,51.68,48.32,75.02,22.46,464.06,Synthetic data for visualization practice
+A_District_07,Assam,2021,775399,60.66,39.34,65.46,5.0,461.13,Synthetic data for visualization practice
+A_District_08,Assam,2011,2831175,45.16,54.84,79.12,31.59,734.48,Synthetic data for visualization practice
+A_District_08,Assam,2016,3040444,29.26,70.74,65.55,29.26,1117.96,Synthetic data for visualization practice
+A_District_08,Assam,2021,3308636,57.0,43.0,91.73,18.56,1588.37,Synthetic data for visualization practice
+A_District_09,Assam,2011,2630986,36.63,63.37,73.66,18.85,1192.51,Synthetic data for visualization practice
+A_District_09,Assam,2016,2839604,60.68,39.32,82.98,16.64,2120.94,Synthetic data for visualization practice
+A_District_09,Assam,2021,3069931,54.42,45.58,70.33,14.33,713.79,Synthetic data for visualization practice
+A_District_10,Assam,2011,1962864,76.39,23.61,72.11,27.19,1738.71,Synthetic data for visualization practice
+A_District_10,Assam,2016,2124406,60.51,39.49,89.35,24.01,431.29,Synthetic data for visualization practice
+A_District_10,Assam,2021,2282963,59.61,40.39,73.68,26.38,483.41,Synthetic data for visualization practice
+A_District_11,Assam,2011,2239024,52.24,47.76,68.48,32.37,1154.18,Synthetic data for visualization practice
+A_District_11,Assam,2016,2415478,66.94,33.06,59.22,6.58,696.88,Synthetic data for visualization practice
+A_District_11,Assam,2021,2427025,62.09,37.91,68.02,10.92,803.8,Synthetic data for visualization practice
+A_District_12,Assam,2011,1826376,35.91,64.09,74.76,18.3,404.37,Synthetic data for visualization practice
+A_District_12,Assam,2016,1913405,60.8,39.2,76.5,19.25,1886.81,Synthetic data for visualization practice
+A_District_12,Assam,2021,2132313,18.57,81.43,77.82,23.2,829.02,Synthetic data for visualization practice
+A_District_13,Assam,2011,660925,38.63,61.37,78.7,10.76,348.54,Synthetic data for visualization practice
+A_District_13,Assam,2016,707031,45.56,54.44,63.64,29.25,993.01,Synthetic data for visualization practice
+A_District_13,Assam,2021,766807,67.73,32.27,69.92,20.36,164.96,Synthetic data for visualization practice
+A_District_14,Assam,2011,743966,47.08,52.92,68.1,26.8,894.07,Synthetic data for visualization practice
+A_District_14,Assam,2016,799712,81.91,18.09,65.65,7.3,431.48,Synthetic data for visualization practice
+A_District_14,Assam,2021,808469,50.89,49.11,56.07,14.81,211.34,Synthetic data for visualization practice
+A_District_15,Assam,2011,224808,56.35,43.65,83.16,27.42,47.88,Synthetic data for visualization practice
+A_District_15,Assam,2016,237345,56.68,43.32,71.12,21.82,60.03,Synthetic data for visualization practice
+A_District_15,Assam,2021,256813,52.26,47.74,82.66,16.37,73.75,Synthetic data for visualization practice
+A_District_16,Assam,2011,1015973,38.04,61.96,56.49,19.24,511.12,Synthetic data for visualization practice
+A_District_16,Assam,2016,1070646,57.68,42.32,52.83,25.51,387.8,Synthetic data for visualization practice
+A_District_16,Assam,2021,1116993,57.7,42.3,73.53,13.52,500.45,Synthetic data for visualization practice
+A_District_17,Assam,2011,1860584,41.99,58.01,70.4,28.84,2205.83,Synthetic data for visualization practice
+A_District_17,Assam,2016,1948231,82.15,17.85,77.21,16.58,575.46,Synthetic data for visualization practice
+A_District_17,Assam,2021,2209797,46.49,53.51,85.71,10.73,553.7,Synthetic data for visualization practice
+A_District_18,Assam,2011,836588,65.28,34.72,60.02,11.75,226.75,Synthetic data for visualization practice
+A_District_18,Assam,2016,909385,58.39,41.61,60.55,15.02,212.39,Synthetic data for visualization practice
+A_District_18,Assam,2021,913097,84.77,15.23,63.6,14.18,465.07,Synthetic data for visualization practice
+A_District_19,Assam,2011,888433,41.56,58.44,68.73,15.67,218.26,Synthetic data for visualization practice
+A_District_19,Assam,2016,935316,63.26,36.74,71.16,16.68,224.85,Synthetic data for visualization practice
+A_District_19,Assam,2021,1017384,65.19,34.81,67.81,31.71,1027.76,Synthetic data for visualization practice
+A_District_20,Assam,2011,2750373,59.44,40.56,70.41,14.36,1676.85,Synthetic data for visualization practice
+A_District_20,Assam,2016,2962263,47.38,52.62,75.96,13.34,1542.58,Synthetic data for visualization practice
+A_District_20,Assam,2021,2983100,36.97,63.03,69.98,29.45,788.76,Synthetic data for visualization practice
+A_District_21,Assam,2011,1983524,87.0,13.0,65.95,25.96,497.56,Synthetic data for visualization practice
+A_District_21,Assam,2016,2145065,57.42,42.58,67.97,19.14,800.72,Synthetic data for visualization practice
+A_District_21,Assam,2021,2148602,68.49,31.51,72.52,30.72,723.6,Synthetic data for visualization practice
+A_District_22,Assam,2011,1827430,45.58,54.42,67.62,10.24,1699.9,Synthetic data for visualization practice
+A_District_22,Assam,2016,1962439,80.73,19.27,76.75,15.08,411.95,Synthetic data for visualization practice
+A_District_22,Assam,2021,2037274,67.18,32.82,70.01,26.34,1256.34,Synthetic data for visualization practice
+A_District_23,Assam,2011,2645214,79.06,20.94,61.99,28.35,932.02,Synthetic data for visualization practice
+A_District_23,Assam,2016,2779082,47.01,52.99,69.83,24.04,812.16,Synthetic data for visualization practice
+A_District_23,Assam,2021,3112026,76.12,23.88,74.99,35.71,3052.04,Synthetic data for visualization practice
+A_District_24,Assam,2011,763082,61.43,38.57,67.06,23.45,463.28,Synthetic data for visualization practice
+A_District_24,Assam,2016,799134,61.19,38.81,79.79,21.81,160.34,Synthetic data for visualization practice
+A_District_24,Assam,2021,874020,50.54,49.46,64.59,13.01,713.08,Synthetic data for visualization practice
+A_District_25,Assam,2011,1516230,44.77,55.23,76.77,38.24,413.24,Synthetic data for visualization practice
+A_District_25,Assam,2016,1655407,49.34,50.66,72.94,25.41,2190.32,Synthetic data for visualization practice
+A_District_25,Assam,2021,1774515,67.82,32.18,81.81,22.54,1175.91,Synthetic data for visualization practice
+A_District_26,Assam,2011,1689727,33.38,66.62,72.68,24.04,478.14,Synthetic data for visualization practice
+A_District_26,Assam,2016,1771737,61.25,38.75,74.31,12.39,3460.5,Synthetic data for visualization practice
+A_District_26,Assam,2021,1975523,78.68,21.32,69.55,26.41,1609.12,Synthetic data for visualization practice
+A_District_27,Assam,2011,1704359,73.03,26.97,84.42,25.67,388.56,Synthetic data for visualization practice
+A_District_27,Assam,2016,1855975,86.86,13.14,78.91,32.72,411.81,Synthetic data for visualization practice
+A_District_27,Assam,2021,1930357,76.4,23.6,62.21,20.69,2036.57,Synthetic data for visualization practice
+A_District_28,Assam,2011,2013921,69.8,30.2,70.4,15.47,499.03,Synthetic data for visualization practice
+A_District_28,Assam,2016,2132416,80.77,19.23,59.04,26.45,445.21,Synthetic data for visualization practice
+A_District_28,Assam,2021,2213103,57.67,42.33,74.48,11.23,1202.74,Synthetic data for visualization practice
+A_District_29,Assam,2011,1744667,44.37,55.63,64.85,21.28,371.41,Synthetic data for visualization practice
+A_District_29,Assam,2016,1861407,79.34,20.66,65.74,23.54,628.79,Synthetic data for visualization practice
+A_District_29,Assam,2021,2069921,43.28,56.72,89.35,8.48,2433.38,Synthetic data for visualization practice
+A_District_30,Assam,2011,242584,63.29,36.71,84.01,28.86,82.62,Synthetic data for visualization practice
+A_District_30,Assam,2016,259701,83.01,16.99,64.01,38.95,155.64,Synthetic data for visualization practice
+A_District_30,Assam,2021,271256,41.6,58.4,69.99,6.36,77.22,Synthetic data for visualization practice
+B_District_01,Bihar,2011,347988,66.22,33.78,70.03,16.91,213.74,Synthetic data for visualization practice
+B_District_01,Bihar,2016,371494,56.1,43.9,65.69,23.01,373.78,Synthetic data for visualization practice
+B_District_01,Bihar,2021,385919,50.67,49.33,77.21,26.58,238.79,Synthetic data for visualization practice
+B_District_02,Bihar,2011,1437402,40.3,59.7,63.46,19.99,445.95,Synthetic data for visualization practice
+B_District_02,Bihar,2016,1555510,50.87,49.13,85.9,19.7,1172.51,Synthetic data for visualization practice
+B_District_02,Bihar,2021,1565301,39.82,60.18,70.5,20.01,371.55,Synthetic data for visualization practice
+B_District_03,Bihar,2011,1865099,61.96,38.04,67.84,17.38,1336.14,Synthetic data for visualization practice
+B_District_03,Bihar,2016,1948441,37.86,62.14,69.77,32.81,424.28,Synthetic data for visualization practice
+B_District_03,Bihar,2021,2026654,55.42,44.58,83.67,9.32,862.29,Synthetic data for visualization practice
+B_District_04,Bihar,2011,2560909,68.87,31.13,64.63,22.2,571.49,Synthetic data for visualization practice
+B_District_04,Bihar,2016,2712213,35.79,64.21,66.78,23.04,745.41,Synthetic data for visualization practice
+B_District_04,Bihar,2021,2997510,26.71,73.29,68.66,30.19,969.52,Synthetic data for visualization practice
+B_District_05,Bihar,2011,810572,58.65,41.35,64.55,35.0,164.1,Synthetic data for visualization practice
+B_District_05,Bihar,2016,854481,90.0,10.0,65.88,11.99,346.53,Synthetic data for visualization practice
+B_District_05,Bihar,2021,912237,89.68,10.32,69.47,15.12,285.49,Synthetic data for visualization practice
+B_District_06,Bihar,2011,1379851,69.96,30.04,67.63,6.99,535.81,Synthetic data for visualization practice
+B_District_06,Bihar,2016,1453440,65.33,34.67,72.59,36.95,1532.86,Synthetic data for visualization practice
+B_District_06,Bihar,2021,1513440,54.74,45.26,66.76,19.72,464.37,Synthetic data for visualization practice
+B_District_07,Bihar,2011,2544473,71.27,28.73,57.95,37.6,684.84,Synthetic data for visualization practice
+B_District_07,Bihar,2016,2776608,49.52,50.48,57.9,32.27,566.84,Synthetic data for visualization practice
+B_District_07,Bihar,2021,2775571,50.03,49.97,63.85,21.04,1283.11,Synthetic data for visualization practice
+B_District_08,Bihar,2011,451289,27.72,72.28,66.77,27.63,200.96,Synthetic data for visualization practice
+B_District_08,Bihar,2016,482622,41.04,58.96,66.51,33.27,100.1,Synthetic data for visualization practice
+B_District_08,Bihar,2021,505957,55.71,44.29,74.2,16.14,755.12,Synthetic data for visualization practice
+B_District_09,Bihar,2011,660563,59.97,40.03,76.12,39.38,1388.68,Synthetic data for visualization practice
+B_District_09,Bihar,2016,717484,72.45,27.55,70.17,38.1,144.33,Synthetic data for visualization practice
+B_District_09,Bihar,2021,747046,65.83,34.17,66.65,22.02,283.39,Synthetic data for visualization practice
+B_District_10,Bihar,2011,1943541,68.43,31.57,72.67,41.87,461.76,Synthetic data for visualization practice
+B_District_10,Bihar,2016,2057996,33.78,66.22,85.27,21.39,937.75,Synthetic data for visualization practice
+B_District_10,Bihar,2021,2219299,48.21,51.79,64.92,25.77,1029.74,Synthetic data for visualization practice
+B_District_11,Bihar,2011,2938794,48.61,51.39,58.87,9.63,767.74,Synthetic data for visualization practice
+B_District_11,Bihar,2016,3190643,75.1,24.9,65.93,22.08,1381.05,Synthetic data for visualization practice
+B_District_11,Bihar,2021,3213482,46.17,53.83,83.94,28.73,757.12,Synthetic data for visualization practice
+B_District_12,Bihar,2011,278997,66.24,33.76,66.86,22.64,223.44,Synthetic data for visualization practice
+B_District_12,Bihar,2016,298206,58.81,41.19,66.12,17.59,227.1,Synthetic data for visualization practice
+B_District_12,Bihar,2021,321248,53.28,46.72,79.35,10.96,94.25,Synthetic data for visualization practice
+B_District_13,Bihar,2011,1489274,50.94,49.06,86.82,26.42,1647.66,Synthetic data for visualization practice
+B_District_13,Bihar,2016,1565891,43.78,56.22,78.22,16.48,3622.51,Synthetic data for visualization practice
+B_District_13,Bihar,2021,1642409,55.05,44.95,66.89,20.21,339.76,Synthetic data for visualization practice
+B_District_14,Bihar,2011,2433420,57.63,42.37,57.45,29.94,612.5,Synthetic data for visualization practice
+B_District_14,Bihar,2016,2582616,66.47,33.53,74.95,31.32,1118.73,Synthetic data for visualization practice
+B_District_14,Bihar,2021,2752971,56.84,43.16,76.57,25.23,2044.3,Synthetic data for visualization practice
+B_District_15,Bihar,2011,1266498,45.38,54.62,71.55,15.92,705.83,Synthetic data for visualization practice
+B_District_15,Bihar,2016,1348783,31.76,68.24,89.87,16.75,312.96,Synthetic data for visualization practice
+B_District_15,Bihar,2021,1436868,54.25,45.75,58.49,22.04,709.15,Synthetic data for visualization practice
+B_District_16,Bihar,2011,2513893,59.11,40.89,61.66,14.34,2177.66,Synthetic data for visualization practice
+B_District_16,Bihar,2016,2639964,79.48,20.52,73.76,19.58,3159.54,Synthetic data for visualization practice
+B_District_16,Bihar,2021,2743070,55.78,44.22,76.17,15.1,2207.96,Synthetic data for visualization practice
+B_District_17,Bihar,2011,262300,55.03,44.97,84.75,37.31,588.38,Synthetic data for visualization practice
+B_District_17,Bihar,2016,278547,46.0,54.0,72.02,17.6,174.79,Synthetic data for visualization practice
+B_District_17,Bihar,2021,295904,48.92,51.08,70.29,20.52,103.18,Synthetic data for visualization practice
+B_District_18,Bihar,2011,1179539,66.43,33.57,56.06,34.59,537.78,Synthetic data for visualization practice
+B_District_18,Bihar,2016,1278767,65.88,34.12,65.63,14.69,397.86,Synthetic data for visualization practice
+B_District_18,Bihar,2021,1344395,65.49,34.51,66.75,26.86,970.63,Synthetic data for visualization practice
+B_District_19,Bihar,2011,2511666,52.44,47.56,64.54,16.75,664.5,Synthetic data for visualization practice
+B_District_19,Bihar,2016,2673544,70.86,29.14,66.76,18.28,695.32,Synthetic data for visualization practice
+B_District_19,Bihar,2021,2776297,72.85,27.15,77.56,11.62,2994.34,Synthetic data for visualization practice
+B_District_20,Bihar,2011,1822481,37.06,62.94,53.96,20.73,1027.75,Synthetic data for visualization practice
+B_District_20,Bihar,2016,1984771,68.13,31.87,58.02,22.46,1910.23,Synthetic data for visualization practice
+B_District_20,Bihar,2021,2127921,51.82,48.18,66.06,5.0,584.84,Synthetic data for visualization practice
+B_District_21,Bihar,2011,379651,62.1,37.9,67.97,18.65,184.16,Synthetic data for visualization practice
+B_District_21,Bihar,2016,398331,43.0,57.0,62.13,31.05,144.92,Synthetic data for visualization practice
+B_District_21,Bihar,2021,437697,65.39,34.61,65.99,18.25,245.25,Synthetic data for visualization practice
+B_District_22,Bihar,2011,225278,58.32,41.68,65.2,28.84,47.32,Synthetic data for visualization practice
+B_District_22,Bihar,2016,240660,30.9,69.1,71.07,12.58,576.97,Synthetic data for visualization practice
+B_District_22,Bihar,2021,269204,31.89,68.11,82.7,24.95,59.06,Synthetic data for visualization practice
+B_District_23,Bihar,2011,734733,58.0,42.0,68.91,34.37,1630.02,Synthetic data for visualization practice
+B_District_23,Bihar,2016,774385,34.17,65.83,68.75,23.42,226.0,Synthetic data for visualization practice
+B_District_23,Bihar,2021,848981,59.9,40.1,85.63,23.16,261.0,Synthetic data for visualization practice
+B_District_24,Bihar,2011,2907511,71.27,28.73,66.51,20.34,1562.49,Synthetic data for visualization practice
+B_District_24,Bihar,2016,3112761,66.89,33.11,73.13,29.01,2583.01,Synthetic data for visualization practice
+B_District_24,Bihar,2021,3242514,70.24,29.76,78.1,23.07,5511.25,Synthetic data for visualization practice
+B_District_25,Bihar,2011,395109,59.51,40.49,60.03,25.8,126.86,Synthetic data for visualization practice
+B_District_25,Bihar,2016,430025,55.6,44.4,65.42,22.66,269.17,Synthetic data for visualization practice
+B_District_25,Bihar,2021,447418,63.52,36.48,65.12,40.3,208.23,Synthetic data for visualization practice
+B_District_26,Bihar,2011,734180,87.56,12.44,61.46,14.13,787.23,Synthetic data for visualization practice
+B_District_26,Bihar,2016,767685,34.54,65.46,79.68,18.68,178.52,Synthetic data for visualization practice
+B_District_26,Bihar,2021,862871,59.12,40.88,93.56,8.2,227.25,Synthetic data for visualization practice
+B_District_27,Bihar,2011,2670963,81.97,18.03,83.6,15.65,1935.58,Synthetic data for visualization practice
+B_District_27,Bihar,2016,2791200,43.25,56.75,85.43,20.05,5476.55,Synthetic data for visualization practice
+B_District_27,Bihar,2021,2979808,30.05,69.95,72.47,13.23,1320.91,Synthetic data for visualization practice
+B_District_28,Bihar,2011,2687862,45.43,54.57,74.03,23.77,976.66,Synthetic data for visualization practice
+B_District_28,Bihar,2016,2802136,41.97,58.03,78.13,20.35,2081.4,Synthetic data for visualization practice
+B_District_28,Bihar,2021,3132504,51.38,48.62,88.84,21.49,1266.25,Synthetic data for visualization practice
+B_District_29,Bihar,2011,1960290,59.26,40.74,66.55,32.25,456.23,Synthetic data for visualization practice
+B_District_29,Bihar,2016,2090619,39.26,60.74,69.36,33.2,528.29,Synthetic data for visualization practice
+B_District_29,Bihar,2021,2145294,50.96,49.04,74.31,37.24,1560.52,Synthetic data for visualization practice
+B_District_30,Bihar,2011,804642,75.56,24.44,57.26,15.64,1079.55,Synthetic data for visualization practice
+B_District_30,Bihar,2016,857845,63.96,36.04,76.74,38.12,655.29,Synthetic data for visualization practice
+B_District_30,Bihar,2021,943422,75.39,24.61,76.85,18.32,636.96,Synthetic data for visualization practice
+C_District_01,Chhattisgarh,2011,2766008,57.63,42.37,52.78,20.24,1272.34,Synthetic data for visualization practice
+C_District_01,Chhattisgarh,2016,2993039,79.4,20.6,73.67,14.72,1513.19,Synthetic data for visualization practice
+C_District_01,Chhattisgarh,2021,3297567,41.96,58.04,79.8,33.18,684.13,Synthetic data for visualization practice
+C_District_02,Chhattisgarh,2011,1023616,74.39,25.61,81.17,5.23,380.07,Synthetic data for visualization practice
+C_District_02,Chhattisgarh,2016,1082815,62.85,37.15,75.72,5.0,271.95,Synthetic data for visualization practice
+C_District_02,Chhattisgarh,2021,1120113,57.22,42.78,73.32,19.08,235.22,Synthetic data for visualization practice
+C_District_03,Chhattisgarh,2011,2823370,64.23,35.77,78.27,22.69,1343.07,Synthetic data for visualization practice
+C_District_03,Chhattisgarh,2016,3016870,33.34,66.66,76.29,23.01,742.7,Synthetic data for visualization practice
+C_District_03,Chhattisgarh,2021,3239313,81.86,18.14,78.39,19.7,921.07,Synthetic data for visualization practice
+C_District_04,Chhattisgarh,2011,536853,38.47,61.53,92.35,17.09,350.99,Synthetic data for visualization practice
+C_District_04,Chhattisgarh,2016,576944,78.71,21.29,65.39,22.15,235.28,Synthetic data for visualization practice
+C_District_04,Chhattisgarh,2021,616490,71.51,28.49,67.61,22.68,129.3,Synthetic data for visualization practice
+C_District_05,Chhattisgarh,2011,1285816,51.71,48.29,73.85,22.68,291.32,Synthetic data for visualization practice
+C_District_05,Chhattisgarh,2016,1361272,57.17,42.83,71.08,34.58,1075.57,Synthetic data for visualization practice
+C_District_05,Chhattisgarh,2021,1503730,43.55,56.45,64.58,37.79,629.46,Synthetic data for visualization practice
+C_District_06,Chhattisgarh,2011,1166663,60.41,39.59,69.2,13.98,276.84,Synthetic data for visualization practice
+C_District_06,Chhattisgarh,2016,1232707,44.36,55.64,83.95,21.93,357.03,Synthetic data for visualization practice
+C_District_06,Chhattisgarh,2021,1280338,65.02,34.98,68.9,29.22,611.1,Synthetic data for visualization practice
+C_District_07,Chhattisgarh,2011,2361185,54.28,45.72,65.76,12.18,1201.8,Synthetic data for visualization practice
+C_District_07,Chhattisgarh,2016,2469707,63.82,36.18,63.35,9.61,581.96,Synthetic data for visualization practice
+C_District_07,Chhattisgarh,2021,2697735,49.82,50.18,70.84,30.26,712.7,Synthetic data for visualization practice
+C_District_08,Chhattisgarh,2011,1220136,30.63,69.37,64.3,27.59,1641.52,Synthetic data for visualization practice
+C_District_08,Chhattisgarh,2016,1282560,58.11,41.89,86.21,30.34,334.06,Synthetic data for visualization practice
+C_District_08,Chhattisgarh,2021,1444527,53.54,46.46,69.25,9.95,294.96,Synthetic data for visualization practice
+C_District_09,Chhattisgarh,2011,1558240,74.57,25.43,66.33,7.29,882.31,Synthetic data for visualization practice
+C_District_09,Chhattisgarh,2016,1647935,52.06,47.94,73.86,25.08,2425.89,Synthetic data for visualization practice
+C_District_09,Chhattisgarh,2021,1856680,63.25,36.75,64.88,24.35,373.79,Synthetic data for visualization practice
+C_District_10,Chhattisgarh,2011,644882,33.96,66.04,68.88,11.45,159.13,Synthetic data for visualization practice
+C_District_10,Chhattisgarh,2016,683718,47.07,52.93,82.3,23.82,645.29,Synthetic data for visualization practice
+C_District_10,Chhattisgarh,2021,725628,73.3,26.7,80.18,12.89,150.8,Synthetic data for visualization practice
+C_District_11,Chhattisgarh,2011,702078,39.24,60.76,78.74,14.87,161.59,Synthetic data for visualization practice
+C_District_11,Chhattisgarh,2016,740837,38.02,61.98,67.24,17.63,221.75,Synthetic data for visualization practice
+C_District_11,Chhattisgarh,2021,800653,37.82,62.18,59.45,26.39,233.61,Synthetic data for visualization practice
+C_District_12,Chhattisgarh,2011,2099508,59.06,40.94,66.43,23.47,2154.62,Synthetic data for visualization practice
+C_District_12,Chhattisgarh,2016,2272473,90.0,10.0,82.57,19.69,1148.0,Synthetic data for visualization practice
+C_District_12,Chhattisgarh,2021,2417869,71.03,28.97,79.08,17.65,1697.01,Synthetic data for visualization practice
+C_District_13,Chhattisgarh,2011,479225,53.66,46.34,78.22,22.69,270.06,Synthetic data for visualization practice
+C_District_13,Chhattisgarh,2016,521880,67.43,32.57,53.19,12.13,118.38,Synthetic data for visualization practice
+C_District_13,Chhattisgarh,2021,525691,71.19,28.81,88.92,20.69,143.72,Synthetic data for visualization practice
+C_District_14,Chhattisgarh,2011,742789,67.95,32.05,67.05,45.0,1206.46,Synthetic data for visualization practice
+C_District_14,Chhattisgarh,2016,796831,66.23,33.77,62.75,23.86,318.46,Synthetic data for visualization practice
+C_District_14,Chhattisgarh,2021,817620,67.57,32.43,79.34,26.77,211.94,Synthetic data for visualization practice
+C_District_15,Chhattisgarh,2011,1560658,57.64,42.36,55.12,23.35,1558.98,Synthetic data for visualization practice
+C_District_15,Chhattisgarh,2016,1684508,50.0,50.0,69.19,37.44,415.4,Synthetic data for visualization practice
+C_District_15,Chhattisgarh,2021,1797561,53.23,46.77,55.13,27.38,442.02,Synthetic data for visualization practice
+C_District_16,Chhattisgarh,2011,786340,39.21,60.79,72.65,30.52,627.48,Synthetic data for visualization practice
+C_District_16,Chhattisgarh,2016,857761,80.92,19.08,53.59,12.45,267.54,Synthetic data for visualization practice
+C_District_16,Chhattisgarh,2021,899654,44.6,55.4,67.6,20.27,500.02,Synthetic data for visualization practice
+C_District_17,Chhattisgarh,2011,2331191,55.02,44.98,82.79,21.8,500.58,Synthetic data for visualization practice
+C_District_17,Chhattisgarh,2016,2451109,69.29,30.71,65.38,12.82,923.31,Synthetic data for visualization practice
+C_District_17,Chhattisgarh,2021,2608655,40.58,59.42,69.85,12.33,2404.22,Synthetic data for visualization practice
+C_District_18,Chhattisgarh,2011,1812611,88.33,11.67,56.66,23.29,657.62,Synthetic data for visualization practice
+C_District_18,Chhattisgarh,2016,1916742,56.43,43.57,78.93,22.77,537.46,Synthetic data for visualization practice
+C_District_18,Chhattisgarh,2021,1984615,42.37,57.63,85.28,29.3,1745.62,Synthetic data for visualization practice
+C_District_19,Chhattisgarh,2011,2055281,66.93,33.07,81.58,16.73,2451.73,Synthetic data for visualization practice
+C_District_19,Chhattisgarh,2016,2194723,22.11,77.89,75.43,16.24,864.97,Synthetic data for visualization practice
+C_District_19,Chhattisgarh,2021,2443159,46.03,53.97,85.52,29.52,497.86,Synthetic data for visualization practice
+C_District_20,Chhattisgarh,2011,1158404,62.75,37.25,68.72,19.32,741.5,Synthetic data for visualization practice
+C_District_20,Chhattisgarh,2016,1242608,21.51,78.49,74.15,6.09,351.43,Synthetic data for visualization practice
+C_District_20,Chhattisgarh,2021,1350702,30.81,69.19,56.06,8.81,387.61,Synthetic data for visualization practice
+C_District_21,Chhattisgarh,2011,2361683,35.26,64.74,66.1,25.01,607.62,Synthetic data for visualization practice
+C_District_21,Chhattisgarh,2016,2560975,69.48,30.52,69.73,7.18,539.21,Synthetic data for visualization practice
+C_District_21,Chhattisgarh,2021,2723113,43.35,56.65,62.51,22.56,739.95,Synthetic data for visualization practice
+C_District_22,Chhattisgarh,2011,231954,54.96,45.04,60.19,31.95,197.36,Synthetic data for visualization practice
+C_District_22,Chhattisgarh,2016,248365,75.4,24.6,68.15,19.58,300.0,Synthetic data for visualization practice
+C_District_22,Chhattisgarh,2021,258447,21.71,78.29,76.09,17.35,200.94,Synthetic data for visualization practice
+C_District_23,Chhattisgarh,2011,333171,59.03,40.97,73.9,24.91,97.54,Synthetic data for visualization practice
+C_District_23,Chhattisgarh,2016,357539,61.21,38.79,72.21,31.18,177.26,Synthetic data for visualization practice
+C_District_23,Chhattisgarh,2021,396334,58.09,41.91,75.89,24.05,89.45,Synthetic data for visualization practice
+C_District_24,Chhattisgarh,2011,1365329,43.76,56.24,82.39,20.99,435.68,Synthetic data for visualization practice
+C_District_24,Chhattisgarh,2016,1449231,46.8,53.2,77.2,22.73,340.07,Synthetic data for visualization practice
+C_District_24,Chhattisgarh,2021,1585016,71.35,28.65,86.27,23.9,481.67,Synthetic data for visualization practice
+C_District_25,Chhattisgarh,2011,2798183,56.95,43.05,70.42,10.31,841.04,Synthetic data for visualization practice
+C_District_25,Chhattisgarh,2016,2918905,51.36,48.64,75.27,32.18,1571.88,Synthetic data for visualization practice
+C_District_25,Chhattisgarh,2021,3270364,43.52,56.48,64.53,17.24,6518.84,Synthetic data for visualization practice
+C_District_26,Chhattisgarh,2011,1420631,59.81,40.19,62.49,32.35,1737.55,Synthetic data for visualization practice
+C_District_26,Chhattisgarh,2016,1530661,73.36,26.64,74.94,20.75,315.77,Synthetic data for visualization practice
+C_District_26,Chhattisgarh,2021,1616783,63.18,36.82,73.69,19.3,324.39,Synthetic data for visualization practice
+C_District_27,Chhattisgarh,2011,281957,66.67,33.33,76.34,19.22,142.84,Synthetic data for visualization practice
+C_District_27,Chhattisgarh,2016,303129,57.45,42.55,70.76,35.47,509.48,Synthetic data for visualization practice
+C_District_27,Chhattisgarh,2021,318535,36.44,63.56,78.54,17.34,77.44,Synthetic data for visualization practice
+C_District_28,Chhattisgarh,2011,2746442,55.64,44.36,72.56,11.99,871.48,Synthetic data for visualization practice
+C_District_28,Chhattisgarh,2016,2961640,23.3,76.7,79.69,34.47,758.91,Synthetic data for visualization practice
+C_District_28,Chhattisgarh,2021,3036226,54.64,45.36,86.39,18.35,1149.47,Synthetic data for visualization practice
+C_District_29,Chhattisgarh,2011,1879952,63.02,36.98,67.36,24.63,1012.69,Synthetic data for visualization practice
+C_District_29,Chhattisgarh,2016,2006165,90.0,10.0,67.34,30.02,817.71,Synthetic data for visualization practice
+C_District_29,Chhattisgarh,2021,2126564,48.63,51.37,81.16,23.16,463.66,Synthetic data for visualization practice
+C_District_30,Chhattisgarh,2011,938157,64.84,35.16,74.59,21.49,333.35,Synthetic data for visualization practice
+C_District_30,Chhattisgarh,2016,989765,46.12,53.88,69.82,18.29,522.82,Synthetic data for visualization practice
+C_District_30,Chhattisgarh,2021,1088186,40.47,59.53,90.33,18.54,400.57,Synthetic data for visualization practice
+G_District_01,Goa,2011,212046,51.44,48.56,66.84,23.64,45.82,Synthetic data for visualization practice
+G_District_01,Goa,2016,230609,53.15,46.85,81.59,24.41,59.58,Synthetic data for visualization practice
+G_District_01,Goa,2021,238639,82.54,17.46,73.55,17.88,123.38,Synthetic data for visualization practice
+G_District_02,Goa,2011,1787245,47.99,52.01,71.02,17.56,379.61,Synthetic data for visualization practice
+G_District_02,Goa,2016,1898180,41.28,58.72,77.51,32.96,541.86,Synthetic data for visualization practice
+G_District_02,Goa,2021,1938157,26.42,73.58,58.73,17.29,648.82,Synthetic data for visualization practice
+G_District_03,Goa,2011,1730353,55.54,44.46,72.33,15.72,347.39,Synthetic data for visualization practice
+G_District_03,Goa,2016,1861088,56.7,43.3,68.38,25.52,510.6,Synthetic data for visualization practice
+G_District_03,Goa,2021,1986073,43.57,56.43,81.91,26.4,765.1,Synthetic data for visualization practice
+G_District_04,Goa,2011,1114287,52.19,47.81,80.42,29.64,310.73,Synthetic data for visualization practice
+G_District_04,Goa,2016,1211858,53.4,46.6,49.86,9.11,896.26,Synthetic data for visualization practice
+G_District_04,Goa,2021,1213689,67.21,32.79,60.21,17.99,254.98,Synthetic data for visualization practice
+G_District_05,Goa,2011,2576330,61.79,38.21,73.76,29.23,527.9,Synthetic data for visualization practice
+G_District_05,Goa,2016,2765759,29.56,70.44,69.91,21.84,2464.9,Synthetic data for visualization practice
+G_District_05,Goa,2021,3058336,72.11,27.89,72.12,14.64,716.77,Synthetic data for visualization practice
+G_District_06,Goa,2011,1437437,64.97,35.03,81.44,13.67,352.0,Synthetic data for visualization practice
+G_District_06,Goa,2016,1557697,57.77,42.23,70.43,18.08,1317.85,Synthetic data for visualization practice
+G_District_06,Goa,2021,1687791,52.3,47.7,82.02,9.89,368.46,Synthetic data for visualization practice
+G_District_07,Goa,2011,2876314,47.07,52.93,80.32,14.13,1346.99,Synthetic data for visualization practice
+G_District_07,Goa,2016,3001957,26.95,73.05,70.63,11.89,7445.8,Synthetic data for visualization practice
+G_District_07,Goa,2021,3291610,82.81,17.19,72.84,30.15,1977.79,Synthetic data for visualization practice
+G_District_08,Goa,2011,1870912,26.13,73.87,86.64,13.61,509.63,Synthetic data for visualization practice
+G_District_08,Goa,2016,2013235,40.36,59.64,74.81,39.06,456.24,Synthetic data for visualization practice
+G_District_08,Goa,2021,2231672,44.32,55.68,72.9,20.68,906.87,Synthetic data for visualization practice
+G_District_09,Goa,2011,1855920,61.88,38.12,70.39,22.3,1065.95,Synthetic data for visualization practice
+G_District_09,Goa,2016,1966776,69.67,30.33,65.25,21.53,663.16,Synthetic data for visualization practice
+G_District_09,Goa,2021,2084935,53.36,46.64,88.6,8.3,539.49,Synthetic data for visualization practice
+G_District_10,Goa,2011,2400286,59.32,40.68,63.34,10.6,778.73,Synthetic data for visualization practice
+G_District_10,Goa,2016,2584068,40.26,59.74,67.5,38.84,1411.16,Synthetic data for visualization practice
+G_District_10,Goa,2021,2745252,70.96,29.04,81.14,11.35,661.75,Synthetic data for visualization practice
+G_District_11,Goa,2011,1161310,43.58,56.42,67.56,25.36,646.58,Synthetic data for visualization practice
+G_District_11,Goa,2016,1259474,42.3,57.7,67.21,23.72,1908.1,Synthetic data for visualization practice
+G_District_11,Goa,2021,1323720,54.67,45.33,62.77,36.91,1199.05,Synthetic data for visualization practice
+G_District_12,Goa,2011,959299,55.45,44.55,72.77,10.0,304.29,Synthetic data for visualization practice
+G_District_12,Goa,2016,1046748,56.17,43.83,73.86,12.01,282.24,Synthetic data for visualization practice
+G_District_12,Goa,2021,1112236,81.1,18.9,66.41,27.37,501.73,Synthetic data for visualization practice
+G_District_13,Goa,2011,2983328,48.2,51.8,83.17,25.05,1400.3,Synthetic data for visualization practice
+G_District_13,Goa,2016,3214988,59.35,40.65,71.13,33.04,1196.86,Synthetic data for visualization practice
+G_District_13,Goa,2021,3291698,15.0,85.0,75.96,23.7,1530.05,Synthetic data for visualization practice
+G_District_14,Goa,2011,943565,58.91,41.09,78.1,19.86,1143.36,Synthetic data for visualization practice
+G_District_14,Goa,2016,993743,63.14,36.86,76.44,31.26,529.96,Synthetic data for visualization practice
+G_District_14,Goa,2021,1102493,69.85,30.15,73.57,37.34,226.99,Synthetic data for visualization practice
+G_District_15,Goa,2011,844673,23.47,76.53,77.74,16.43,194.2,Synthetic data for visualization practice
+G_District_15,Goa,2016,880022,43.09,56.91,69.6,16.29,519.14,Synthetic data for visualization practice
+G_District_15,Goa,2021,951692,43.73,56.27,74.43,25.13,493.58,Synthetic data for visualization practice
+G_District_16,Goa,2011,1418539,59.66,40.34,76.79,27.84,295.24,Synthetic data for visualization practice
+G_District_16,Goa,2016,1539304,69.96,30.04,96.0,45.0,489.08,Synthetic data for visualization practice
+G_District_16,Goa,2021,1691336,54.89,45.11,76.54,21.39,1393.63,Synthetic data for visualization practice
+G_District_17,Goa,2011,2843481,46.86,53.14,70.2,28.75,617.7,Synthetic data for visualization practice
+G_District_17,Goa,2016,3055446,63.55,36.45,70.21,30.93,666.51,Synthetic data for visualization practice
+G_District_17,Goa,2021,3094909,59.57,40.43,75.64,15.08,716.83,Synthetic data for visualization practice
+G_District_18,Goa,2011,1994769,45.58,54.42,85.39,5.0,549.86,Synthetic data for visualization practice
+G_District_18,Goa,2016,2086376,69.64,30.36,63.35,21.45,719.34,Synthetic data for visualization practice
+G_District_18,Goa,2021,2332759,82.45,17.55,71.03,38.88,787.37,Synthetic data for visualization practice
+G_District_19,Goa,2011,2913219,50.7,49.3,67.18,34.3,3772.56,Synthetic data for visualization practice
+G_District_19,Goa,2016,3105617,35.35,64.65,62.89,29.47,669.82,Synthetic data for visualization practice
+G_District_19,Goa,2021,3203903,46.77,53.23,78.45,12.96,792.39,Synthetic data for visualization practice
+G_District_20,Goa,2011,821034,50.88,49.12,75.58,22.82,643.98,Synthetic data for visualization practice
+G_District_20,Goa,2016,867790,64.22,35.78,81.24,24.57,188.15,Synthetic data for visualization practice
+G_District_20,Goa,2021,969323,38.51,61.49,71.01,29.13,249.52,Synthetic data for visualization practice
+G_District_21,Goa,2011,570219,30.49,69.51,74.55,18.93,714.16,Synthetic data for visualization practice
+G_District_21,Goa,2016,601324,44.36,55.64,76.61,22.45,174.53,Synthetic data for visualization practice
+G_District_21,Goa,2021,664042,58.07,41.93,77.68,33.33,153.75,Synthetic data for visualization practice
+G_District_22,Goa,2011,2903105,50.46,49.54,59.13,23.65,1529.31,Synthetic data for visualization practice
+G_District_22,Goa,2016,3139029,15.0,85.0,79.83,29.45,773.15,Synthetic data for visualization practice
+G_District_22,Goa,2021,3207374,64.42,35.58,65.83,32.17,1036.95,Synthetic data for visualization practice
+G_District_23,Goa,2011,1212776,42.62,57.38,74.73,32.48,814.21,Synthetic data for visualization practice
+G_District_23,Goa,2016,1282790,29.56,70.44,59.98,23.33,3055.86,Synthetic data for visualization practice
+G_District_23,Goa,2021,1373136,83.58,16.42,72.95,26.34,287.86,Synthetic data for visualization practice
+G_District_24,Goa,2011,1970792,90.0,10.0,63.54,17.15,682.57,Synthetic data for visualization practice
+G_District_24,Goa,2016,2113848,67.03,32.97,67.1,15.09,649.39,Synthetic data for visualization practice
+G_District_24,Goa,2021,2317178,76.16,23.84,71.46,26.09,503.25,Synthetic data for visualization practice
+G_District_25,Goa,2011,2840399,37.24,62.76,76.45,28.09,796.72,Synthetic data for visualization practice
+G_District_25,Goa,2016,2981468,53.08,46.92,85.97,29.14,2426.65,Synthetic data for visualization practice
+G_District_25,Goa,2021,3310957,53.12,46.88,75.49,28.2,3847.2,Synthetic data for visualization practice
+G_District_26,Goa,2011,2439564,35.51,64.49,71.03,19.33,773.74,Synthetic data for visualization practice
+G_District_26,Goa,2016,2650808,47.97,52.03,73.34,21.24,1275.48,Synthetic data for visualization practice
+G_District_26,Goa,2021,2666839,61.85,38.15,65.73,27.17,813.07,Synthetic data for visualization practice
+G_District_27,Goa,2011,1827924,48.04,51.96,70.4,28.43,779.04,Synthetic data for visualization practice
+G_District_27,Goa,2016,1937532,65.12,34.88,75.82,19.55,739.4,Synthetic data for visualization practice
+G_District_27,Goa,2021,2175255,44.5,55.5,48.95,13.93,667.78,Synthetic data for visualization practice
+G_District_28,Goa,2011,964407,49.35,50.65,75.59,6.37,495.28,Synthetic data for visualization practice
+G_District_28,Goa,2016,1026697,53.18,46.82,56.05,18.69,211.94,Synthetic data for visualization practice
+G_District_28,Goa,2021,1064749,33.73,66.27,93.31,11.97,1912.89,Synthetic data for visualization practice
+G_District_29,Goa,2011,2557467,48.22,51.78,77.73,32.32,1080.63,Synthetic data for visualization practice
+G_District_29,Goa,2016,2741606,62.18,37.82,76.57,23.92,1389.8,Synthetic data for visualization practice
+G_District_29,Goa,2021,2878173,56.47,43.53,70.37,30.56,659.0,Synthetic data for visualization practice
+G_District_30,Goa,2011,360518,54.9,45.1,74.3,16.74,76.85,Synthetic data for visualization practice
+G_District_30,Goa,2016,389840,48.69,51.31,80.12,22.15,156.47,Synthetic data for visualization practice
+G_District_30,Goa,2021,396621,58.55,41.45,80.64,28.65,249.1,Synthetic data for visualization practice
+G_District_01,Gujarat,2011,1608997,60.45,39.55,76.35,24.41,481.87,Synthetic data for visualization practice
+G_District_01,Gujarat,2016,1703032,44.89,55.11,94.31,28.1,710.9,Synthetic data for visualization practice
+G_District_01,Gujarat,2021,1792111,66.59,33.41,68.86,10.04,607.95,Synthetic data for visualization practice
+G_District_02,Gujarat,2011,2369446,28.68,71.32,58.96,26.29,707.26,Synthetic data for visualization practice
+G_District_02,Gujarat,2016,2531870,47.58,52.42,58.76,25.88,717.13,Synthetic data for visualization practice
+G_District_02,Gujarat,2021,2675303,60.2,39.8,69.69,16.36,1898.13,Synthetic data for visualization practice
+G_District_03,Gujarat,2011,1838030,47.24,52.76,62.66,22.1,1088.31,Synthetic data for visualization practice
+G_District_03,Gujarat,2016,1999474,79.57,20.43,78.34,21.14,1087.93,Synthetic data for visualization practice
+G_District_03,Gujarat,2021,2118939,55.68,44.32,83.67,14.82,5218.29,Synthetic data for visualization practice
+G_District_04,Gujarat,2011,2033209,59.63,40.37,68.68,8.35,467.86,Synthetic data for visualization practice
+G_District_04,Gujarat,2016,2194781,59.63,40.37,66.74,24.8,730.27,Synthetic data for visualization practice
+G_District_04,Gujarat,2021,2292027,40.89,59.11,59.28,5.16,2547.35,Synthetic data for visualization practice
+G_District_05,Gujarat,2011,1532088,70.32,29.68,63.12,26.28,373.33,Synthetic data for visualization practice
+G_District_05,Gujarat,2016,1664982,50.52,49.48,73.2,18.67,460.96,Synthetic data for visualization practice
+G_District_05,Gujarat,2021,1721363,76.75,23.25,52.64,18.5,1761.23,Synthetic data for visualization practice
+G_District_06,Gujarat,2011,532162,29.09,70.91,56.31,32.45,149.83,Synthetic data for visualization practice
+G_District_06,Gujarat,2016,571079,38.45,61.55,75.51,15.42,741.3,Synthetic data for visualization practice
+G_District_06,Gujarat,2021,609824,28.84,71.16,84.82,25.19,374.58,Synthetic data for visualization practice
+G_District_07,Gujarat,2011,2733670,63.87,36.13,82.32,17.33,1751.61,Synthetic data for visualization practice
+G_District_07,Gujarat,2016,2954725,46.75,53.25,71.14,17.33,1655.83,Synthetic data for visualization practice
+G_District_07,Gujarat,2021,3247090,63.58,36.42,74.8,20.37,5925.45,Synthetic data for visualization practice
+G_District_08,Gujarat,2011,1793978,44.95,55.05,76.89,26.7,2899.9,Synthetic data for visualization practice
+G_District_08,Gujarat,2016,1910799,52.26,47.74,67.03,34.2,1151.33,Synthetic data for visualization practice
+G_District_08,Gujarat,2021,2041493,41.01,58.99,78.65,17.11,1113.89,Synthetic data for visualization practice
+G_District_09,Gujarat,2011,2424274,17.45,82.55,70.58,23.0,1441.97,Synthetic data for visualization practice
+G_District_09,Gujarat,2016,2604096,27.85,72.15,46.52,14.2,567.74,Synthetic data for visualization practice
+G_District_09,Gujarat,2021,2652319,42.35,57.65,54.7,20.06,814.02,Synthetic data for visualization practice
+G_District_10,Gujarat,2011,443126,53.39,46.61,79.55,22.17,95.29,Synthetic data for visualization practice
+G_District_10,Gujarat,2016,483426,62.08,37.92,74.6,20.89,164.36,Synthetic data for visualization practice
+G_District_10,Gujarat,2021,509601,49.95,50.05,83.08,13.62,276.15,Synthetic data for visualization practice
+G_District_11,Gujarat,2011,1021662,62.63,37.37,66.15,22.27,215.14,Synthetic data for visualization practice
+G_District_11,Gujarat,2016,1110626,69.12,30.88,76.67,13.0,1318.15,Synthetic data for visualization practice
+G_District_11,Gujarat,2021,1172069,60.15,39.85,65.93,34.73,570.57,Synthetic data for visualization practice
+G_District_12,Gujarat,2011,1030019,44.17,55.83,69.95,19.35,210.4,Synthetic data for visualization practice
+G_District_12,Gujarat,2016,1104192,55.53,44.47,78.1,28.58,407.21,Synthetic data for visualization practice
+G_District_12,Gujarat,2021,1119632,63.91,36.09,76.39,15.77,1732.77,Synthetic data for visualization practice
+G_District_13,Gujarat,2011,273941,32.9,67.1,78.08,24.77,64.28,Synthetic data for visualization practice
+G_District_13,Gujarat,2016,287148,52.24,47.76,73.64,13.34,57.53,Synthetic data for visualization practice
+G_District_13,Gujarat,2021,320518,31.99,68.01,69.91,19.39,301.14,Synthetic data for visualization practice
+G_District_14,Gujarat,2011,1373310,78.98,21.02,57.6,29.01,910.19,Synthetic data for visualization practice
+G_District_14,Gujarat,2016,1445473,24.36,75.64,93.93,18.88,1942.39,Synthetic data for visualization practice
+G_District_14,Gujarat,2021,1502583,48.45,51.55,68.76,15.3,585.63,Synthetic data for visualization practice
+G_District_15,Gujarat,2011,1426558,63.06,36.94,63.93,19.37,424.0,Synthetic data for visualization practice
+G_District_15,Gujarat,2016,1518040,47.63,52.37,85.81,20.37,329.21,Synthetic data for visualization practice
+G_District_15,Gujarat,2021,1565928,61.82,38.18,62.7,25.42,558.27,Synthetic data for visualization practice
+G_District_16,Gujarat,2011,2031674,81.91,18.09,85.15,15.6,435.87,Synthetic data for visualization practice
+G_District_16,Gujarat,2016,2209022,33.61,66.39,84.28,18.25,583.37,Synthetic data for visualization practice
+G_District_16,Gujarat,2021,2422769,53.32,46.68,83.4,19.41,1402.67,Synthetic data for visualization practice
+G_District_17,Gujarat,2011,1413891,36.07,63.93,58.87,26.67,1330.48,Synthetic data for visualization practice
+G_District_17,Gujarat,2016,1516484,50.89,49.11,59.12,5.0,307.2,Synthetic data for visualization practice
+G_District_17,Gujarat,2021,1559706,57.05,42.95,74.51,10.55,611.47,Synthetic data for visualization practice
+G_District_18,Gujarat,2011,2485136,64.88,35.12,65.13,12.19,2165.35,Synthetic data for visualization practice
+G_District_18,Gujarat,2016,2669975,85.74,14.26,70.31,12.48,599.68,Synthetic data for visualization practice
+G_District_18,Gujarat,2021,2867788,35.79,64.21,75.62,31.67,2686.93,Synthetic data for visualization practice
+G_District_19,Gujarat,2011,800086,30.12,69.88,70.8,24.49,253.82,Synthetic data for visualization practice
+G_District_19,Gujarat,2016,837119,66.88,33.12,55.87,7.82,917.16,Synthetic data for visualization practice
+G_District_19,Gujarat,2021,955732,68.36,31.64,86.61,22.08,283.46,Synthetic data for visualization practice
+G_District_20,Gujarat,2011,2781716,60.25,39.75,70.23,20.12,1061.58,Synthetic data for visualization practice
+G_District_20,Gujarat,2016,2902712,74.96,25.04,57.71,43.5,1153.77,Synthetic data for visualization practice
+G_District_20,Gujarat,2021,3071280,67.99,32.01,67.52,28.55,3808.07,Synthetic data for visualization practice
+G_District_21,Gujarat,2011,2629219,55.68,44.32,70.96,33.15,707.79,Synthetic data for visualization practice
+G_District_21,Gujarat,2016,2789974,64.09,35.91,53.58,17.08,711.36,Synthetic data for visualization practice
+G_District_21,Gujarat,2021,3103504,58.0,42.0,85.12,28.94,2317.99,Synthetic data for visualization practice
+G_District_22,Gujarat,2011,1806384,61.13,38.87,67.96,34.25,715.62,Synthetic data for visualization practice
+G_District_22,Gujarat,2016,1931066,66.03,33.97,69.18,17.69,4047.43,Synthetic data for visualization practice
+G_District_22,Gujarat,2021,1995216,47.5,52.5,62.38,31.2,702.66,Synthetic data for visualization practice
+G_District_23,Gujarat,2011,2000511,87.7,12.3,82.03,16.21,582.93,Synthetic data for visualization practice
+G_District_23,Gujarat,2016,2086534,48.19,51.81,59.29,19.71,1078.39,Synthetic data for visualization practice
+G_District_23,Gujarat,2021,2362702,38.51,61.49,58.29,38.89,2049.24,Synthetic data for visualization practice
+G_District_24,Gujarat,2011,2125147,61.93,38.07,91.7,26.96,798.02,Synthetic data for visualization practice
+G_District_24,Gujarat,2016,2294475,27.26,72.74,70.15,12.93,655.64,Synthetic data for visualization practice
+G_District_24,Gujarat,2021,2364765,23.93,76.07,71.19,31.18,588.29,Synthetic data for visualization practice
+G_District_25,Gujarat,2011,1394877,49.92,50.08,66.64,12.49,335.06,Synthetic data for visualization practice
+G_District_25,Gujarat,2016,1477546,39.02,60.98,63.65,23.09,1154.83,Synthetic data for visualization practice
+G_District_25,Gujarat,2021,1552185,77.02,22.98,71.46,12.29,379.44,Synthetic data for visualization practice
+G_District_26,Gujarat,2011,1919327,52.75,47.25,76.28,27.53,898.1,Synthetic data for visualization practice
+G_District_26,Gujarat,2016,2050932,59.81,40.19,90.57,31.6,500.67,Synthetic data for visualization practice
+G_District_26,Gujarat,2021,2094285,61.92,38.08,62.95,31.02,1249.91,Synthetic data for visualization practice
+G_District_27,Gujarat,2011,2809265,40.51,59.49,81.52,27.46,715.69,Synthetic data for visualization practice
+G_District_27,Gujarat,2016,2959634,40.59,59.41,71.61,16.55,907.19,Synthetic data for visualization practice
+G_District_27,Gujarat,2021,3221068,43.86,56.14,63.96,24.31,736.55,Synthetic data for visualization practice
+G_District_28,Gujarat,2011,2178032,76.13,23.87,64.95,20.92,546.39,Synthetic data for visualization practice
+G_District_28,Gujarat,2016,2368178,71.38,28.62,72.95,23.07,902.89,Synthetic data for visualization practice
+G_District_28,Gujarat,2021,2386431,71.44,28.56,53.32,32.74,679.2,Synthetic data for visualization practice
+G_District_29,Gujarat,2011,1989803,83.44,16.56,84.7,21.04,4671.1,Synthetic data for visualization practice
+G_District_29,Gujarat,2016,2130613,57.02,42.98,65.93,21.37,483.5,Synthetic data for visualization practice
+G_District_29,Gujarat,2021,2157431,39.28,60.72,59.7,23.02,455.56,Synthetic data for visualization practice
+G_District_30,Gujarat,2011,978344,30.71,69.29,78.21,13.52,455.42,Synthetic data for visualization practice
+G_District_30,Gujarat,2016,1064857,80.78,19.22,73.54,37.56,1249.72,Synthetic data for visualization practice
+G_District_30,Gujarat,2021,1106749,51.87,48.13,75.11,31.75,250.61,Synthetic data for visualization practice
+H_District_01,Haryana,2011,439441,52.62,47.38,82.24,32.77,155.57,Synthetic data for visualization practice
+H_District_01,Haryana,2016,458421,41.44,58.56,79.47,14.56,141.81,Synthetic data for visualization practice
+H_District_01,Haryana,2021,477682,46.82,53.18,86.07,10.3,311.1,Synthetic data for visualization practice
+H_District_02,Haryana,2011,835913,23.9,76.1,86.33,29.78,500.42,Synthetic data for visualization practice
+H_District_02,Haryana,2016,907387,31.46,68.54,93.74,14.61,599.26,Synthetic data for visualization practice
+H_District_02,Haryana,2021,948796,30.43,69.57,63.17,29.96,863.47,Synthetic data for visualization practice
+H_District_03,Haryana,2011,1808805,48.36,51.64,71.44,15.91,1020.66,Synthetic data for visualization practice
+H_District_03,Haryana,2016,1934477,44.11,55.89,81.4,28.16,832.71,Synthetic data for visualization practice
+H_District_03,Haryana,2021,2098853,52.64,47.36,91.4,13.78,534.88,Synthetic data for visualization practice
+H_District_04,Haryana,2011,607551,53.37,46.63,67.88,31.24,152.05,Synthetic data for visualization practice
+H_District_04,Haryana,2016,654167,63.84,36.16,80.05,34.68,261.19,Synthetic data for visualization practice
+H_District_04,Haryana,2021,725943,73.26,26.74,65.97,28.78,314.04,Synthetic data for visualization practice
+H_District_05,Haryana,2011,1280659,40.49,59.51,77.02,16.55,303.0,Synthetic data for visualization practice
+H_District_05,Haryana,2016,1359543,62.19,37.81,59.31,28.35,404.63,Synthetic data for visualization practice
+H_District_05,Haryana,2021,1479265,84.25,15.75,68.56,24.74,929.91,Synthetic data for visualization practice
+H_District_06,Haryana,2011,2646089,88.33,11.67,72.57,17.46,1858.16,Synthetic data for visualization practice
+H_District_06,Haryana,2016,2861288,30.92,69.08,65.33,12.03,1110.99,Synthetic data for visualization practice
+H_District_06,Haryana,2021,3092295,53.95,46.05,82.62,27.04,885.85,Synthetic data for visualization practice
+H_District_07,Haryana,2011,1335108,75.87,24.13,75.55,25.38,1013.47,Synthetic data for visualization practice
+H_District_07,Haryana,2016,1447555,81.71,18.29,74.91,17.25,516.55,Synthetic data for visualization practice
+H_District_07,Haryana,2021,1454233,49.59,50.41,77.83,24.24,315.07,Synthetic data for visualization practice
+H_District_08,Haryana,2011,1505237,42.04,57.96,67.49,17.5,3267.9,Synthetic data for visualization practice
+H_District_08,Haryana,2016,1604605,84.32,15.68,79.53,22.95,440.17,Synthetic data for visualization practice
+H_District_08,Haryana,2021,1705499,43.15,56.85,86.67,9.15,1442.4,Synthetic data for visualization practice
+H_District_09,Haryana,2011,2315043,64.99,35.01,81.2,21.51,3540.81,Synthetic data for visualization practice
+H_District_09,Haryana,2016,2528137,58.68,41.32,81.02,24.66,1251.15,Synthetic data for visualization practice
+H_District_09,Haryana,2021,2712997,70.23,29.77,62.17,14.45,1135.96,Synthetic data for visualization practice
+H_District_10,Haryana,2011,1084833,33.2,66.8,84.16,13.2,240.67,Synthetic data for visualization practice
+H_District_10,Haryana,2016,1163215,50.53,49.47,64.04,27.71,346.89,Synthetic data for visualization practice
+H_District_10,Haryana,2021,1279159,45.86,54.14,91.2,6.76,495.58,Synthetic data for visualization practice
+H_District_11,Haryana,2011,222154,60.12,39.88,75.88,26.57,56.34,Synthetic data for visualization practice
+H_District_11,Haryana,2016,241392,64.02,35.98,63.31,28.55,55.59,Synthetic data for visualization practice
+H_District_11,Haryana,2021,249004,81.46,18.54,74.97,12.18,93.26,Synthetic data for visualization practice
+H_District_12,Haryana,2011,2571454,60.07,39.93,69.69,18.55,1057.62,Synthetic data for visualization practice
+H_District_12,Haryana,2016,2696350,62.7,37.3,64.66,20.61,1121.94,Synthetic data for visualization practice
+H_District_12,Haryana,2021,3041705,53.22,46.78,88.6,19.92,1522.94,Synthetic data for visualization practice
+H_District_13,Haryana,2011,2818638,53.03,46.97,68.07,14.42,771.22,Synthetic data for visualization practice
+H_District_13,Haryana,2016,2970377,28.93,71.07,74.95,31.65,664.3,Synthetic data for visualization practice
+H_District_13,Haryana,2021,3198985,40.13,59.87,63.74,34.17,7268.5,Synthetic data for visualization practice
+H_District_14,Haryana,2011,2591293,60.76,39.24,73.27,18.41,1139.01,Synthetic data for visualization practice
+H_District_14,Haryana,2016,2808423,71.3,28.7,74.23,25.83,624.37,Synthetic data for visualization practice
+H_District_14,Haryana,2021,2832393,47.97,52.03,70.15,31.32,658.38,Synthetic data for visualization practice
+H_District_15,Haryana,2011,770360,67.59,32.41,88.94,36.26,188.33,Synthetic data for visualization practice
+H_District_15,Haryana,2016,834755,55.88,44.12,81.4,28.31,170.7,Synthetic data for visualization practice
+H_District_15,Haryana,2021,880455,70.09,29.91,71.82,20.03,209.14,Synthetic data for visualization practice
+H_District_16,Haryana,2011,2567116,58.13,41.87,63.7,19.39,572.31,Synthetic data for visualization practice
+H_District_16,Haryana,2016,2694581,55.04,44.96,56.25,32.8,821.49,Synthetic data for visualization practice
+H_District_16,Haryana,2021,2805043,18.1,81.9,81.26,26.46,719.7,Synthetic data for visualization practice
+H_District_17,Haryana,2011,1968774,57.92,42.08,69.71,18.66,695.96,Synthetic data for visualization practice
+H_District_17,Haryana,2016,2081576,53.46,46.54,85.29,24.99,685.07,Synthetic data for visualization practice
+H_District_17,Haryana,2021,2343421,79.79,20.21,87.11,15.62,1661.36,Synthetic data for visualization practice
+H_District_18,Haryana,2011,1076471,51.59,48.41,52.57,24.61,454.69,Synthetic data for visualization practice
+H_District_18,Haryana,2016,1156908,37.58,62.42,88.18,26.41,268.5,Synthetic data for visualization practice
+H_District_18,Haryana,2021,1189899,78.24,21.76,55.78,23.66,2139.13,Synthetic data for visualization practice
+H_District_19,Haryana,2011,2644633,41.28,58.72,60.66,18.46,1597.43,Synthetic data for visualization practice
+H_District_19,Haryana,2016,2830657,59.43,40.57,82.5,10.17,941.75,Synthetic data for visualization practice
+H_District_19,Haryana,2021,3112048,60.15,39.85,64.25,29.47,774.88,Synthetic data for visualization practice
+H_District_20,Haryana,2011,1675536,62.3,37.7,72.06,17.82,559.22,Synthetic data for visualization practice
+H_District_20,Haryana,2016,1748501,49.06,50.94,81.9,23.96,2853.06,Synthetic data for visualization practice
+H_District_20,Haryana,2021,1897100,45.82,54.18,57.16,14.59,393.37,Synthetic data for visualization practice
+H_District_21,Haryana,2011,1124441,69.56,30.44,91.91,15.89,811.33,Synthetic data for visualization practice
+H_District_21,Haryana,2016,1205359,51.52,48.48,76.26,31.93,366.01,Synthetic data for visualization practice
+H_District_21,Haryana,2021,1235591,45.59,54.41,50.76,22.56,951.13,Synthetic data for visualization practice
+H_District_22,Haryana,2011,1058396,61.33,38.67,58.94,28.45,471.82,Synthetic data for visualization practice
+H_District_22,Haryana,2016,1138580,54.05,45.95,61.29,28.0,252.5,Synthetic data for visualization practice
+H_District_22,Haryana,2021,1177099,62.53,37.47,66.22,9.85,468.53,Synthetic data for visualization practice
+H_District_23,Haryana,2011,611290,61.14,38.86,83.32,31.11,1051.8,Synthetic data for visualization practice
+H_District_23,Haryana,2016,662416,35.24,64.76,69.19,33.7,347.12,Synthetic data for visualization practice
+H_District_23,Haryana,2021,683726,45.75,54.25,67.21,21.91,145.05,Synthetic data for visualization practice
+H_District_24,Haryana,2011,2442526,52.83,47.17,94.31,12.61,1160.06,Synthetic data for visualization practice
+H_District_24,Haryana,2016,2621529,46.16,53.84,84.52,18.71,777.67,Synthetic data for visualization practice
+H_District_24,Haryana,2021,2879544,41.35,58.65,71.99,22.17,1919.32,Synthetic data for visualization practice
+H_District_25,Haryana,2011,2510788,55.98,44.02,66.36,19.86,634.33,Synthetic data for visualization practice
+H_District_25,Haryana,2016,2612928,54.78,45.22,79.24,23.82,740.27,Synthetic data for visualization practice
+H_District_25,Haryana,2021,2857279,58.47,41.53,69.83,30.02,746.51,Synthetic data for visualization practice
+H_District_26,Haryana,2011,1931665,52.63,47.37,70.31,21.13,1209.81,Synthetic data for visualization practice
+H_District_26,Haryana,2016,2061158,46.62,53.38,78.88,28.62,631.25,Synthetic data for visualization practice
+H_District_26,Haryana,2021,2249006,65.0,35.0,54.82,28.63,2758.32,Synthetic data for visualization practice
+H_District_27,Haryana,2011,1179092,45.68,54.32,65.17,18.12,383.43,Synthetic data for visualization practice
+H_District_27,Haryana,2016,1234347,54.19,45.81,68.59,28.56,1699.83,Synthetic data for visualization practice
+H_District_27,Haryana,2021,1369917,70.68,29.32,66.5,23.89,758.26,Synthetic data for visualization practice
+H_District_28,Haryana,2011,2883863,90.0,10.0,73.14,18.32,5922.34,Synthetic data for visualization practice
+H_District_28,Haryana,2016,3055806,76.73,23.27,74.82,13.61,1638.33,Synthetic data for visualization practice
+H_District_28,Haryana,2021,3363650,68.98,31.02,61.64,30.91,754.66,Synthetic data for visualization practice
+H_District_29,Haryana,2011,959360,81.23,18.77,59.51,16.14,989.71,Synthetic data for visualization practice
+H_District_29,Haryana,2016,1046146,43.13,56.87,80.68,30.1,222.23,Synthetic data for visualization practice
+H_District_29,Haryana,2021,1055091,48.13,51.87,74.56,11.5,1282.76,Synthetic data for visualization practice
+H_District_30,Haryana,2011,698843,51.46,48.54,75.2,31.49,773.88,Synthetic data for visualization practice
+H_District_30,Haryana,2016,734353,28.97,71.03,69.16,26.01,178.04,Synthetic data for visualization practice
+H_District_30,Haryana,2021,775538,79.44,20.56,64.66,20.7,182.77,Synthetic data for visualization practice
+HP_District_01,Himachal Pradesh,2011,2041679,69.31,30.69,64.0,5.0,539.02,Synthetic data for visualization practice
+HP_District_01,Himachal Pradesh,2016,2168851,45.16,54.84,73.68,13.36,2588.18,Synthetic data for visualization practice
+HP_District_01,Himachal Pradesh,2021,2375295,38.27,61.73,67.01,17.22,509.86,Synthetic data for visualization practice
+HP_District_02,Himachal Pradesh,2011,1979919,49.64,50.36,67.09,28.47,1220.66,Synthetic data for visualization practice
+HP_District_02,Himachal Pradesh,2016,2147987,37.71,62.29,71.56,17.39,1464.76,Synthetic data for visualization practice
+HP_District_02,Himachal Pradesh,2021,2147409,80.99,19.01,64.32,20.98,706.95,Synthetic data for visualization practice
+HP_District_03,Himachal Pradesh,2011,342791,48.25,51.75,68.35,20.19,71.22,Synthetic data for visualization practice
+HP_District_03,Himachal Pradesh,2016,364293,62.53,37.47,59.78,19.16,318.38,Synthetic data for visualization practice
+HP_District_03,Himachal Pradesh,2021,393102,60.12,39.88,58.31,29.11,175.19,Synthetic data for visualization practice
+HP_District_04,Himachal Pradesh,2011,769902,71.87,28.13,69.04,17.06,180.45,Synthetic data for visualization practice
+HP_District_04,Himachal Pradesh,2016,820347,44.6,55.4,70.98,30.36,181.18,Synthetic data for visualization practice
+HP_District_04,Himachal Pradesh,2021,903061,66.71,33.29,66.94,25.35,204.01,Synthetic data for visualization practice
+HP_District_05,Himachal Pradesh,2011,1581586,45.21,54.79,80.36,29.69,330.52,Synthetic data for visualization practice
+HP_District_05,Himachal Pradesh,2016,1648849,61.19,38.81,74.5,25.26,390.66,Synthetic data for visualization practice
+HP_District_05,Himachal Pradesh,2021,1730823,43.15,56.85,62.74,30.86,535.72,Synthetic data for visualization practice
+HP_District_06,Himachal Pradesh,2011,331953,78.47,21.53,72.78,30.1,112.5,Synthetic data for visualization practice
+HP_District_06,Himachal Pradesh,2016,349146,58.15,41.85,59.73,21.15,72.42,Synthetic data for visualization practice
+HP_District_06,Himachal Pradesh,2021,369149,64.87,35.13,71.41,17.24,103.69,Synthetic data for visualization practice
+HP_District_07,Himachal Pradesh,2011,942725,25.61,74.39,64.98,6.03,879.33,Synthetic data for visualization practice
+HP_District_07,Himachal Pradesh,2016,1027957,37.21,62.79,78.33,44.79,677.64,Synthetic data for visualization practice
+HP_District_07,Himachal Pradesh,2021,1035252,67.88,32.12,59.67,9.41,2331.7,Synthetic data for visualization practice
+HP_District_08,Himachal Pradesh,2011,1751691,71.42,28.58,66.88,23.55,639.14,Synthetic data for visualization practice
+HP_District_08,Himachal Pradesh,2016,1858758,53.91,46.09,64.31,24.24,461.02,Synthetic data for visualization practice
+HP_District_08,Himachal Pradesh,2021,2051254,64.99,35.01,81.25,27.42,1457.96,Synthetic data for visualization practice
+HP_District_09,Himachal Pradesh,2011,470013,56.45,43.55,63.83,32.22,255.51,Synthetic data for visualization practice
+HP_District_09,Himachal Pradesh,2016,512390,70.78,29.22,69.56,18.6,258.34,Synthetic data for visualization practice
+HP_District_09,Himachal Pradesh,2021,535672,34.68,65.32,81.07,23.15,277.09,Synthetic data for visualization practice
+HP_District_10,Himachal Pradesh,2011,1255959,54.7,45.3,85.74,9.69,315.92,Synthetic data for visualization practice
+HP_District_10,Himachal Pradesh,2016,1329598,22.07,77.93,79.86,17.54,446.06,Synthetic data for visualization practice
+HP_District_10,Himachal Pradesh,2021,1468559,64.11,35.89,67.9,15.89,329.83,Synthetic data for visualization practice
+HP_District_11,Himachal Pradesh,2011,812960,44.47,55.53,61.21,23.63,238.04,Synthetic data for visualization practice
+HP_District_11,Himachal Pradesh,2016,884129,51.42,48.58,68.0,24.35,216.53,Synthetic data for visualization practice
+HP_District_11,Himachal Pradesh,2021,890086,66.37,33.63,86.34,15.45,287.28,Synthetic data for visualization practice
+HP_District_12,Himachal Pradesh,2011,301977,67.87,32.13,78.31,31.69,94.46,Synthetic data for visualization practice
+HP_District_12,Himachal Pradesh,2016,319776,60.03,39.97,58.1,27.79,70.76,Synthetic data for visualization practice
+HP_District_12,Himachal Pradesh,2021,340702,69.99,30.01,75.87,10.22,189.81,Synthetic data for visualization practice
+HP_District_13,Himachal Pradesh,2011,1538196,75.97,24.03,60.83,16.63,308.72,Synthetic data for visualization practice
+HP_District_13,Himachal Pradesh,2016,1614772,61.19,38.81,68.01,27.22,1788.43,Synthetic data for visualization practice
+HP_District_13,Himachal Pradesh,2021,1720533,38.23,61.77,84.47,33.73,810.09,Synthetic data for visualization practice
+HP_District_14,Himachal Pradesh,2011,1171671,52.63,47.37,65.23,14.13,804.07,Synthetic data for visualization practice
+HP_District_14,Himachal Pradesh,2016,1265378,67.72,32.28,83.76,18.12,1284.64,Synthetic data for visualization practice
+HP_District_14,Himachal Pradesh,2021,1351007,45.47,54.53,78.62,24.9,492.55,Synthetic data for visualization practice
+HP_District_15,Himachal Pradesh,2011,1447979,64.08,35.92,64.45,29.17,364.99,Synthetic data for visualization practice
+HP_District_15,Himachal Pradesh,2016,1514820,58.51,41.49,75.1,30.65,322.81,Synthetic data for visualization practice
+HP_District_15,Himachal Pradesh,2021,1626308,55.35,44.65,67.44,17.71,397.45,Synthetic data for visualization practice
+HP_District_16,Himachal Pradesh,2011,985827,65.16,34.84,89.83,9.06,271.62,Synthetic data for visualization practice
+HP_District_16,Himachal Pradesh,2016,1061952,54.32,45.68,79.51,21.19,300.69,Synthetic data for visualization practice
+HP_District_16,Himachal Pradesh,2021,1130109,19.27,80.73,61.71,29.59,234.1,Synthetic data for visualization practice
+HP_District_17,Himachal Pradesh,2011,1910690,21.16,78.84,66.28,32.6,457.47,Synthetic data for visualization practice
+HP_District_17,Himachal Pradesh,2016,2060515,51.46,48.54,60.24,21.67,1325.8,Synthetic data for visualization practice
+HP_District_17,Himachal Pradesh,2021,2273054,58.42,41.58,72.15,22.59,1249.5,Synthetic data for visualization practice
+HP_District_18,Himachal Pradesh,2011,351269,44.13,55.87,62.48,32.96,467.1,Synthetic data for visualization practice
+HP_District_18,Himachal Pradesh,2016,369444,26.34,73.66,66.74,29.77,112.8,Synthetic data for visualization practice
+HP_District_18,Himachal Pradesh,2021,384227,61.4,38.6,72.6,20.27,134.74,Synthetic data for visualization practice
+HP_District_19,Himachal Pradesh,2011,2005918,90.0,10.0,69.84,19.01,3563.17,Synthetic data for visualization practice
+HP_District_19,Himachal Pradesh,2016,2123875,30.41,69.59,75.23,20.09,1523.68,Synthetic data for visualization practice
+HP_District_19,Himachal Pradesh,2021,2324082,59.75,40.25,64.22,24.08,1549.6,Synthetic data for visualization practice
+HP_District_20,Himachal Pradesh,2011,187980,33.2,66.8,64.38,19.72,82.95,Synthetic data for visualization practice
+HP_District_20,Himachal Pradesh,2016,200623,59.69,40.31,87.57,21.97,41.81,Synthetic data for visualization practice
+HP_District_20,Himachal Pradesh,2021,207711,73.95,26.05,74.09,20.03,91.44,Synthetic data for visualization practice
+HP_District_21,Himachal Pradesh,2011,1015744,63.45,36.55,80.03,33.53,310.21,Synthetic data for visualization practice
+HP_District_21,Himachal Pradesh,2016,1095922,44.04,55.96,74.04,23.98,1078.4,Synthetic data for visualization practice
+HP_District_21,Himachal Pradesh,2021,1200088,55.56,44.44,73.91,27.93,786.37,Synthetic data for visualization practice
+HP_District_22,Himachal Pradesh,2011,1031058,52.42,47.58,68.2,17.47,518.22,Synthetic data for visualization practice
+HP_District_22,Himachal Pradesh,2016,1073174,62.19,37.81,70.6,21.93,267.66,Synthetic data for visualization practice
+HP_District_22,Himachal Pradesh,2021,1185371,48.7,51.3,61.46,21.28,273.64,Synthetic data for visualization practice
+HP_District_23,Himachal Pradesh,2011,2492790,72.37,27.63,50.71,25.28,706.68,Synthetic data for visualization practice
+HP_District_23,Himachal Pradesh,2016,2695138,45.3,54.7,66.68,19.37,803.87,Synthetic data for visualization practice
+HP_District_23,Himachal Pradesh,2021,2748617,49.83,50.17,82.72,12.28,1808.55,Synthetic data for visualization practice
+HP_District_24,Himachal Pradesh,2011,1078603,52.12,47.88,68.51,21.11,376.71,Synthetic data for visualization practice
+HP_District_24,Himachal Pradesh,2016,1131873,62.59,37.41,63.34,19.59,295.11,Synthetic data for visualization practice
+HP_District_24,Himachal Pradesh,2021,1255797,52.36,47.64,78.03,25.81,307.18,Synthetic data for visualization practice
+HP_District_25,Himachal Pradesh,2011,801167,40.58,59.42,61.46,21.19,164.26,Synthetic data for visualization practice
+HP_District_25,Himachal Pradesh,2016,837290,60.63,39.37,65.55,19.83,187.39,Synthetic data for visualization practice
+HP_District_25,Himachal Pradesh,2021,934896,59.08,40.92,72.62,10.87,999.68,Synthetic data for visualization practice
+HP_District_26,Himachal Pradesh,2011,534494,63.41,36.59,68.74,31.89,162.0,Synthetic data for visualization practice
+HP_District_26,Himachal Pradesh,2016,558996,72.28,27.72,81.46,12.37,1379.39,Synthetic data for visualization practice
+HP_District_26,Himachal Pradesh,2021,637426,59.09,40.91,76.99,10.9,200.44,Synthetic data for visualization practice
+HP_District_27,Himachal Pradesh,2011,2181703,49.73,50.27,49.97,13.32,500.58,Synthetic data for visualization practice
+HP_District_27,Himachal Pradesh,2016,2272375,33.58,66.42,72.23,14.82,1541.1,Synthetic data for visualization practice
+HP_District_27,Himachal Pradesh,2021,2439328,59.06,40.94,61.68,42.79,1052.8,Synthetic data for visualization practice
+HP_District_28,Himachal Pradesh,2011,1031602,50.61,49.39,67.02,15.91,253.23,Synthetic data for visualization practice
+HP_District_28,Himachal Pradesh,2016,1092074,46.71,53.29,52.84,12.67,370.05,Synthetic data for visualization practice
+HP_District_28,Himachal Pradesh,2021,1178071,52.99,47.01,82.53,15.78,959.87,Synthetic data for visualization practice
+HP_District_29,Himachal Pradesh,2011,1219844,49.13,50.87,69.83,28.56,453.96,Synthetic data for visualization practice
+HP_District_29,Himachal Pradesh,2016,1303715,66.22,33.78,70.51,18.23,1883.7,Synthetic data for visualization practice
+HP_District_29,Himachal Pradesh,2021,1416738,49.13,50.87,66.12,30.2,651.45,Synthetic data for visualization practice
+HP_District_30,Himachal Pradesh,2011,1680914,56.72,43.28,75.04,21.55,387.98,Synthetic data for visualization practice
+HP_District_30,Himachal Pradesh,2016,1790676,62.98,37.02,84.37,22.07,510.87,Synthetic data for visualization practice
+HP_District_30,Himachal Pradesh,2021,1841871,70.29,29.71,80.24,27.05,371.93,Synthetic data for visualization practice
+J_District_01,Jharkhand,2011,499919,51.78,48.22,68.69,6.09,359.54,Synthetic data for visualization practice
+J_District_01,Jharkhand,2016,533018,57.55,42.45,59.2,26.97,132.92,Synthetic data for visualization practice
+J_District_01,Jharkhand,2021,580907,57.92,42.08,65.69,17.41,264.55,Synthetic data for visualization practice
+J_District_02,Jharkhand,2011,1817957,42.72,57.28,63.08,22.19,394.8,Synthetic data for visualization practice
+J_District_02,Jharkhand,2016,1960209,38.93,61.07,69.14,31.41,517.48,Synthetic data for visualization practice
+J_District_02,Jharkhand,2021,2132221,43.92,56.08,75.43,17.38,1624.58,Synthetic data for visualization practice
+J_District_03,Jharkhand,2011,2880663,35.36,64.64,85.49,17.4,725.08,Synthetic data for visualization practice
+J_District_03,Jharkhand,2016,3069938,59.88,40.12,69.32,27.75,777.35,Synthetic data for visualization practice
+J_District_03,Jharkhand,2021,3219721,51.93,48.07,79.75,10.85,996.3,Synthetic data for visualization practice
+J_District_04,Jharkhand,2011,2027713,54.15,45.85,58.23,16.47,497.21,Synthetic data for visualization practice
+J_District_04,Jharkhand,2016,2145693,40.14,59.86,60.42,23.99,567.93,Synthetic data for visualization practice
+J_District_04,Jharkhand,2021,2224543,54.42,45.58,83.62,29.03,780.21,Synthetic data for visualization practice
+J_District_05,Jharkhand,2011,2362797,34.59,65.41,66.39,33.45,1284.76,Synthetic data for visualization practice
+J_District_05,Jharkhand,2016,2482257,26.06,73.94,61.13,16.56,1555.27,Synthetic data for visualization practice
+J_District_05,Jharkhand,2021,2770722,51.31,48.69,87.91,25.21,711.63,Synthetic data for visualization practice
+J_District_06,Jharkhand,2011,1877817,30.42,69.58,60.95,8.56,421.49,Synthetic data for visualization practice
+J_District_06,Jharkhand,2016,1994024,40.52,59.48,73.33,33.75,765.87,Synthetic data for visualization practice
+J_District_06,Jharkhand,2021,2043622,52.38,47.62,78.64,32.81,428.2,Synthetic data for visualization practice
+J_District_07,Jharkhand,2011,2505587,46.98,53.02,68.81,24.56,505.29,Synthetic data for visualization practice
+J_District_07,Jharkhand,2016,2691504,62.88,37.12,73.97,25.05,1559.37,Synthetic data for visualization practice
+J_District_07,Jharkhand,2021,2943609,70.85,29.15,80.97,25.42,3639.51,Synthetic data for visualization practice
+J_District_08,Jharkhand,2011,461782,90.0,10.0,82.96,21.29,234.31,Synthetic data for visualization practice
+J_District_08,Jharkhand,2016,497042,50.02,49.98,76.6,16.4,401.63,Synthetic data for visualization practice
+J_District_08,Jharkhand,2021,502684,30.51,69.49,70.78,15.26,117.84,Synthetic data for visualization practice
+J_District_09,Jharkhand,2011,265695,55.15,44.85,66.42,17.69,124.83,Synthetic data for visualization practice
+J_District_09,Jharkhand,2016,282413,77.06,22.94,73.33,23.8,84.13,Synthetic data for visualization practice
+J_District_09,Jharkhand,2021,316087,60.85,39.15,83.93,6.89,286.23,Synthetic data for visualization practice
+J_District_10,Jharkhand,2011,2855218,54.61,45.39,63.55,11.61,880.49,Synthetic data for visualization practice
+J_District_10,Jharkhand,2016,3063913,28.68,71.32,79.71,25.67,1424.73,Synthetic data for visualization practice
+J_District_10,Jharkhand,2021,3143462,53.3,46.7,82.94,9.08,655.49,Synthetic data for visualization practice
+J_District_11,Jharkhand,2011,871618,47.56,52.44,77.79,30.71,790.75,Synthetic data for visualization practice
+J_District_11,Jharkhand,2016,925395,59.08,40.92,72.09,11.65,627.54,Synthetic data for visualization practice
+J_District_11,Jharkhand,2021,963679,52.77,47.23,74.09,10.41,246.09,Synthetic data for visualization practice
+J_District_12,Jharkhand,2011,1066663,38.96,61.04,66.37,13.04,452.49,Synthetic data for visualization practice
+J_District_12,Jharkhand,2016,1159792,67.23,32.77,68.01,18.75,1191.88,Synthetic data for visualization practice
+J_District_12,Jharkhand,2021,1244378,83.1,16.9,57.39,32.28,621.48,Synthetic data for visualization practice
+J_District_13,Jharkhand,2011,982701,76.4,23.6,69.1,16.35,555.5,Synthetic data for visualization practice
+J_District_13,Jharkhand,2016,1058412,40.8,59.2,81.99,15.81,322.48,Synthetic data for visualization practice
+J_District_13,Jharkhand,2021,1114729,55.46,44.54,61.6,12.56,2012.6,Synthetic data for visualization practice
+J_District_14,Jharkhand,2011,2438108,61.61,38.39,76.58,20.96,2199.88,Synthetic data for visualization practice
+J_District_14,Jharkhand,2016,2629585,46.55,53.45,79.51,31.89,1934.78,Synthetic data for visualization practice
+J_District_14,Jharkhand,2021,2905042,46.81,53.19,58.8,18.24,949.61,Synthetic data for visualization practice
+J_District_15,Jharkhand,2011,1986807,48.5,51.5,91.03,16.55,2532.14,Synthetic data for visualization practice
+J_District_15,Jharkhand,2016,2078017,41.35,58.65,65.81,32.71,733.23,Synthetic data for visualization practice
+J_District_15,Jharkhand,2021,2309005,35.27,64.73,77.89,14.23,1596.5,Synthetic data for visualization practice
+J_District_16,Jharkhand,2011,2877309,58.43,41.57,72.48,27.74,787.57,Synthetic data for visualization practice
+J_District_16,Jharkhand,2016,3145097,37.14,62.86,85.52,37.06,934.63,Synthetic data for visualization practice
+J_District_16,Jharkhand,2021,3426821,34.25,65.75,67.84,38.11,1045.15,Synthetic data for visualization practice
+J_District_17,Jharkhand,2011,367172,44.72,55.28,60.1,29.0,229.63,Synthetic data for visualization practice
+J_District_17,Jharkhand,2016,398583,64.42,35.58,79.47,20.06,531.34,Synthetic data for visualization practice
+J_District_17,Jharkhand,2021,437212,34.46,65.54,80.19,18.92,107.39,Synthetic data for visualization practice
+J_District_18,Jharkhand,2011,1581697,50.61,49.39,61.47,24.41,400.05,Synthetic data for visualization practice
+J_District_18,Jharkhand,2016,1705457,44.27,55.73,77.54,35.13,726.14,Synthetic data for visualization practice
+J_District_18,Jharkhand,2021,1883292,63.58,36.42,89.08,24.97,801.85,Synthetic data for visualization practice
+J_District_19,Jharkhand,2011,2156033,36.88,63.12,83.4,13.93,452.77,Synthetic data for visualization practice
+J_District_19,Jharkhand,2016,2262064,68.77,31.23,67.37,15.67,3859.32,Synthetic data for visualization practice
+J_District_19,Jharkhand,2021,2436197,36.53,63.47,89.45,15.67,925.4,Synthetic data for visualization practice
+J_District_20,Jharkhand,2011,1610728,73.79,26.21,52.5,31.36,1185.92,Synthetic data for visualization practice
+J_District_20,Jharkhand,2016,1735260,44.86,55.14,89.93,23.0,606.04,Synthetic data for visualization practice
+J_District_20,Jharkhand,2021,1799183,56.34,43.66,73.6,25.51,1160.42,Synthetic data for visualization practice
+J_District_21,Jharkhand,2011,2804663,64.1,35.9,65.97,27.38,1269.23,Synthetic data for visualization practice
+J_District_21,Jharkhand,2016,2930395,51.73,48.27,82.75,8.09,1135.99,Synthetic data for visualization practice
+J_District_21,Jharkhand,2021,3131217,82.45,17.55,92.57,22.4,2849.26,Synthetic data for visualization practice
+J_District_22,Jharkhand,2011,2929008,74.13,25.87,74.82,29.41,1031.07,Synthetic data for visualization practice
+J_District_22,Jharkhand,2016,3169205,41.22,58.78,69.04,17.82,2366.88,Synthetic data for visualization practice
+J_District_22,Jharkhand,2021,3499939,48.65,51.35,69.63,22.84,732.26,Synthetic data for visualization practice
+J_District_23,Jharkhand,2011,1478661,41.27,58.73,79.89,21.19,829.62,Synthetic data for visualization practice
+J_District_23,Jharkhand,2016,1568822,44.01,55.99,67.22,17.5,802.65,Synthetic data for visualization practice
+J_District_23,Jharkhand,2021,1633244,61.11,38.89,85.92,31.69,1174.38,Synthetic data for visualization practice
+J_District_24,Jharkhand,2011,262486,63.15,36.85,67.61,28.61,199.33,Synthetic data for visualization practice
+J_District_24,Jharkhand,2016,286908,77.89,22.11,60.76,25.51,217.9,Synthetic data for visualization practice
+J_District_24,Jharkhand,2021,291321,73.94,26.06,76.76,31.97,136.29,Synthetic data for visualization practice
+J_District_25,Jharkhand,2011,1885297,41.49,58.51,72.63,20.78,411.87,Synthetic data for visualization practice
+J_District_25,Jharkhand,2016,2057126,60.8,39.2,59.53,5.0,1962.72,Synthetic data for visualization practice
+J_District_25,Jharkhand,2021,2059076,42.08,57.92,45.0,15.19,1294.3,Synthetic data for visualization practice
+J_District_26,Jharkhand,2011,1551070,60.81,39.19,84.53,26.13,2175.82,Synthetic data for visualization practice
+J_District_26,Jharkhand,2016,1688731,39.72,60.28,75.95,29.96,986.5,Synthetic data for visualization practice
+J_District_26,Jharkhand,2021,1841929,62.96,37.04,58.67,13.3,2986.59,Synthetic data for visualization practice
+J_District_27,Jharkhand,2011,2842569,70.49,29.51,63.7,14.2,2355.72,Synthetic data for visualization practice
+J_District_27,Jharkhand,2016,2998755,45.95,54.05,55.29,24.33,1148.38,Synthetic data for visualization practice
+J_District_27,Jharkhand,2021,3258696,70.33,29.67,71.47,7.88,1845.15,Synthetic data for visualization practice
+J_District_28,Jharkhand,2011,259838,50.25,49.75,75.78,36.79,86.25,Synthetic data for visualization practice
+J_District_28,Jharkhand,2016,277614,41.56,58.44,60.59,22.76,693.63,Synthetic data for visualization practice
+J_District_28,Jharkhand,2021,302651,55.27,44.73,61.15,22.09,82.87,Synthetic data for visualization practice
+J_District_29,Jharkhand,2011,2396255,47.07,52.93,72.6,26.51,1598.66,Synthetic data for visualization practice
+J_District_29,Jharkhand,2016,2558482,58.26,41.74,60.15,16.13,1063.38,Synthetic data for visualization practice
+J_District_29,Jharkhand,2021,2859864,56.4,43.6,85.31,26.06,2764.1,Synthetic data for visualization practice
+J_District_30,Jharkhand,2011,2048815,76.58,23.42,78.93,36.39,2420.55,Synthetic data for visualization practice
+J_District_30,Jharkhand,2016,2222396,35.73,64.27,46.23,29.35,759.41,Synthetic data for visualization practice
+J_District_30,Jharkhand,2021,2420390,36.61,63.39,71.2,23.48,1241.33,Synthetic data for visualization practice
+K_District_01,Karnataka,2011,1327794,53.14,46.86,82.63,27.05,366.2,Synthetic data for visualization practice
+K_District_01,Karnataka,2016,1413602,73.38,26.62,76.19,24.25,434.86,Synthetic data for visualization practice
+K_District_01,Karnataka,2021,1450429,73.62,26.38,67.71,30.76,323.34,Synthetic data for visualization practice
+K_District_02,Karnataka,2011,1688316,47.55,52.45,81.2,20.32,488.25,Synthetic data for visualization practice
+K_District_02,Karnataka,2016,1772225,64.63,35.37,87.76,5.0,356.9,Synthetic data for visualization practice
+K_District_02,Karnataka,2021,1842154,63.7,36.3,68.07,21.97,1698.68,Synthetic data for visualization practice
+K_District_03,Karnataka,2011,2870389,72.77,27.23,58.03,25.53,1575.21,Synthetic data for visualization practice
+K_District_03,Karnataka,2016,3057478,84.58,15.42,63.41,12.96,1108.99,Synthetic data for visualization practice
+K_District_03,Karnataka,2021,3121815,55.1,44.9,73.4,23.88,922.21,Synthetic data for visualization practice
+K_District_04,Karnataka,2011,2820753,64.65,35.35,70.99,18.04,1972.47,Synthetic data for visualization practice
+K_District_04,Karnataka,2016,2995012,71.38,28.62,83.04,32.3,1300.6,Synthetic data for visualization practice
+K_District_04,Karnataka,2021,3330511,54.04,45.96,69.8,5.0,691.62,Synthetic data for visualization practice
+K_District_05,Karnataka,2011,772844,53.24,46.76,77.98,10.98,992.78,Synthetic data for visualization practice
+K_District_05,Karnataka,2016,844839,52.98,47.02,65.05,14.77,206.09,Synthetic data for visualization practice
+K_District_05,Karnataka,2021,892898,33.5,66.5,94.9,21.7,332.47,Synthetic data for visualization practice
+K_District_06,Karnataka,2011,2877223,52.4,47.6,70.42,32.42,1809.51,Synthetic data for visualization practice
+K_District_06,Karnataka,2016,3085416,48.51,51.49,75.84,30.18,1607.77,Synthetic data for visualization practice
+K_District_06,Karnataka,2021,3150569,50.92,49.08,71.95,5.0,1101.27,Synthetic data for visualization practice
+K_District_07,Karnataka,2011,1958573,53.7,46.3,87.29,18.93,819.2,Synthetic data for visualization practice
+K_District_07,Karnataka,2016,2122940,38.16,61.84,77.6,24.31,795.9,Synthetic data for visualization practice
+K_District_07,Karnataka,2021,2179877,54.13,45.87,52.39,25.01,558.18,Synthetic data for visualization practice
+K_District_08,Karnataka,2011,2084656,53.43,46.57,69.68,36.11,1132.92,Synthetic data for visualization practice
+K_District_08,Karnataka,2016,2266373,38.64,61.36,66.98,24.21,973.87,Synthetic data for visualization practice
+K_District_08,Karnataka,2021,2372218,59.99,40.01,67.56,29.07,707.02,Synthetic data for visualization practice
+K_District_09,Karnataka,2011,2518158,58.41,41.59,77.8,24.54,1410.69,Synthetic data for visualization practice
+K_District_09,Karnataka,2016,2627091,38.97,61.03,59.15,8.63,603.24,Synthetic data for visualization practice
+K_District_09,Karnataka,2021,2750315,72.91,27.09,64.61,31.49,1301.29,Synthetic data for visualization practice
+K_District_10,Karnataka,2011,2693408,76.81,23.19,78.42,19.3,1029.31,Synthetic data for visualization practice
+K_District_10,Karnataka,2016,2942057,75.84,24.16,68.87,21.43,1010.57,Synthetic data for visualization practice
+K_District_10,Karnataka,2021,3085389,61.11,38.89,68.22,24.35,1039.97,Synthetic data for visualization practice
+K_District_11,Karnataka,2011,609220,64.61,35.39,75.55,22.25,234.95,Synthetic data for visualization practice
+K_District_11,Karnataka,2016,638834,55.84,44.16,67.68,29.65,225.31,Synthetic data for visualization practice
+K_District_11,Karnataka,2021,703856,32.66,67.34,81.94,16.05,680.62,Synthetic data for visualization practice
+K_District_12,Karnataka,2011,1563183,67.02,32.98,86.5,17.7,425.64,Synthetic data for visualization practice
+K_District_12,Karnataka,2016,1636974,60.49,39.51,90.19,19.77,422.22,Synthetic data for visualization practice
+K_District_12,Karnataka,2021,1731400,68.33,31.67,66.95,30.18,472.96,Synthetic data for visualization practice
+K_District_13,Karnataka,2011,254073,65.96,34.04,71.88,17.72,55.76,Synthetic data for visualization practice
+K_District_13,Karnataka,2016,267379,67.57,32.43,62.56,19.86,108.04,Synthetic data for visualization practice
+K_District_13,Karnataka,2021,278015,54.86,45.14,69.82,24.19,74.08,Synthetic data for visualization practice
+K_District_14,Karnataka,2011,1478062,49.37,50.63,65.58,9.19,365.03,Synthetic data for visualization practice
+K_District_14,Karnataka,2016,1607529,57.1,42.9,65.75,22.64,355.31,Synthetic data for visualization practice
+K_District_14,Karnataka,2021,1623992,61.67,38.33,64.84,22.78,451.95,Synthetic data for visualization practice
+K_District_15,Karnataka,2011,2335899,59.28,40.72,72.28,18.41,1685.62,Synthetic data for visualization practice
+K_District_15,Karnataka,2016,2547288,52.48,47.52,71.03,33.3,978.77,Synthetic data for visualization practice
+K_District_15,Karnataka,2021,2721976,67.27,32.73,67.71,27.46,905.95,Synthetic data for visualization practice
+K_District_16,Karnataka,2011,2963495,47.61,52.39,81.13,7.02,601.62,Synthetic data for visualization practice
+K_District_16,Karnataka,2016,3161632,54.94,45.06,53.66,18.89,1080.55,Synthetic data for visualization practice
+K_District_16,Karnataka,2021,3427832,65.7,34.3,72.31,30.5,846.27,Synthetic data for visualization practice
+K_District_17,Karnataka,2011,570318,79.02,20.98,76.48,21.07,151.91,Synthetic data for visualization practice
+K_District_17,Karnataka,2016,606741,67.25,32.75,74.86,27.84,207.47,Synthetic data for visualization practice
+K_District_17,Karnataka,2021,624723,60.92,39.08,70.55,18.0,159.32,Synthetic data for visualization practice
+K_District_18,Karnataka,2011,2960145,27.93,72.07,83.22,25.7,1126.58,Synthetic data for visualization practice
+K_District_18,Karnataka,2016,3183243,68.21,31.79,69.48,31.96,4662.13,Synthetic data for visualization practice
+K_District_18,Karnataka,2021,3362335,52.85,47.15,67.97,10.89,4515.68,Synthetic data for visualization practice
+K_District_19,Karnataka,2011,351105,59.25,40.75,81.4,26.11,201.2,Synthetic data for visualization practice
+K_District_19,Karnataka,2016,368366,64.05,35.95,70.66,18.47,410.05,Synthetic data for visualization practice
+K_District_19,Karnataka,2021,419044,26.9,73.1,75.44,19.88,156.05,Synthetic data for visualization practice
+K_District_20,Karnataka,2011,284999,41.13,58.87,80.03,31.7,195.82,Synthetic data for visualization practice
+K_District_20,Karnataka,2016,305850,59.64,40.36,57.7,11.06,384.13,Synthetic data for visualization practice
+K_District_20,Karnataka,2021,315175,61.26,38.74,72.72,23.84,81.4,Synthetic data for visualization practice
+K_District_21,Karnataka,2011,216323,52.21,47.79,61.2,26.59,191.38,Synthetic data for visualization practice
+K_District_21,Karnataka,2016,230917,53.13,46.87,80.02,23.76,62.11,Synthetic data for visualization practice
+K_District_21,Karnataka,2021,251150,60.32,39.68,76.6,30.29,393.64,Synthetic data for visualization practice
+K_District_22,Karnataka,2011,1188917,29.13,70.87,70.92,19.8,271.27,Synthetic data for visualization practice
+K_District_22,Karnataka,2016,1238061,64.12,35.88,56.14,19.19,331.49,Synthetic data for visualization practice
+K_District_22,Karnataka,2021,1420988,45.0,55.0,72.66,23.01,388.62,Synthetic data for visualization practice
+K_District_23,Karnataka,2011,1275925,56.29,43.71,51.3,17.46,1047.17,Synthetic data for visualization practice
+K_District_23,Karnataka,2016,1384399,73.27,26.73,63.13,32.25,1399.18,Synthetic data for visualization practice
+K_District_23,Karnataka,2021,1397253,55.05,44.95,53.57,28.79,829.71,Synthetic data for visualization practice
+K_District_24,Karnataka,2011,1004713,33.2,66.8,86.6,17.83,1062.45,Synthetic data for visualization practice
+K_District_24,Karnataka,2016,1080252,41.08,58.92,83.88,21.41,242.88,Synthetic data for visualization practice
+K_District_24,Karnataka,2021,1157144,48.14,51.86,75.86,11.61,324.32,Synthetic data for visualization practice
+K_District_25,Karnataka,2011,1539642,77.19,22.81,69.3,16.48,1687.97,Synthetic data for visualization practice
+K_District_25,Karnataka,2016,1604051,52.14,47.86,68.78,19.79,1589.7,Synthetic data for visualization practice
+K_District_25,Karnataka,2021,1762180,61.06,38.94,81.69,30.35,1638.98,Synthetic data for visualization practice
+K_District_26,Karnataka,2011,2051399,71.63,28.37,62.0,41.99,589.24,Synthetic data for visualization practice
+K_District_26,Karnataka,2016,2203511,36.82,63.18,61.36,29.79,519.31,Synthetic data for visualization practice
+K_District_26,Karnataka,2021,2443473,60.21,39.79,73.98,30.0,919.46,Synthetic data for visualization practice
+K_District_27,Karnataka,2011,2610119,62.93,37.07,77.65,21.84,1083.08,Synthetic data for visualization practice
+K_District_27,Karnataka,2016,2728027,72.22,27.78,83.26,20.34,786.28,Synthetic data for visualization practice
+K_District_27,Karnataka,2021,2859047,29.44,70.56,67.98,38.14,1010.15,Synthetic data for visualization practice
+K_District_28,Karnataka,2011,427447,56.76,43.24,81.19,5.0,153.92,Synthetic data for visualization practice
+K_District_28,Karnataka,2016,465493,30.37,69.63,72.74,20.91,217.57,Synthetic data for visualization practice
+K_District_28,Karnataka,2021,475506,39.68,60.32,58.91,16.47,99.27,Synthetic data for visualization practice
+K_District_29,Karnataka,2011,353152,39.4,60.6,68.63,27.9,114.6,Synthetic data for visualization practice
+K_District_29,Karnataka,2016,370243,15.83,84.17,65.93,18.14,285.06,Synthetic data for visualization practice
+K_District_29,Karnataka,2021,413313,67.25,32.75,71.66,29.92,478.49,Synthetic data for visualization practice
+K_District_30,Karnataka,2011,942271,25.91,74.09,68.16,13.63,370.76,Synthetic data for visualization practice
+K_District_30,Karnataka,2016,1012273,70.22,29.78,68.14,13.84,401.88,Synthetic data for visualization practice
+K_District_30,Karnataka,2021,1077037,82.15,17.85,75.71,19.0,646.09,Synthetic data for visualization practice
+K_District_01,Kerala,2011,639343,73.5,26.5,74.34,22.88,568.3,Synthetic data for visualization practice
+K_District_01,Kerala,2016,692453,48.8,51.2,64.4,30.26,156.27,Synthetic data for visualization practice
+K_District_01,Kerala,2021,750500,79.69,20.31,76.69,24.87,280.12,Synthetic data for visualization practice
+K_District_02,Kerala,2011,1953869,38.64,61.36,69.47,34.41,455.17,Synthetic data for visualization practice
+K_District_02,Kerala,2016,2117045,71.6,28.4,69.56,21.12,657.12,Synthetic data for visualization practice
+K_District_02,Kerala,2021,2131784,32.97,67.03,59.5,26.65,631.7,Synthetic data for visualization practice
+K_District_03,Kerala,2011,1320167,50.94,49.06,82.05,15.31,415.11,Synthetic data for visualization practice
+K_District_03,Kerala,2016,1408189,55.66,44.34,68.69,24.7,326.29,Synthetic data for visualization practice
+K_District_03,Kerala,2021,1561696,54.19,45.81,79.77,27.57,335.38,Synthetic data for visualization practice
+K_District_04,Kerala,2011,1746922,54.63,45.37,74.13,26.41,1612.75,Synthetic data for visualization practice
+K_District_04,Kerala,2016,1909729,46.15,53.85,79.05,23.32,717.17,Synthetic data for visualization practice
+K_District_04,Kerala,2021,2066819,49.74,50.26,78.59,24.86,3578.49,Synthetic data for visualization practice
+K_District_05,Kerala,2011,1194170,53.89,46.11,67.79,24.91,400.67,Synthetic data for visualization practice
+K_District_05,Kerala,2016,1264016,60.64,39.36,77.87,5.0,375.63,Synthetic data for visualization practice
+K_District_05,Kerala,2021,1366770,63.71,36.29,79.22,19.38,450.73,Synthetic data for visualization practice
+K_District_06,Kerala,2011,1904478,71.38,28.62,78.33,31.35,768.07,Synthetic data for visualization practice
+K_District_06,Kerala,2016,2025422,32.46,67.54,64.17,23.01,442.23,Synthetic data for visualization practice
+K_District_06,Kerala,2021,2193913,63.97,36.03,69.84,15.07,469.09,Synthetic data for visualization practice
+K_District_07,Kerala,2011,350852,66.35,33.65,82.01,20.09,79.28,Synthetic data for visualization practice
+K_District_07,Kerala,2016,368020,47.41,52.59,69.38,16.6,73.75,Synthetic data for visualization practice
+K_District_07,Kerala,2021,406652,48.29,51.71,72.44,15.43,110.57,Synthetic data for visualization practice
+K_District_08,Kerala,2011,2819732,52.31,47.69,64.55,22.84,790.03,Synthetic data for visualization practice
+K_District_08,Kerala,2016,2953442,71.47,28.53,60.72,39.39,1080.17,Synthetic data for visualization practice
+K_District_08,Kerala,2021,3177613,43.71,56.29,82.28,20.99,1410.32,Synthetic data for visualization practice
+K_District_09,Kerala,2011,2341873,61.28,38.72,73.56,21.68,2664.56,Synthetic data for visualization practice
+K_District_09,Kerala,2016,2456484,48.09,51.91,76.14,27.3,3808.08,Synthetic data for visualization practice
+K_District_09,Kerala,2021,2697846,60.75,39.25,70.48,8.06,689.26,Synthetic data for visualization practice
+K_District_10,Kerala,2011,1025763,39.41,60.59,66.89,23.08,1263.87,Synthetic data for visualization practice
+K_District_10,Kerala,2016,1073173,78.22,21.78,57.58,20.53,353.35,Synthetic data for visualization practice
+K_District_10,Kerala,2021,1117315,52.03,47.97,63.11,26.59,440.43,Synthetic data for visualization practice
+K_District_11,Kerala,2011,1405268,34.3,65.7,69.81,25.74,775.0,Synthetic data for visualization practice
+K_District_11,Kerala,2016,1507595,71.04,28.96,80.07,43.07,879.09,Synthetic data for visualization practice
+K_District_11,Kerala,2021,1604229,57.66,42.34,63.76,22.54,2009.81,Synthetic data for visualization practice
+K_District_12,Kerala,2011,2889684,53.27,46.73,80.55,30.89,2142.05,Synthetic data for visualization practice
+K_District_12,Kerala,2016,3018374,57.23,42.77,74.16,9.06,642.32,Synthetic data for visualization practice
+K_District_12,Kerala,2021,3266945,57.55,42.45,72.97,23.82,749.54,Synthetic data for visualization practice
+K_District_13,Kerala,2011,2927909,71.3,28.7,70.87,34.51,786.13,Synthetic data for visualization practice
+K_District_13,Kerala,2016,3117463,82.95,17.05,77.2,19.69,805.49,Synthetic data for visualization practice
+K_District_13,Kerala,2021,3309217,59.15,40.85,73.78,22.16,3593.13,Synthetic data for visualization practice
+K_District_14,Kerala,2011,935488,47.06,52.94,63.13,32.13,251.01,Synthetic data for visualization practice
+K_District_14,Kerala,2016,1022482,64.75,35.25,69.61,21.44,925.18,Synthetic data for visualization practice
+K_District_14,Kerala,2021,1106777,74.78,25.22,53.68,19.63,343.52,Synthetic data for visualization practice
+K_District_15,Kerala,2011,1800654,63.9,36.1,85.66,11.65,413.83,Synthetic data for visualization practice
+K_District_15,Kerala,2016,1929327,31.94,68.06,58.8,14.22,449.69,Synthetic data for visualization practice
+K_District_15,Kerala,2021,2133707,55.47,44.53,63.4,27.07,482.82,Synthetic data for visualization practice
+K_District_16,Kerala,2011,1859966,80.87,19.13,75.28,22.13,1763.84,Synthetic data for visualization practice
+K_District_16,Kerala,2016,1951443,82.86,17.14,76.68,26.33,423.18,Synthetic data for visualization practice
+K_District_16,Kerala,2021,2155121,40.65,59.35,72.98,45.0,571.27,Synthetic data for visualization practice
+K_District_17,Kerala,2011,1211294,51.58,48.42,70.16,22.73,249.41,Synthetic data for visualization practice
+K_District_17,Kerala,2016,1317311,47.69,52.31,90.2,19.98,2236.04,Synthetic data for visualization practice
+K_District_17,Kerala,2021,1412547,49.58,50.42,65.98,29.47,1052.12,Synthetic data for visualization practice
+K_District_18,Kerala,2011,1266947,39.59,60.41,65.23,35.49,1403.5,Synthetic data for visualization practice
+K_District_18,Kerala,2016,1349123,40.83,59.17,81.08,16.51,723.61,Synthetic data for visualization practice
+K_District_18,Kerala,2021,1465379,46.69,53.31,75.64,22.56,308.49,Synthetic data for visualization practice
+K_District_19,Kerala,2011,2592532,64.65,35.35,79.44,21.81,2022.85,Synthetic data for visualization practice
+K_District_19,Kerala,2016,2828390,52.64,47.36,63.5,26.63,1102.84,Synthetic data for visualization practice
+K_District_19,Kerala,2021,2990532,46.02,53.98,65.68,20.0,613.32,Synthetic data for visualization practice
+K_District_20,Kerala,2011,2309907,68.89,31.11,75.03,19.94,878.03,Synthetic data for visualization practice
+K_District_20,Kerala,2016,2484176,20.81,79.19,54.69,20.71,4074.37,Synthetic data for visualization practice
+K_District_20,Kerala,2021,2706959,78.03,21.97,76.16,20.0,879.18,Synthetic data for visualization practice
+K_District_21,Kerala,2011,1652812,68.95,31.05,65.02,17.6,822.14,Synthetic data for visualization practice
+K_District_21,Kerala,2016,1785250,39.25,60.75,69.04,24.08,472.32,Synthetic data for visualization practice
+K_District_21,Kerala,2021,1872247,47.4,52.6,71.53,18.05,518.56,Synthetic data for visualization practice
+K_District_22,Kerala,2011,2545745,33.26,66.74,67.19,20.29,5334.4,Synthetic data for visualization practice
+K_District_22,Kerala,2016,2716920,61.28,38.72,78.14,16.93,1038.65,Synthetic data for visualization practice
+K_District_22,Kerala,2021,2812243,60.78,39.22,63.41,24.22,1140.94,Synthetic data for visualization practice
+K_District_23,Kerala,2011,2313840,70.9,29.1,61.11,21.71,1325.85,Synthetic data for visualization practice
+K_District_23,Kerala,2016,2443467,79.17,20.83,74.25,14.5,491.14,Synthetic data for visualization practice
+K_District_23,Kerala,2021,2568332,62.71,37.29,76.03,19.25,879.62,Synthetic data for visualization practice
+K_District_24,Kerala,2011,2951167,60.81,39.19,61.43,19.13,724.62,Synthetic data for visualization practice
+K_District_24,Kerala,2016,3126572,49.8,50.2,63.91,20.32,1470.98,Synthetic data for visualization practice
+K_District_24,Kerala,2021,3354119,59.57,40.43,75.01,25.96,4059.34,Synthetic data for visualization practice
+K_District_25,Kerala,2011,1421920,65.67,34.33,50.16,38.71,772.62,Synthetic data for visualization practice
+K_District_25,Kerala,2016,1518384,33.8,66.2,82.89,16.45,447.56,Synthetic data for visualization practice
+K_District_25,Kerala,2021,1676435,88.4,11.6,59.02,22.55,379.38,Synthetic data for visualization practice
+K_District_26,Kerala,2011,2773951,48.62,51.38,82.23,18.6,735.65,Synthetic data for visualization practice
+K_District_26,Kerala,2016,2896092,50.77,49.23,69.64,25.96,1243.15,Synthetic data for visualization practice
+K_District_26,Kerala,2021,3016843,59.0,41.0,77.95,14.82,1837.16,Synthetic data for visualization practice
+K_District_27,Kerala,2011,809445,62.34,37.66,78.09,33.69,222.45,Synthetic data for visualization practice
+K_District_27,Kerala,2016,858416,61.45,38.55,65.38,18.9,180.89,Synthetic data for visualization practice
+K_District_27,Kerala,2021,885607,61.75,38.25,63.75,24.17,696.44,Synthetic data for visualization practice
+K_District_28,Kerala,2011,1840877,41.09,58.91,45.0,25.16,2660.32,Synthetic data for visualization practice
+K_District_28,Kerala,2016,1982661,69.25,30.75,82.02,35.96,1330.86,Synthetic data for visualization practice
+K_District_28,Kerala,2021,2017629,75.69,24.31,85.2,21.67,965.64,Synthetic data for visualization practice
+K_District_29,Kerala,2011,1503050,73.43,26.57,67.05,29.71,487.26,Synthetic data for visualization practice
+K_District_29,Kerala,2016,1626898,53.52,46.48,76.16,30.58,439.51,Synthetic data for visualization practice
+K_District_29,Kerala,2021,1744396,73.4,26.6,93.11,27.65,1602.31,Synthetic data for visualization practice
+K_District_30,Kerala,2011,2988094,82.44,17.56,78.64,21.82,1412.16,Synthetic data for visualization practice
+K_District_30,Kerala,2016,3165345,64.47,35.53,75.18,6.43,1715.4,Synthetic data for visualization practice
+K_District_30,Kerala,2021,3515465,75.31,24.69,73.88,18.29,1848.35,Synthetic data for visualization practice
+MP_District_01,Madhya Pradesh,2011,2226598,56.21,43.79,73.25,19.72,1377.38,Synthetic data for visualization practice
+MP_District_01,Madhya Pradesh,2016,2352281,47.46,52.54,77.83,14.96,1541.23,Synthetic data for visualization practice
+MP_District_01,Madhya Pradesh,2021,2507059,60.56,39.44,71.01,10.03,735.45,Synthetic data for visualization practice
+MP_District_02,Madhya Pradesh,2011,2916264,41.67,58.33,59.82,19.98,3736.97,Synthetic data for visualization practice
+MP_District_02,Madhya Pradesh,2016,3168653,32.37,67.63,75.75,14.95,1159.29,Synthetic data for visualization practice
+MP_District_02,Madhya Pradesh,2021,3467680,37.41,62.59,72.57,32.72,828.96,Synthetic data for visualization practice
+MP_District_03,Madhya Pradesh,2011,2856207,51.67,48.33,68.91,30.26,1776.55,Synthetic data for visualization practice
+MP_District_03,Madhya Pradesh,2016,3079006,53.52,46.48,76.23,27.92,651.3,Synthetic data for visualization practice
+MP_District_03,Madhya Pradesh,2021,3345685,69.65,30.35,71.46,9.77,874.0,Synthetic data for visualization practice
+MP_District_04,Madhya Pradesh,2011,413216,71.37,28.63,59.44,21.03,226.42,Synthetic data for visualization practice
+MP_District_04,Madhya Pradesh,2016,430223,37.25,62.75,50.52,34.19,125.98,Synthetic data for visualization practice
+MP_District_04,Madhya Pradesh,2021,485238,68.93,31.07,77.37,19.43,237.12,Synthetic data for visualization practice
+MP_District_05,Madhya Pradesh,2011,303076,83.53,16.47,58.51,9.14,84.28,Synthetic data for visualization practice
+MP_District_05,Madhya Pradesh,2016,322760,85.65,14.35,84.04,34.7,91.93,Synthetic data for visualization practice
+MP_District_05,Madhya Pradesh,2021,348997,30.11,69.89,85.46,10.0,91.81,Synthetic data for visualization practice
+MP_District_06,Madhya Pradesh,2011,2473884,53.86,46.14,75.98,25.72,648.34,Synthetic data for visualization practice
+MP_District_06,Madhya Pradesh,2016,2575765,76.39,23.61,84.52,23.25,2642.06,Synthetic data for visualization practice
+MP_District_06,Madhya Pradesh,2021,2848892,46.0,54.0,83.75,5.82,5374.68,Synthetic data for visualization practice
+MP_District_07,Madhya Pradesh,2011,646908,69.61,30.39,71.76,17.63,538.99,Synthetic data for visualization practice
+MP_District_07,Madhya Pradesh,2016,692157,68.04,31.96,54.16,24.29,210.59,Synthetic data for visualization practice
+MP_District_07,Madhya Pradesh,2021,714159,60.84,39.16,71.28,30.44,300.83,Synthetic data for visualization practice
+MP_District_08,Madhya Pradesh,2011,341854,59.38,40.62,67.75,19.59,154.74,Synthetic data for visualization practice
+MP_District_08,Madhya Pradesh,2016,365025,71.67,28.33,72.84,25.01,196.36,Synthetic data for visualization practice
+MP_District_08,Madhya Pradesh,2021,406998,46.28,53.72,62.62,35.17,310.2,Synthetic data for visualization practice
+MP_District_09,Madhya Pradesh,2011,2253856,53.6,46.4,69.48,28.23,1636.13,Synthetic data for visualization practice
+MP_District_09,Madhya Pradesh,2016,2390571,86.09,13.91,70.22,10.85,487.63,Synthetic data for visualization practice
+MP_District_09,Madhya Pradesh,2021,2466131,48.79,51.21,69.91,27.46,903.36,Synthetic data for visualization practice
+MP_District_10,Madhya Pradesh,2011,730542,55.67,44.33,72.12,17.38,517.92,Synthetic data for visualization practice
+MP_District_10,Madhya Pradesh,2016,792448,59.52,40.48,70.37,28.25,240.24,Synthetic data for visualization practice
+MP_District_10,Madhya Pradesh,2021,841608,51.0,49.0,84.54,22.02,578.97,Synthetic data for visualization practice
+MP_District_11,Madhya Pradesh,2011,714989,52.82,47.18,77.08,17.29,668.25,Synthetic data for visualization practice
+MP_District_11,Madhya Pradesh,2016,744098,59.88,40.12,75.15,25.22,741.92,Synthetic data for visualization practice
+MP_District_11,Madhya Pradesh,2021,822745,87.38,12.62,86.12,25.38,252.06,Synthetic data for visualization practice
+MP_District_12,Madhya Pradesh,2011,1824989,69.38,30.62,65.47,33.21,1957.06,Synthetic data for visualization practice
+MP_District_12,Madhya Pradesh,2016,1973048,51.03,48.97,76.07,20.12,622.08,Synthetic data for visualization practice
+MP_District_12,Madhya Pradesh,2021,2031058,78.12,21.88,76.21,11.69,756.57,Synthetic data for visualization practice
+MP_District_13,Madhya Pradesh,2011,2400772,63.3,36.7,77.55,36.83,908.17,Synthetic data for visualization practice
+MP_District_13,Madhya Pradesh,2016,2611922,73.89,26.11,66.21,16.03,2393.63,Synthetic data for visualization practice
+MP_District_13,Madhya Pradesh,2021,2612043,33.84,66.16,76.96,10.73,534.08,Synthetic data for visualization practice
+MP_District_14,Madhya Pradesh,2011,1367842,83.7,16.3,78.02,19.56,446.33,Synthetic data for visualization practice
+MP_District_14,Madhya Pradesh,2016,1488307,54.55,45.45,82.68,14.57,1675.88,Synthetic data for visualization practice
+MP_District_14,Madhya Pradesh,2021,1610550,51.95,48.05,88.18,15.73,933.51,Synthetic data for visualization practice
+MP_District_15,Madhya Pradesh,2011,357760,30.29,69.71,59.04,16.92,94.5,Synthetic data for visualization practice
+MP_District_15,Madhya Pradesh,2016,390292,56.83,43.17,81.17,21.08,161.54,Synthetic data for visualization practice
+MP_District_15,Madhya Pradesh,2021,391791,51.3,48.7,65.1,25.76,131.15,Synthetic data for visualization practice
+MP_District_16,Madhya Pradesh,2011,1906615,70.05,29.95,70.19,23.02,407.89,Synthetic data for visualization practice
+MP_District_16,Madhya Pradesh,2016,2032001,50.67,49.33,86.52,24.96,1639.46,Synthetic data for visualization practice
+MP_District_16,Madhya Pradesh,2021,2099623,70.13,29.87,78.97,27.75,494.31,Synthetic data for visualization practice
+MP_District_17,Madhya Pradesh,2011,1499658,61.58,38.42,71.81,27.55,998.54,Synthetic data for visualization practice
+MP_District_17,Madhya Pradesh,2016,1609317,69.43,30.57,64.02,15.95,806.67,Synthetic data for visualization practice
+MP_District_17,Madhya Pradesh,2021,1671136,71.63,28.37,82.71,27.4,3498.31,Synthetic data for visualization practice
+MP_District_18,Madhya Pradesh,2011,1576787,42.62,57.38,70.53,14.18,416.85,Synthetic data for visualization practice
+MP_District_18,Madhya Pradesh,2016,1688474,52.04,47.96,54.57,24.37,1088.99,Synthetic data for visualization practice
+MP_District_18,Madhya Pradesh,2021,1876646,41.01,58.99,72.02,17.64,1773.31,Synthetic data for visualization practice
+MP_District_19,Madhya Pradesh,2011,1880776,62.99,37.01,67.82,15.72,572.9,Synthetic data for visualization practice
+MP_District_19,Madhya Pradesh,2016,2018045,50.69,49.31,75.25,15.37,621.43,Synthetic data for visualization practice
+MP_District_19,Madhya Pradesh,2021,2152795,90.0,10.0,77.36,35.13,1897.38,Synthetic data for visualization practice
+MP_District_20,Madhya Pradesh,2011,1203454,38.37,61.63,75.57,23.9,771.7,Synthetic data for visualization practice
+MP_District_20,Madhya Pradesh,2016,1287655,69.1,30.9,67.49,24.46,469.25,Synthetic data for visualization practice
+MP_District_20,Madhya Pradesh,2021,1337515,41.78,58.22,68.15,36.99,880.56,Synthetic data for visualization practice
+MP_District_21,Madhya Pradesh,2011,2552452,33.43,66.57,81.87,29.24,756.69,Synthetic data for visualization practice
+MP_District_21,Madhya Pradesh,2016,2742774,33.04,66.96,79.81,31.49,658.78,Synthetic data for visualization practice
+MP_District_21,Madhya Pradesh,2021,2822837,73.62,26.38,66.22,36.23,1731.67,Synthetic data for visualization practice
+MP_District_22,Madhya Pradesh,2011,1463721,55.68,44.32,68.52,31.01,610.55,Synthetic data for visualization practice
+MP_District_22,Madhya Pradesh,2016,1589864,57.77,42.23,67.89,21.93,680.3,Synthetic data for visualization practice
+MP_District_22,Madhya Pradesh,2021,1643597,70.03,29.97,71.18,14.59,1089.33,Synthetic data for visualization practice
+MP_District_23,Madhya Pradesh,2011,2895583,78.24,21.76,67.41,19.45,739.52,Synthetic data for visualization practice
+MP_District_23,Madhya Pradesh,2016,3157509,59.74,40.26,65.14,17.43,964.16,Synthetic data for visualization practice
+MP_District_23,Madhya Pradesh,2021,3178446,44.43,55.57,66.72,15.29,2793.56,Synthetic data for visualization practice
+MP_District_24,Madhya Pradesh,2011,592432,55.72,44.28,93.18,20.76,646.97,Synthetic data for visualization practice
+MP_District_24,Madhya Pradesh,2016,618343,54.06,45.94,74.46,22.17,184.61,Synthetic data for visualization practice
+MP_District_24,Madhya Pradesh,2021,647557,47.59,52.41,72.15,6.22,201.07,Synthetic data for visualization practice
+MP_District_25,Madhya Pradesh,2011,1461615,76.89,23.11,73.53,27.32,570.41,Synthetic data for visualization practice
+MP_District_25,Madhya Pradesh,2016,1534469,68.92,31.08,68.16,40.33,540.98,Synthetic data for visualization practice
+MP_District_25,Madhya Pradesh,2021,1721112,52.32,47.68,91.77,17.9,1333.78,Synthetic data for visualization practice
+MP_District_26,Madhya Pradesh,2011,1227577,61.06,38.94,74.06,16.66,246.02,Synthetic data for visualization practice
+MP_District_26,Madhya Pradesh,2016,1332646,47.67,52.33,82.53,24.81,360.9,Synthetic data for visualization practice
+MP_District_26,Madhya Pradesh,2021,1394635,18.03,81.97,77.53,19.25,708.12,Synthetic data for visualization practice
+MP_District_27,Madhya Pradesh,2011,2593566,50.92,49.08,63.79,18.54,1739.94,Synthetic data for visualization practice
+MP_District_27,Madhya Pradesh,2016,2722817,33.04,66.96,59.06,22.93,637.17,Synthetic data for visualization practice
+MP_District_27,Madhya Pradesh,2021,2844202,47.52,52.48,63.47,19.46,992.58,Synthetic data for visualization practice
+MP_District_28,Madhya Pradesh,2011,323271,32.18,67.82,78.31,17.46,69.89,Synthetic data for visualization practice
+MP_District_28,Madhya Pradesh,2016,340510,59.92,40.08,79.19,5.47,264.69,Synthetic data for visualization practice
+MP_District_28,Madhya Pradesh,2021,379438,62.64,37.36,88.64,35.64,165.11,Synthetic data for visualization practice
+MP_District_29,Madhya Pradesh,2011,2543514,47.86,52.14,68.33,17.25,2078.7,Synthetic data for visualization practice
+MP_District_29,Madhya Pradesh,2016,2767237,80.45,19.55,80.4,19.42,574.91,Synthetic data for visualization practice
+MP_District_29,Madhya Pradesh,2021,3002065,87.0,13.0,75.12,21.67,669.56,Synthetic data for visualization practice
+MP_District_30,Madhya Pradesh,2011,2696655,64.77,35.23,73.26,16.17,1128.5,Synthetic data for visualization practice
+MP_District_30,Madhya Pradesh,2016,2919143,61.43,38.57,69.18,12.94,679.11,Synthetic data for visualization practice
+MP_District_30,Madhya Pradesh,2021,2979345,25.19,74.81,84.06,20.33,1827.07,Synthetic data for visualization practice
+M_District_01,Maharashtra,2011,785589,70.04,29.96,74.17,10.99,570.27,Synthetic data for visualization practice
+M_District_01,Maharashtra,2016,826608,75.13,24.87,64.67,19.84,239.12,Synthetic data for visualization practice
+M_District_01,Maharashtra,2021,901744,71.12,28.88,73.97,20.17,245.99,Synthetic data for visualization practice
+M_District_02,Maharashtra,2011,342035,63.22,36.78,62.56,20.74,124.81,Synthetic data for visualization practice
+M_District_02,Maharashtra,2016,372636,51.08,48.92,68.7,19.77,117.09,Synthetic data for visualization practice
+M_District_02,Maharashtra,2021,387243,59.22,40.78,75.92,21.44,791.07,Synthetic data for visualization practice
+M_District_03,Maharashtra,2011,541624,76.22,23.78,75.35,32.82,208.75,Synthetic data for visualization practice
+M_District_03,Maharashtra,2016,585631,72.93,27.07,79.59,19.68,140.15,Synthetic data for visualization practice
+M_District_03,Maharashtra,2021,610459,44.73,55.27,87.52,28.08,164.21,Synthetic data for visualization practice
+M_District_04,Maharashtra,2011,2939095,43.33,56.67,66.97,20.67,901.97,Synthetic data for visualization practice
+M_District_04,Maharashtra,2016,3162206,89.34,10.66,63.51,10.73,1529.95,Synthetic data for visualization practice
+M_District_04,Maharashtra,2021,3411609,52.26,47.74,75.43,25.25,2067.08,Synthetic data for visualization practice
+M_District_05,Maharashtra,2011,1724586,42.33,57.67,88.35,36.84,767.67,Synthetic data for visualization practice
+M_District_05,Maharashtra,2016,1801729,59.17,40.83,75.95,26.81,363.49,Synthetic data for visualization practice
+M_District_05,Maharashtra,2021,1890431,34.57,65.43,82.19,20.42,1541.9,Synthetic data for visualization practice
+M_District_06,Maharashtra,2011,2135637,62.43,37.57,72.83,25.67,643.19,Synthetic data for visualization practice
+M_District_06,Maharashtra,2016,2325934,65.9,34.1,75.09,24.33,920.86,Synthetic data for visualization practice
+M_District_06,Maharashtra,2021,2392372,43.03,56.97,72.24,16.16,601.12,Synthetic data for visualization practice
+M_District_07,Maharashtra,2011,1586852,27.56,72.44,68.19,22.46,579.57,Synthetic data for visualization practice
+M_District_07,Maharashtra,2016,1729206,62.12,37.88,70.75,12.46,782.88,Synthetic data for visualization practice
+M_District_07,Maharashtra,2021,1820511,50.72,49.28,78.22,25.23,774.96,Synthetic data for visualization practice
+M_District_08,Maharashtra,2011,1207443,77.63,22.37,78.06,22.9,393.68,Synthetic data for visualization practice
+M_District_08,Maharashtra,2016,1275345,23.37,76.63,66.54,27.98,283.01,Synthetic data for visualization practice
+M_District_08,Maharashtra,2021,1342531,42.28,57.72,54.4,33.4,610.19,Synthetic data for visualization practice
+M_District_09,Maharashtra,2011,2212857,73.82,26.18,79.93,14.26,1244.44,Synthetic data for visualization practice
+M_District_09,Maharashtra,2016,2318822,45.84,54.16,69.36,15.73,1112.45,Synthetic data for visualization practice
+M_District_09,Maharashtra,2021,2406101,51.69,48.31,77.55,24.3,1019.43,Synthetic data for visualization practice
+M_District_10,Maharashtra,2011,697275,42.0,58.0,77.12,11.8,174.34,Synthetic data for visualization practice
+M_District_10,Maharashtra,2016,757149,55.25,44.75,86.49,28.2,178.77,Synthetic data for visualization practice
+M_District_10,Maharashtra,2021,799659,82.33,17.67,96.0,25.8,380.89,Synthetic data for visualization practice
+M_District_11,Maharashtra,2011,1891284,52.19,47.81,81.39,15.28,418.26,Synthetic data for visualization practice
+M_District_11,Maharashtra,2016,1990961,40.74,59.26,71.94,19.09,561.04,Synthetic data for visualization practice
+M_District_11,Maharashtra,2021,2078571,59.94,40.06,71.22,22.49,492.65,Synthetic data for visualization practice
+M_District_12,Maharashtra,2011,2056206,75.39,24.61,63.1,37.42,2764.79,Synthetic data for visualization practice
+M_District_12,Maharashtra,2016,2183224,50.66,49.34,73.86,26.79,2888.67,Synthetic data for visualization practice
+M_District_12,Maharashtra,2021,2246973,61.56,38.44,52.95,20.58,1545.74,Synthetic data for visualization practice
+M_District_13,Maharashtra,2011,2200396,58.31,41.69,84.49,24.6,2809.12,Synthetic data for visualization practice
+M_District_13,Maharashtra,2016,2371751,56.47,43.53,61.39,23.09,822.76,Synthetic data for visualization practice
+M_District_13,Maharashtra,2021,2607833,82.22,17.78,77.31,31.69,734.44,Synthetic data for visualization practice
+M_District_14,Maharashtra,2011,817399,52.08,47.92,69.32,27.45,257.22,Synthetic data for visualization practice
+M_District_14,Maharashtra,2016,854914,43.81,56.19,73.93,20.17,776.36,Synthetic data for visualization practice
+M_District_14,Maharashtra,2021,928476,48.41,51.59,69.26,16.69,2249.01,Synthetic data for visualization practice
+M_District_15,Maharashtra,2011,2093964,48.63,51.37,77.49,30.22,982.63,Synthetic data for visualization practice
+M_District_15,Maharashtra,2016,2194346,49.59,50.41,67.48,14.64,1822.74,Synthetic data for visualization practice
+M_District_15,Maharashtra,2021,2489268,68.56,31.44,68.18,19.23,1047.31,Synthetic data for visualization practice
+M_District_16,Maharashtra,2011,1252021,41.07,58.93,74.49,21.45,380.37,Synthetic data for visualization practice
+M_District_16,Maharashtra,2016,1345640,55.86,44.14,79.14,21.77,357.14,Synthetic data for visualization practice
+M_District_16,Maharashtra,2021,1390392,29.45,70.55,77.74,25.14,513.32,Synthetic data for visualization practice
+M_District_17,Maharashtra,2011,856071,25.8,74.2,86.83,17.32,183.39,Synthetic data for visualization practice
+M_District_17,Maharashtra,2016,913012,39.3,60.7,78.11,21.18,197.72,Synthetic data for visualization practice
+M_District_17,Maharashtra,2021,986958,57.23,42.77,70.13,16.56,1260.17,Synthetic data for visualization practice
+M_District_18,Maharashtra,2011,1291239,78.51,21.49,62.65,13.17,382.48,Synthetic data for visualization practice
+M_District_18,Maharashtra,2016,1369977,52.27,47.73,76.5,21.61,3048.41,Synthetic data for visualization practice
+M_District_18,Maharashtra,2021,1428090,47.12,52.88,86.76,33.57,498.42,Synthetic data for visualization practice
+M_District_19,Maharashtra,2011,532068,47.28,52.72,72.18,13.5,220.71,Synthetic data for visualization practice
+M_District_19,Maharashtra,2016,581438,72.55,27.45,68.56,13.52,146.95,Synthetic data for visualization practice
+M_District_19,Maharashtra,2021,611964,56.04,43.96,76.07,20.12,134.62,Synthetic data for visualization practice
+M_District_20,Maharashtra,2011,856837,53.41,46.59,75.63,26.06,469.38,Synthetic data for visualization practice
+M_District_20,Maharashtra,2016,893920,42.2,57.8,63.77,21.66,201.51,Synthetic data for visualization practice
+M_District_20,Maharashtra,2021,1016189,58.62,41.38,80.17,31.5,229.69,Synthetic data for visualization practice
+M_District_21,Maharashtra,2011,1616292,37.56,62.44,69.39,22.64,478.36,Synthetic data for visualization practice
+M_District_21,Maharashtra,2016,1709418,50.43,49.57,76.35,11.36,391.14,Synthetic data for visualization practice
+M_District_21,Maharashtra,2021,1750758,70.76,29.24,66.78,26.59,1664.48,Synthetic data for visualization practice
+M_District_22,Maharashtra,2011,474014,52.02,47.98,85.96,10.06,256.47,Synthetic data for visualization practice
+M_District_22,Maharashtra,2016,496634,39.73,60.27,89.57,36.79,113.37,Synthetic data for visualization practice
+M_District_22,Maharashtra,2021,553511,65.58,34.42,75.98,34.12,586.07,Synthetic data for visualization practice
+M_District_23,Maharashtra,2011,817738,69.05,30.95,68.84,17.58,259.31,Synthetic data for visualization practice
+M_District_23,Maharashtra,2016,890464,48.85,51.15,69.84,24.85,198.19,Synthetic data for visualization practice
+M_District_23,Maharashtra,2021,961469,72.43,27.57,68.36,38.16,205.48,Synthetic data for visualization practice
+M_District_24,Maharashtra,2011,2332219,64.46,35.54,83.84,26.56,1410.52,Synthetic data for visualization practice
+M_District_24,Maharashtra,2016,2546432,90.0,10.0,69.57,28.36,6325.77,Synthetic data for visualization practice
+M_District_24,Maharashtra,2021,2665135,55.63,44.37,52.58,20.4,3199.46,Synthetic data for visualization practice
+M_District_25,Maharashtra,2011,2181692,57.75,42.25,70.28,29.25,2571.47,Synthetic data for visualization practice
+M_District_25,Maharashtra,2016,2331261,70.24,29.76,73.83,8.84,4767.34,Synthetic data for visualization practice
+M_District_25,Maharashtra,2021,2390577,64.86,35.14,80.07,29.53,545.71,Synthetic data for visualization practice
+M_District_26,Maharashtra,2011,2793614,31.35,68.65,71.03,10.68,1256.18,Synthetic data for visualization practice
+M_District_26,Maharashtra,2016,3014208,71.4,28.6,77.96,20.55,646.77,Synthetic data for visualization practice
+M_District_26,Maharashtra,2021,3105205,71.66,28.34,75.69,9.31,1422.37,Synthetic data for visualization practice
+M_District_27,Maharashtra,2011,1439193,44.6,55.4,60.99,28.54,290.96,Synthetic data for visualization practice
+M_District_27,Maharashtra,2016,1565166,87.88,12.12,77.71,16.84,325.27,Synthetic data for visualization practice
+M_District_27,Maharashtra,2021,1583720,74.0,26.0,74.53,25.04,751.53,Synthetic data for visualization practice
+M_District_28,Maharashtra,2011,1456226,54.16,45.84,62.78,20.23,639.1,Synthetic data for visualization practice
+M_District_28,Maharashtra,2016,1524934,33.82,66.18,69.54,18.26,655.15,Synthetic data for visualization practice
+M_District_28,Maharashtra,2021,1638020,48.83,51.17,67.94,22.54,1206.71,Synthetic data for visualization practice
+M_District_29,Maharashtra,2011,2999849,72.0,28.0,85.47,32.95,803.62,Synthetic data for visualization practice
+M_District_29,Maharashtra,2016,3270537,64.71,35.29,82.96,33.19,4953.26,Synthetic data for visualization practice
+M_District_29,Maharashtra,2021,3339243,56.13,43.87,88.62,10.9,931.88,Synthetic data for visualization practice
+M_District_30,Maharashtra,2011,2017642,57.17,42.83,92.37,21.65,734.66,Synthetic data for visualization practice
+M_District_30,Maharashtra,2016,2131217,53.26,46.74,75.29,25.14,713.84,Synthetic data for visualization practice
+M_District_30,Maharashtra,2021,2186679,66.13,33.87,80.36,32.39,1813.0,Synthetic data for visualization practice
+M_District_01,Manipur,2011,1201340,46.08,53.92,66.28,21.0,447.76,Synthetic data for visualization practice
+M_District_01,Manipur,2016,1310680,70.74,29.26,65.61,25.48,318.85,Synthetic data for visualization practice
+M_District_01,Manipur,2021,1414628,85.83,14.17,62.98,11.77,1340.8,Synthetic data for visualization practice
+M_District_02,Manipur,2011,1035276,65.01,34.99,90.01,15.78,271.43,Synthetic data for visualization practice
+M_District_02,Manipur,2016,1116519,69.09,30.91,79.2,17.28,293.09,Synthetic data for visualization practice
+M_District_02,Manipur,2021,1236100,57.84,42.16,66.74,22.85,254.68,Synthetic data for visualization practice
+M_District_03,Manipur,2011,2975123,45.58,54.42,68.3,21.87,636.32,Synthetic data for visualization practice
+M_District_03,Manipur,2016,3239000,55.91,44.09,74.49,26.99,1319.6,Synthetic data for visualization practice
+M_District_03,Manipur,2021,3498943,42.6,57.4,68.01,24.72,1281.49,Synthetic data for visualization practice
+M_District_04,Manipur,2011,2199314,57.13,42.87,69.4,34.23,744.28,Synthetic data for visualization practice
+M_District_04,Manipur,2016,2350468,65.39,34.61,65.65,39.4,1641.07,Synthetic data for visualization practice
+M_District_04,Manipur,2021,2476029,50.7,49.3,69.08,18.37,3518.78,Synthetic data for visualization practice
+M_District_05,Manipur,2011,2904007,69.75,30.25,77.84,18.95,3363.31,Synthetic data for visualization practice
+M_District_05,Manipur,2016,3024029,38.48,61.52,62.19,27.24,4425.67,Synthetic data for visualization practice
+M_District_05,Manipur,2021,3154528,49.13,50.87,70.29,19.4,2158.08,Synthetic data for visualization practice
+M_District_06,Manipur,2011,2544179,62.84,37.16,72.61,36.15,728.89,Synthetic data for visualization practice
+M_District_06,Manipur,2016,2751612,57.0,43.0,74.19,6.79,678.23,Synthetic data for visualization practice
+M_District_06,Manipur,2021,2769345,23.21,76.79,70.95,15.53,3617.82,Synthetic data for visualization practice
+M_District_07,Manipur,2011,631397,81.43,18.57,74.39,5.0,185.94,Synthetic data for visualization practice
+M_District_07,Manipur,2016,678228,38.48,61.52,75.18,29.04,1113.47,Synthetic data for visualization practice
+M_District_07,Manipur,2021,716245,24.82,75.18,66.01,20.76,196.81,Synthetic data for visualization practice
+M_District_08,Manipur,2011,1133965,63.52,36.48,76.17,23.6,911.69,Synthetic data for visualization practice
+M_District_08,Manipur,2016,1212269,38.58,61.42,67.3,17.27,456.03,Synthetic data for visualization practice
+M_District_08,Manipur,2021,1294073,71.57,28.43,79.21,26.2,331.84,Synthetic data for visualization practice
+M_District_09,Manipur,2011,2236556,40.53,59.47,82.12,22.22,927.49,Synthetic data for visualization practice
+M_District_09,Manipur,2016,2346418,48.42,51.58,64.46,15.08,2211.11,Synthetic data for visualization practice
+M_District_09,Manipur,2021,2515674,77.75,22.25,69.39,19.54,679.11,Synthetic data for visualization practice
+M_District_10,Manipur,2011,1888695,57.17,42.83,57.95,15.51,399.33,Synthetic data for visualization practice
+M_District_10,Manipur,2016,2002799,47.37,52.63,86.43,9.43,477.96,Synthetic data for visualization practice
+M_District_10,Manipur,2021,2050796,62.82,37.18,48.72,8.12,448.61,Synthetic data for visualization practice
+M_District_11,Manipur,2011,482006,48.78,51.22,70.46,15.31,116.54,Synthetic data for visualization practice
+M_District_11,Manipur,2016,506483,73.84,26.16,71.74,15.29,187.42,Synthetic data for visualization practice
+M_District_11,Manipur,2021,561921,48.99,51.01,55.66,19.12,243.18,Synthetic data for visualization practice
+M_District_12,Manipur,2011,1138403,58.48,41.52,76.55,36.88,840.19,Synthetic data for visualization practice
+M_District_12,Manipur,2016,1187177,69.5,30.5,76.68,13.95,590.25,Synthetic data for visualization practice
+M_District_12,Manipur,2021,1233629,56.35,43.65,66.97,32.33,513.77,Synthetic data for visualization practice
+M_District_13,Manipur,2011,1253128,62.2,37.8,75.08,24.67,649.23,Synthetic data for visualization practice
+M_District_13,Manipur,2016,1309386,48.64,51.36,85.91,6.26,820.99,Synthetic data for visualization practice
+M_District_13,Manipur,2021,1422394,73.21,26.79,77.94,27.48,538.73,Synthetic data for visualization practice
+M_District_14,Manipur,2011,1178792,37.0,63.0,61.74,25.1,312.29,Synthetic data for visualization practice
+M_District_14,Manipur,2016,1243176,61.46,38.54,88.0,25.47,313.19,Synthetic data for visualization practice
+M_District_14,Manipur,2021,1350282,42.52,57.48,80.22,22.52,2738.84,Synthetic data for visualization practice
+M_District_15,Manipur,2011,2954498,32.48,67.52,87.71,12.81,4875.8,Synthetic data for visualization practice
+M_District_15,Manipur,2016,3166238,51.4,48.6,71.6,35.15,1130.3,Synthetic data for visualization practice
+M_District_15,Manipur,2021,3210419,74.45,25.55,66.3,30.55,663.79,Synthetic data for visualization practice
+M_District_16,Manipur,2011,858058,52.67,47.33,68.06,15.04,343.56,Synthetic data for visualization practice
+M_District_16,Manipur,2016,934808,60.5,39.5,69.94,25.45,508.98,Synthetic data for visualization practice
+M_District_16,Manipur,2021,986834,38.65,61.35,69.94,15.8,544.09,Synthetic data for visualization practice
+M_District_17,Manipur,2011,1635424,85.35,14.65,74.6,29.89,811.59,Synthetic data for visualization practice
+M_District_17,Manipur,2016,1773692,79.93,20.07,62.26,20.75,730.47,Synthetic data for visualization practice
+M_District_17,Manipur,2021,1906379,45.08,54.92,88.85,20.61,1403.91,Synthetic data for visualization practice
+M_District_18,Manipur,2011,2447842,90.0,10.0,89.15,40.87,597.64,Synthetic data for visualization practice
+M_District_18,Manipur,2016,2627251,50.07,49.93,74.05,24.36,973.05,Synthetic data for visualization practice
+M_District_18,Manipur,2021,2721771,66.28,33.72,67.81,10.98,589.16,Synthetic data for visualization practice
+M_District_19,Manipur,2011,962399,52.86,47.14,68.65,30.88,204.31,Synthetic data for visualization practice
+M_District_19,Manipur,2016,1048959,58.09,41.91,71.2,23.27,341.87,Synthetic data for visualization practice
+M_District_19,Manipur,2021,1099806,67.74,32.26,80.92,11.18,845.46,Synthetic data for visualization practice
+M_District_20,Manipur,2011,264382,75.77,24.23,73.99,15.8,191.34,Synthetic data for visualization practice
+M_District_20,Manipur,2016,276496,43.73,56.27,80.42,30.1,104.16,Synthetic data for visualization practice
+M_District_20,Manipur,2021,288262,64.76,35.24,61.38,21.33,61.56,Synthetic data for visualization practice
+M_District_21,Manipur,2011,1319637,56.97,43.03,77.73,34.64,728.29,Synthetic data for visualization practice
+M_District_21,Manipur,2016,1430676,51.87,48.13,74.62,22.78,801.22,Synthetic data for visualization practice
+M_District_21,Manipur,2021,1496579,60.95,39.05,65.32,20.85,1865.93,Synthetic data for visualization practice
+M_District_22,Manipur,2011,1970381,50.81,49.19,60.53,23.22,457.3,Synthetic data for visualization practice
+M_District_22,Manipur,2016,2102985,53.25,46.75,83.96,24.64,698.1,Synthetic data for visualization practice
+M_District_22,Manipur,2021,2291128,15.0,85.0,71.31,13.38,927.47,Synthetic data for visualization practice
+M_District_23,Manipur,2011,1543510,83.39,16.61,59.33,13.33,516.34,Synthetic data for visualization practice
+M_District_23,Manipur,2016,1618334,59.61,40.39,70.99,20.86,350.91,Synthetic data for visualization practice
+M_District_23,Manipur,2021,1726795,64.62,35.38,86.53,20.38,376.74,Synthetic data for visualization practice
+M_District_24,Manipur,2011,2103696,77.05,22.95,78.21,6.81,2234.68,Synthetic data for visualization practice
+M_District_24,Manipur,2016,2262451,58.45,41.55,71.7,26.12,1007.38,Synthetic data for visualization practice
+M_District_24,Manipur,2021,2504699,66.58,33.42,72.7,31.16,1720.3,Synthetic data for visualization practice
+M_District_25,Manipur,2011,1798466,64.03,35.97,56.56,19.92,977.3,Synthetic data for visualization practice
+M_District_25,Manipur,2016,1908773,72.79,27.21,78.85,21.51,655.88,Synthetic data for visualization practice
+M_District_25,Manipur,2021,2026596,57.2,42.8,79.15,21.64,3727.03,Synthetic data for visualization practice
+M_District_26,Manipur,2011,1302182,65.68,34.32,83.1,40.63,681.26,Synthetic data for visualization practice
+M_District_26,Manipur,2016,1359652,62.68,37.32,76.22,26.91,908.02,Synthetic data for visualization practice
+M_District_26,Manipur,2021,1514092,77.71,22.29,88.65,26.54,363.34,Synthetic data for visualization practice
+M_District_27,Manipur,2011,222208,65.47,34.53,77.7,27.77,63.39,Synthetic data for visualization practice
+M_District_27,Manipur,2016,235118,66.8,33.2,62.78,28.66,55.25,Synthetic data for visualization practice
+M_District_27,Manipur,2021,256020,77.49,22.51,63.74,21.76,111.8,Synthetic data for visualization practice
+M_District_28,Manipur,2011,1988641,79.61,20.39,71.11,31.37,628.48,Synthetic data for visualization practice
+M_District_28,Manipur,2016,2134696,56.95,43.05,78.6,15.26,546.38,Synthetic data for visualization practice
+M_District_28,Manipur,2021,2287763,47.5,52.5,79.68,26.19,832.13,Synthetic data for visualization practice
+M_District_29,Manipur,2011,1025954,63.3,36.7,78.39,34.81,259.72,Synthetic data for visualization practice
+M_District_29,Manipur,2016,1079955,81.53,18.47,73.23,29.15,1575.43,Synthetic data for visualization practice
+M_District_29,Manipur,2021,1115665,38.55,61.45,72.57,16.82,610.29,Synthetic data for visualization practice
+M_District_30,Manipur,2011,2008940,20.6,79.4,61.56,28.26,1622.9,Synthetic data for visualization practice
+M_District_30,Manipur,2016,2123630,63.22,36.78,64.1,27.78,1324.48,Synthetic data for visualization practice
+M_District_30,Manipur,2021,2212186,53.63,46.37,95.04,15.93,549.76,Synthetic data for visualization practice
+M_District_01,Meghalaya,2011,1689875,31.09,68.91,66.59,28.08,739.96,Synthetic data for visualization practice
+M_District_01,Meghalaya,2016,1837439,68.66,31.34,64.74,21.29,593.17,Synthetic data for visualization practice
+M_District_01,Meghalaya,2021,1927699,58.44,41.56,79.16,12.84,4098.83,Synthetic data for visualization practice
+M_District_02,Meghalaya,2011,2197267,51.31,48.69,85.34,19.43,1538.14,Synthetic data for visualization practice
+M_District_02,Meghalaya,2016,2307455,30.84,69.16,60.34,27.37,628.35,Synthetic data for visualization practice
+M_District_02,Meghalaya,2021,2387409,55.39,44.61,67.22,23.82,579.15,Synthetic data for visualization practice
+M_District_03,Meghalaya,2011,339598,49.2,50.8,67.45,27.52,193.82,Synthetic data for visualization practice
+M_District_03,Meghalaya,2016,364192,58.81,41.19,56.3,19.27,345.73,Synthetic data for visualization practice
+M_District_03,Meghalaya,2021,374718,62.51,37.49,78.48,15.81,256.08,Synthetic data for visualization practice
+M_District_04,Meghalaya,2011,1822800,31.84,68.16,67.71,32.78,892.78,Synthetic data for visualization practice
+M_District_04,Meghalaya,2016,1946790,46.12,53.88,90.05,17.7,562.45,Synthetic data for visualization practice
+M_District_04,Meghalaya,2021,2045953,55.14,44.86,74.43,14.91,648.2,Synthetic data for visualization practice
+M_District_05,Meghalaya,2011,298927,50.08,49.92,74.19,20.3,61.97,Synthetic data for visualization practice
+M_District_05,Meghalaya,2016,311440,55.13,44.87,67.88,17.87,93.05,Synthetic data for visualization practice
+M_District_05,Meghalaya,2021,355102,44.73,55.27,73.14,23.47,77.93,Synthetic data for visualization practice
+M_District_06,Meghalaya,2011,1734592,41.13,58.87,59.71,22.26,2802.53,Synthetic data for visualization practice
+M_District_06,Meghalaya,2016,1830297,37.09,62.91,68.37,13.01,693.01,Synthetic data for visualization practice
+M_District_06,Meghalaya,2021,2034307,57.25,42.75,69.28,5.7,875.16,Synthetic data for visualization practice
+M_District_07,Meghalaya,2011,1127231,64.3,35.7,74.92,32.1,475.14,Synthetic data for visualization practice
+M_District_07,Meghalaya,2016,1205206,70.57,29.43,73.5,20.02,451.24,Synthetic data for visualization practice
+M_District_07,Meghalaya,2021,1276338,52.14,47.86,65.83,32.61,283.54,Synthetic data for visualization practice
+M_District_08,Meghalaya,2011,1747644,65.14,34.86,79.92,26.4,370.48,Synthetic data for visualization practice
+M_District_08,Meghalaya,2016,1891386,63.32,36.68,65.42,36.48,521.04,Synthetic data for visualization practice
+M_District_08,Meghalaya,2021,2029078,34.95,65.05,71.12,17.43,450.5,Synthetic data for visualization practice
+M_District_09,Meghalaya,2011,2609351,54.56,45.44,84.54,11.5,1387.95,Synthetic data for visualization practice
+M_District_09,Meghalaya,2016,2723645,56.16,43.84,73.36,30.18,572.33,Synthetic data for visualization practice
+M_District_09,Meghalaya,2021,2951643,45.36,54.64,68.87,32.72,3301.76,Synthetic data for visualization practice
+M_District_10,Meghalaya,2011,2781210,34.51,65.49,84.62,17.08,5552.67,Synthetic data for visualization practice
+M_District_10,Meghalaya,2016,2908386,51.06,48.94,79.8,24.02,1822.79,Synthetic data for visualization practice
+M_District_10,Meghalaya,2021,3079699,50.08,49.92,73.32,14.07,1728.43,Synthetic data for visualization practice
+M_District_11,Meghalaya,2011,2890004,65.89,34.11,71.01,31.18,656.32,Synthetic data for visualization practice
+M_District_11,Meghalaya,2016,3079068,66.54,33.46,83.74,14.23,984.18,Synthetic data for visualization practice
+M_District_11,Meghalaya,2021,3262559,53.01,46.99,68.79,20.41,1746.52,Synthetic data for visualization practice
+M_District_12,Meghalaya,2011,1383664,40.39,59.61,78.03,26.42,784.82,Synthetic data for visualization practice
+M_District_12,Meghalaya,2016,1451137,74.9,25.1,71.56,13.94,334.67,Synthetic data for visualization practice
+M_District_12,Meghalaya,2021,1572986,41.71,58.29,72.35,30.72,936.18,Synthetic data for visualization practice
+M_District_13,Meghalaya,2011,2220926,40.32,59.68,60.56,8.18,1626.76,Synthetic data for visualization practice
+M_District_13,Meghalaya,2016,2318023,60.0,40.0,77.21,23.29,800.62,Synthetic data for visualization practice
+M_District_13,Meghalaya,2021,2606465,57.07,42.93,65.16,15.21,671.8,Synthetic data for visualization practice
+M_District_14,Meghalaya,2011,2991275,61.44,38.56,81.91,24.75,652.9,Synthetic data for visualization practice
+M_District_14,Meghalaya,2016,3225502,43.47,56.53,59.9,16.16,1937.98,Synthetic data for visualization practice
+M_District_14,Meghalaya,2021,3448477,82.87,17.13,76.35,37.27,1177.54,Synthetic data for visualization practice
+M_District_15,Meghalaya,2011,2492045,38.88,61.12,67.96,21.91,616.62,Synthetic data for visualization practice
+M_District_15,Meghalaya,2016,2698524,61.25,38.75,62.95,9.73,3763.43,Synthetic data for visualization practice
+M_District_15,Meghalaya,2021,2840558,40.14,59.86,69.95,26.8,1220.01,Synthetic data for visualization practice
+M_District_16,Meghalaya,2011,1838171,35.44,64.56,66.82,27.25,420.4,Synthetic data for visualization practice
+M_District_16,Meghalaya,2016,1999620,73.02,26.98,87.56,18.13,790.55,Synthetic data for visualization practice
+M_District_16,Meghalaya,2021,2121060,70.3,29.7,78.38,6.18,716.5,Synthetic data for visualization practice
+M_District_17,Meghalaya,2011,2922647,68.19,31.81,90.62,19.94,626.93,Synthetic data for visualization practice
+M_District_17,Meghalaya,2016,3172690,58.12,41.88,71.77,20.03,895.55,Synthetic data for visualization practice
+M_District_17,Meghalaya,2021,3198901,61.93,38.07,75.85,21.59,860.19,Synthetic data for visualization practice
+M_District_18,Meghalaya,2011,2888809,35.73,64.27,77.57,28.05,3983.45,Synthetic data for visualization practice
+M_District_18,Meghalaya,2016,3079317,86.82,13.18,71.28,12.24,1532.75,Synthetic data for visualization practice
+M_District_18,Meghalaya,2021,3357527,26.19,73.81,76.68,14.67,838.1,Synthetic data for visualization practice
+M_District_19,Meghalaya,2011,1662915,57.75,42.25,48.7,25.06,720.48,Synthetic data for visualization practice
+M_District_19,Meghalaya,2016,1794773,60.93,39.07,78.81,16.32,493.12,Synthetic data for visualization practice
+M_District_19,Meghalaya,2021,1846317,49.59,50.41,84.04,20.77,441.37,Synthetic data for visualization practice
+M_District_20,Meghalaya,2011,365764,69.48,30.52,70.49,20.23,474.75,Synthetic data for visualization practice
+M_District_20,Meghalaya,2016,387167,21.47,78.53,64.32,23.94,379.01,Synthetic data for visualization practice
+M_District_20,Meghalaya,2021,410662,70.24,29.76,73.47,25.11,87.91,Synthetic data for visualization practice
+M_District_21,Meghalaya,2011,2415614,68.61,31.39,82.26,27.77,515.74,Synthetic data for visualization practice
+M_District_21,Meghalaya,2016,2589986,54.78,45.22,63.39,32.26,841.75,Synthetic data for visualization practice
+M_District_21,Meghalaya,2021,2775875,54.31,45.69,74.24,29.21,2931.27,Synthetic data for visualization practice
+M_District_22,Meghalaya,2011,412198,55.57,44.43,49.22,23.27,432.99,Synthetic data for visualization practice
+M_District_22,Meghalaya,2016,435719,45.66,54.34,73.45,27.21,123.15,Synthetic data for visualization practice
+M_District_22,Meghalaya,2021,455929,59.12,40.88,66.55,23.13,205.68,Synthetic data for visualization practice
+M_District_23,Meghalaya,2011,1184548,58.41,41.59,66.41,14.5,2629.51,Synthetic data for visualization practice
+M_District_23,Meghalaya,2016,1275279,67.01,32.99,77.33,15.88,323.83,Synthetic data for visualization practice
+M_District_23,Meghalaya,2021,1306845,30.94,69.06,66.62,21.6,448.0,Synthetic data for visualization practice
+M_District_24,Meghalaya,2011,2786990,68.62,31.38,63.17,18.99,3552.67,Synthetic data for visualization practice
+M_District_24,Meghalaya,2016,2916002,48.22,51.78,62.36,20.44,664.42,Synthetic data for visualization practice
+M_District_24,Meghalaya,2021,3054882,41.7,58.3,74.3,11.56,6020.24,Synthetic data for visualization practice
+M_District_25,Meghalaya,2011,446481,90.0,10.0,78.33,13.9,163.59,Synthetic data for visualization practice
+M_District_25,Meghalaya,2016,467759,47.21,52.79,76.23,5.0,113.34,Synthetic data for visualization practice
+M_District_25,Meghalaya,2021,503682,53.35,46.65,85.19,11.91,147.44,Synthetic data for visualization practice
+M_District_26,Meghalaya,2011,180054,57.56,42.44,57.47,32.8,106.29,Synthetic data for visualization practice
+M_District_26,Meghalaya,2016,192621,50.34,49.66,68.56,12.48,395.42,Synthetic data for visualization practice
+M_District_26,Meghalaya,2021,208562,65.06,34.94,76.66,35.01,62.31,Synthetic data for visualization practice
+M_District_27,Meghalaya,2011,2036995,87.9,12.1,77.96,16.46,1430.14,Synthetic data for visualization practice
+M_District_27,Meghalaya,2016,2211556,34.73,65.27,65.22,20.94,521.96,Synthetic data for visualization practice
+M_District_27,Meghalaya,2021,2319789,65.68,34.32,59.64,24.34,549.06,Synthetic data for visualization practice
+M_District_28,Meghalaya,2011,713706,53.87,46.13,65.99,28.65,144.47,Synthetic data for visualization practice
+M_District_28,Meghalaya,2016,767103,55.38,44.62,82.13,17.34,427.03,Synthetic data for visualization practice
+M_District_28,Meghalaya,2021,829896,61.56,38.44,68.19,15.1,271.92,Synthetic data for visualization practice
+M_District_29,Meghalaya,2011,287985,39.79,60.21,80.07,20.67,89.77,Synthetic data for visualization practice
+M_District_29,Meghalaya,2016,310075,54.98,45.02,73.41,33.1,160.87,Synthetic data for visualization practice
+M_District_29,Meghalaya,2021,322511,45.57,54.43,63.12,28.09,126.1,Synthetic data for visualization practice
+M_District_30,Meghalaya,2011,979323,55.2,44.8,78.55,27.96,250.69,Synthetic data for visualization practice
+M_District_30,Meghalaya,2016,1064834,56.47,43.53,64.91,16.51,226.81,Synthetic data for visualization practice
+M_District_30,Meghalaya,2021,1170241,57.14,42.86,71.63,28.1,310.13,Synthetic data for visualization practice
+M_District_01,Mizoram,2011,2493077,43.64,56.36,59.11,29.45,1712.43,Synthetic data for visualization practice
+M_District_01,Mizoram,2016,2704414,62.27,37.73,54.03,24.92,1533.41,Synthetic data for visualization practice
+M_District_01,Mizoram,2021,2819793,76.44,23.56,80.19,17.3,766.26,Synthetic data for visualization practice
+M_District_02,Mizoram,2011,385453,43.11,56.89,85.28,8.36,710.3,Synthetic data for visualization practice
+M_District_02,Mizoram,2016,406568,51.9,48.1,63.67,5.51,119.27,Synthetic data for visualization practice
+M_District_02,Mizoram,2021,420104,71.68,28.32,64.95,25.62,99.23,Synthetic data for visualization practice
+M_District_03,Mizoram,2011,789576,86.43,13.57,70.73,5.0,925.07,Synthetic data for visualization practice
+M_District_03,Mizoram,2016,824578,45.16,54.84,68.72,16.7,469.41,Synthetic data for visualization practice
+M_District_03,Mizoram,2021,882147,67.33,32.67,82.81,19.96,895.25,Synthetic data for visualization practice
+M_District_04,Mizoram,2011,758500,56.07,43.93,74.07,20.24,210.34,Synthetic data for visualization practice
+M_District_04,Mizoram,2016,805561,39.19,60.81,82.74,20.34,521.17,Synthetic data for visualization practice
+M_District_04,Mizoram,2021,888318,84.56,15.44,82.58,23.82,246.03,Synthetic data for visualization practice
+M_District_05,Mizoram,2011,807054,57.15,42.85,66.7,28.66,181.68,Synthetic data for visualization practice
+M_District_05,Mizoram,2016,869139,40.37,59.63,81.0,26.01,419.59,Synthetic data for visualization practice
+M_District_05,Mizoram,2021,947290,53.73,46.27,70.51,36.26,209.71,Synthetic data for visualization practice
+M_District_06,Mizoram,2011,2165106,49.28,50.72,55.24,12.18,760.54,Synthetic data for visualization practice
+M_District_06,Mizoram,2016,2341951,61.14,38.86,82.31,25.13,895.63,Synthetic data for visualization practice
+M_District_06,Mizoram,2021,2549139,57.54,42.46,66.82,25.78,1569.69,Synthetic data for visualization practice
+M_District_07,Mizoram,2011,2114567,76.2,23.8,84.43,23.51,545.87,Synthetic data for visualization practice
+M_District_07,Mizoram,2016,2224994,80.79,19.21,81.33,28.02,836.32,Synthetic data for visualization practice
+M_District_07,Mizoram,2021,2497725,53.09,46.91,78.15,18.39,743.39,Synthetic data for visualization practice
+M_District_08,Mizoram,2011,1052503,43.4,56.6,66.83,23.55,248.31,Synthetic data for visualization practice
+M_District_08,Mizoram,2016,1147327,71.13,28.87,72.57,33.96,301.29,Synthetic data for visualization practice
+M_District_08,Mizoram,2021,1182760,87.28,12.72,76.11,28.66,358.87,Synthetic data for visualization practice
+M_District_09,Mizoram,2011,2299766,54.26,45.74,77.0,25.36,477.7,Synthetic data for visualization practice
+M_District_09,Mizoram,2016,2484730,32.67,67.33,86.8,12.23,542.07,Synthetic data for visualization practice
+M_District_09,Mizoram,2021,2726961,61.26,38.74,58.99,16.03,1856.66,Synthetic data for visualization practice
+M_District_10,Mizoram,2011,1276832,72.75,27.25,61.0,29.97,416.41,Synthetic data for visualization practice
+M_District_10,Mizoram,2016,1331921,25.26,74.74,62.36,17.24,361.13,Synthetic data for visualization practice
+M_District_10,Mizoram,2021,1491084,39.9,60.1,73.33,11.64,2664.95,Synthetic data for visualization practice
+M_District_11,Mizoram,2011,2017943,60.63,39.37,87.75,39.58,473.15,Synthetic data for visualization practice
+M_District_11,Mizoram,2016,2174474,62.73,37.27,82.52,5.0,4361.34,Synthetic data for visualization practice
+M_District_11,Mizoram,2021,2302926,26.14,73.86,59.97,17.46,1459.01,Synthetic data for visualization practice
+M_District_12,Mizoram,2011,2095014,60.32,39.68,80.53,22.21,1114.95,Synthetic data for visualization practice
+M_District_12,Mizoram,2016,2236560,65.43,34.57,81.29,20.82,744.06,Synthetic data for visualization practice
+M_District_12,Mizoram,2021,2419214,62.17,37.83,83.09,16.57,505.83,Synthetic data for visualization practice
+M_District_13,Mizoram,2011,2603449,48.25,51.75,83.29,11.03,685.44,Synthetic data for visualization practice
+M_District_13,Mizoram,2016,2739942,68.0,32.0,71.02,24.17,1209.81,Synthetic data for visualization practice
+M_District_13,Mizoram,2021,2974609,49.79,50.21,66.84,36.51,769.74,Synthetic data for visualization practice
+M_District_14,Mizoram,2011,1415811,32.65,67.35,88.79,17.58,545.89,Synthetic data for visualization practice
+M_District_14,Mizoram,2016,1493594,57.14,42.86,73.53,39.73,477.25,Synthetic data for visualization practice
+M_District_14,Mizoram,2021,1540226,51.02,48.98,70.08,23.19,527.01,Synthetic data for visualization practice
+M_District_15,Mizoram,2011,696998,35.3,64.7,75.43,27.73,150.27,Synthetic data for visualization practice
+M_District_15,Mizoram,2016,761279,75.03,24.97,79.6,28.65,231.45,Synthetic data for visualization practice
+M_District_15,Mizoram,2021,807379,78.56,21.44,79.27,17.44,245.33,Synthetic data for visualization practice
+M_District_16,Mizoram,2011,1306431,67.57,32.43,71.3,17.47,410.45,Synthetic data for visualization practice
+M_District_16,Mizoram,2016,1380563,40.88,59.12,60.06,14.45,660.45,Synthetic data for visualization practice
+M_District_16,Mizoram,2021,1556005,53.89,46.11,76.47,21.92,1113.92,Synthetic data for visualization practice
+M_District_17,Mizoram,2011,405282,60.32,39.68,64.3,20.2,101.13,Synthetic data for visualization practice
+M_District_17,Mizoram,2016,425004,59.65,40.35,68.93,10.36,111.77,Synthetic data for visualization practice
+M_District_17,Mizoram,2021,468098,61.85,38.15,68.2,9.5,138.56,Synthetic data for visualization practice
+M_District_18,Mizoram,2011,2989710,65.64,34.36,80.15,28.12,724.04,Synthetic data for visualization practice
+M_District_18,Mizoram,2016,3146655,60.85,39.15,81.89,25.95,631.64,Synthetic data for visualization practice
+M_District_18,Mizoram,2021,3240634,41.98,58.02,74.08,15.67,1058.34,Synthetic data for visualization practice
+M_District_19,Mizoram,2011,2074149,79.29,20.71,56.92,12.41,473.03,Synthetic data for visualization practice
+M_District_19,Mizoram,2016,2184824,58.37,41.63,72.29,21.55,687.4,Synthetic data for visualization practice
+M_District_19,Mizoram,2021,2467285,53.32,46.68,65.56,17.32,939.42,Synthetic data for visualization practice
+M_District_20,Mizoram,2011,2572585,59.17,40.83,74.18,26.72,4504.47,Synthetic data for visualization practice
+M_District_20,Mizoram,2016,2792276,61.65,38.35,60.42,21.14,618.88,Synthetic data for visualization practice
+M_District_20,Mizoram,2021,2973799,62.64,37.36,77.71,26.13,1656.13,Synthetic data for visualization practice

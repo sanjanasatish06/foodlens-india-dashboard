@@ -1,0 +1,1501 @@
+Year,Commodity,Food_Group,Supply_Chain_Stage,Loss_Percentage,Dataset_Status
+2015,Rice,Cereals,Harvest,1.86,Synthetic data for visualization practice
+2015,Rice,Cereals,Handling,1.88,Synthetic data for visualization practice
+2015,Rice,Cereals,Storage,2.63,Synthetic data for visualization practice
+2015,Rice,Cereals,Transport,1.49,Synthetic data for visualization practice
+2015,Rice,Cereals,Market,1.23,Synthetic data for visualization practice
+2015,Wheat,Cereals,Harvest,2.02,Synthetic data for visualization practice
+2015,Wheat,Cereals,Handling,1.68,Synthetic data for visualization practice
+2015,Wheat,Cereals,Storage,2.17,Synthetic data for visualization practice
+2015,Wheat,Cereals,Transport,2.18,Synthetic data for visualization practice
+2015,Wheat,Cereals,Market,1.74,Synthetic data for visualization practice
+2015,Maize,Cereals,Harvest,2.27,Synthetic data for visualization practice
+2015,Maize,Cereals,Handling,1.71,Synthetic data for visualization practice
+2015,Maize,Cereals,Storage,2.04,Synthetic data for visualization practice
+2015,Maize,Cereals,Transport,1.95,Synthetic data for visualization practice
+2015,Maize,Cereals,Market,1.22,Synthetic data for visualization practice
+2015,Barley,Cereals,Harvest,2.16,Synthetic data for visualization practice
+2015,Barley,Cereals,Handling,1.69,Synthetic data for visualization practice
+2015,Barley,Cereals,Storage,2.29,Synthetic data for visualization practice
+2015,Barley,Cereals,Transport,2.33,Synthetic data for visualization practice
+2015,Barley,Cereals,Market,1.55,Synthetic data for visualization practice
+2015,Millet,Cereals,Harvest,2.03,Synthetic data for visualization practice
+2015,Millet,Cereals,Handling,1.83,Synthetic data for visualization practice
+2015,Millet,Cereals,Storage,2.49,Synthetic data for visualization practice
+2015,Millet,Cereals,Transport,2.08,Synthetic data for visualization practice
+2015,Millet,Cereals,Market,1.66,Synthetic data for visualization practice
+2015,Sorghum,Cereals,Harvest,1.99,Synthetic data for visualization practice
+2015,Sorghum,Cereals,Handling,1.54,Synthetic data for visualization practice
+2015,Sorghum,Cereals,Storage,2.16,Synthetic data for visualization practice
+2015,Sorghum,Cereals,Transport,2.1,Synthetic data for visualization practice
+2015,Sorghum,Cereals,Market,1.81,Synthetic data for visualization practice
+2015,Chickpea,Pulses,Harvest,1.64,Synthetic data for visualization practice
+2015,Chickpea,Pulses,Handling,1.27,Synthetic data for visualization practice
+2015,Chickpea,Pulses,Storage,2.26,Synthetic data for visualization practice
+2015,Chickpea,Pulses,Transport,1.91,Synthetic data for visualization practice
+2015,Chickpea,Pulses,Market,1.49,Synthetic data for visualization practice
+2015,Pigeon Pea,Pulses,Harvest,2.78,Synthetic data for visualization practice
+2015,Pigeon Pea,Pulses,Handling,2.2,Synthetic data for visualization practice
+2015,Pigeon Pea,Pulses,Storage,3.13,Synthetic data for visualization practice
+2015,Pigeon Pea,Pulses,Transport,2.75,Synthetic data for visualization practice
+2015,Pigeon Pea,Pulses,Market,2.05,Synthetic data for visualization practice
+2015,Lentil,Pulses,Harvest,1.95,Synthetic data for visualization practice
+2015,Lentil,Pulses,Handling,1.62,Synthetic data for visualization practice
+2015,Lentil,Pulses,Storage,2.35,Synthetic data for visualization practice
+2015,Lentil,Pulses,Transport,1.44,Synthetic data for visualization practice
+2015,Lentil,Pulses,Market,1.34,Synthetic data for visualization practice
+2015,Green Gram,Pulses,Harvest,2.1,Synthetic data for visualization practice
+2015,Green Gram,Pulses,Handling,1.74,Synthetic data for visualization practice
+2015,Green Gram,Pulses,Storage,2.93,Synthetic data for visualization practice
+2015,Green Gram,Pulses,Transport,1.89,Synthetic data for visualization practice
+2015,Green Gram,Pulses,Market,1.9,Synthetic data for visualization practice
+2015,Black Gram,Pulses,Harvest,2.3,Synthetic data for visualization practice
+2015,Black Gram,Pulses,Handling,1.95,Synthetic data for visualization practice
+2015,Black Gram,Pulses,Storage,2.85,Synthetic data for visualization practice
+2015,Black Gram,Pulses,Transport,2.41,Synthetic data for visualization practice
+2015,Black Gram,Pulses,Market,1.95,Synthetic data for visualization practice
+2015,Mango,Fruits,Harvest,3.8,Synthetic data for visualization practice
+2015,Mango,Fruits,Handling,3.34,Synthetic data for visualization practice
+2015,Mango,Fruits,Storage,4.39,Synthetic data for visualization practice
+2015,Mango,Fruits,Transport,3.33,Synthetic data for visualization practice
+2015,Mango,Fruits,Market,2.59,Synthetic data for visualization practice
+2015,Banana,Fruits,Harvest,4.11,Synthetic data for visualization practice
+2015,Banana,Fruits,Handling,3.23,Synthetic data for visualization practice
+2015,Banana,Fruits,Storage,4.69,Synthetic data for visualization practice
+2015,Banana,Fruits,Transport,3.62,Synthetic data for visualization practice
+2015,Banana,Fruits,Market,2.96,Synthetic data for visualization practice
+2015,Apple,Fruits,Harvest,5.61,Synthetic data for visualization practice
+2015,Apple,Fruits,Handling,4.66,Synthetic data for visualization practice
+2015,Apple,Fruits,Storage,6.28,Synthetic data for visualization practice
+2015,Apple,Fruits,Transport,5.22,Synthetic data for visualization practice
+2015,Apple,Fruits,Market,4.08,Synthetic data for visualization practice
+2015,Guava,Fruits,Harvest,5.97,Synthetic data for visualization practice
+2015,Guava,Fruits,Handling,4.56,Synthetic data for visualization practice
+2015,Guava,Fruits,Storage,6.63,Synthetic data for visualization practice
+2015,Guava,Fruits,Transport,5.58,Synthetic data for visualization practice
+2015,Guava,Fruits,Market,4.4,Synthetic data for visualization practice
+2015,Papaya,Fruits,Harvest,5.05,Synthetic data for visualization practice
+2015,Papaya,Fruits,Handling,3.96,Synthetic data for visualization practice
+2015,Papaya,Fruits,Storage,5.73,Synthetic data for visualization practice
+2015,Papaya,Fruits,Transport,4.32,Synthetic data for visualization practice
+2015,Papaya,Fruits,Market,3.36,Synthetic data for visualization practice
+2015,Orange,Fruits,Harvest,3.91,Synthetic data for visualization practice
+2015,Orange,Fruits,Handling,3.42,Synthetic data for visualization practice
+2015,Orange,Fruits,Storage,4.48,Synthetic data for visualization practice
+2015,Orange,Fruits,Transport,3.78,Synthetic data for visualization practice
+2015,Orange,Fruits,Market,3.37,Synthetic data for visualization practice
+2015,Tomato,Vegetables,Harvest,6.55,Synthetic data for visualization practice
+2015,Tomato,Vegetables,Handling,4.86,Synthetic data for visualization practice
+2015,Tomato,Vegetables,Storage,7.16,Synthetic data for visualization practice
+2015,Tomato,Vegetables,Transport,5.7,Synthetic data for visualization practice
+2015,Tomato,Vegetables,Market,4.58,Synthetic data for visualization practice
+2015,Potato,Vegetables,Harvest,4.97,Synthetic data for visualization practice
+2015,Potato,Vegetables,Handling,4.43,Synthetic data for visualization practice
+2015,Potato,Vegetables,Storage,6.18,Synthetic data for visualization practice
+2015,Potato,Vegetables,Transport,4.89,Synthetic data for visualization practice
+2015,Potato,Vegetables,Market,3.6,Synthetic data for visualization practice
+2015,Onion,Vegetables,Harvest,6.17,Synthetic data for visualization practice
+2015,Onion,Vegetables,Handling,5.1,Synthetic data for visualization practice
+2015,Onion,Vegetables,Storage,7.15,Synthetic data for visualization practice
+2015,Onion,Vegetables,Transport,6.28,Synthetic data for visualization practice
+2015,Onion,Vegetables,Market,4.56,Synthetic data for visualization practice
+2015,Cauliflower,Vegetables,Harvest,4.35,Synthetic data for visualization practice
+2015,Cauliflower,Vegetables,Handling,3.5,Synthetic data for visualization practice
+2015,Cauliflower,Vegetables,Storage,5.21,Synthetic data for visualization practice
+2015,Cauliflower,Vegetables,Transport,4.22,Synthetic data for visualization practice
+2015,Cauliflower,Vegetables,Market,3.24,Synthetic data for visualization practice
+2015,Cabbage,Vegetables,Harvest,4.06,Synthetic data for visualization practice
+2015,Cabbage,Vegetables,Handling,3.33,Synthetic data for visualization practice
+2015,Cabbage,Vegetables,Storage,4.71,Synthetic data for visualization practice
+2015,Cabbage,Vegetables,Transport,3.97,Synthetic data for visualization practice
+2015,Cabbage,Vegetables,Market,2.85,Synthetic data for visualization practice
+2015,Okra,Vegetables,Harvest,5.75,Synthetic data for visualization practice
+2015,Okra,Vegetables,Handling,4.28,Synthetic data for visualization practice
+2015,Okra,Vegetables,Storage,6.33,Synthetic data for visualization practice
+2015,Okra,Vegetables,Transport,5.5,Synthetic data for visualization practice
+2015,Okra,Vegetables,Market,4.47,Synthetic data for visualization practice
+2015,Groundnut,Oilseeds,Harvest,3.32,Synthetic data for visualization practice
+2015,Groundnut,Oilseeds,Handling,2.18,Synthetic data for visualization practice
+2015,Groundnut,Oilseeds,Storage,2.69,Synthetic data for visualization practice
+2015,Groundnut,Oilseeds,Transport,1.89,Synthetic data for visualization practice
+2015,Groundnut,Oilseeds,Market,1.97,Synthetic data for visualization practice
+2015,Soybean,Oilseeds,Harvest,2.27,Synthetic data for visualization practice
+2015,Soybean,Oilseeds,Handling,1.75,Synthetic data for visualization practice
+2015,Soybean,Oilseeds,Storage,2.66,Synthetic data for visualization practice
+2015,Soybean,Oilseeds,Transport,2.49,Synthetic data for visualization practice
+2015,Soybean,Oilseeds,Market,1.78,Synthetic data for visualization practice
+2015,Mustard,Oilseeds,Harvest,1.85,Synthetic data for visualization practice
+2015,Mustard,Oilseeds,Handling,1.27,Synthetic data for visualization practice
+2015,Mustard,Oilseeds,Storage,2.27,Synthetic data for visualization practice
+2015,Mustard,Oilseeds,Transport,1.96,Synthetic data for visualization practice
+2015,Mustard,Oilseeds,Market,1.99,Synthetic data for visualization practice
+2015,Sunflower,Oilseeds,Harvest,3.24,Synthetic data for visualization practice
+2015,Sunflower,Oilseeds,Handling,2.27,Synthetic data for visualization practice
+2015,Sunflower,Oilseeds,Storage,3.09,Synthetic data for visualization practice
+2015,Sunflower,Oilseeds,Transport,2.55,Synthetic data for visualization practice
+2015,Sunflower,Oilseeds,Market,2.01,Synthetic data for visualization practice
+2015,Chilli,Spices,Harvest,2.73,Synthetic data for visualization practice
+2015,Chilli,Spices,Handling,2.56,Synthetic data for visualization practice
+2015,Chilli,Spices,Storage,3.1,Synthetic data for visualization practice
+2015,Chilli,Spices,Transport,2.97,Synthetic data for visualization practice
+2015,Chilli,Spices,Market,2.25,Synthetic data for visualization practice
+2015,Turmeric,Spices,Harvest,3.17,Synthetic data for visualization practice
+2015,Turmeric,Spices,Handling,2.38,Synthetic data for visualization practice
+2015,Turmeric,Spices,Storage,3.71,Synthetic data for visualization practice
+2015,Turmeric,Spices,Transport,2.85,Synthetic data for visualization practice
+2015,Turmeric,Spices,Market,2.02,Synthetic data for visualization practice
+2015,Coriander,Spices,Harvest,4.03,Synthetic data for visualization practice
+2015,Coriander,Spices,Handling,3.58,Synthetic data for visualization practice
+2015,Coriander,Spices,Storage,4.56,Synthetic data for visualization practice
+2015,Coriander,Spices,Transport,3.69,Synthetic data for visualization practice
+2015,Coriander,Spices,Market,2.99,Synthetic data for visualization practice
+2016,Rice,Cereals,Harvest,1.69,Synthetic data for visualization practice
+2016,Rice,Cereals,Handling,1.21,Synthetic data for visualization practice
+2016,Rice,Cereals,Storage,2.13,Synthetic data for visualization practice
+2016,Rice,Cereals,Transport,1.64,Synthetic data for visualization practice
+2016,Rice,Cereals,Market,1.59,Synthetic data for visualization practice
+2016,Wheat,Cereals,Harvest,1.28,Synthetic data for visualization practice
+2016,Wheat,Cereals,Handling,0.93,Synthetic data for visualization practice
+2016,Wheat,Cereals,Storage,2.21,Synthetic data for visualization practice
+2016,Wheat,Cereals,Transport,1.91,Synthetic data for visualization practice
+2016,Wheat,Cereals,Market,1.12,Synthetic data for visualization practice
+2016,Maize,Cereals,Harvest,1.87,Synthetic data for visualization practice
+2016,Maize,Cereals,Handling,0.93,Synthetic data for visualization practice
+2016,Maize,Cereals,Storage,1.48,Synthetic data for visualization practice
+2016,Maize,Cereals,Transport,1.57,Synthetic data for visualization practice
+2016,Maize,Cereals,Market,1.0,Synthetic data for visualization practice
+2016,Barley,Cereals,Harvest,1.78,Synthetic data for visualization practice
+2016,Barley,Cereals,Handling,1.54,Synthetic data for visualization practice
+2016,Barley,Cereals,Storage,2.41,Synthetic data for visualization practice
+2016,Barley,Cereals,Transport,1.72,Synthetic data for visualization practice
+2016,Barley,Cereals,Market,1.49,Synthetic data for visualization practice
+2016,Millet,Cereals,Harvest,1.44,Synthetic data for visualization practice
+2016,Millet,Cereals,Handling,0.95,Synthetic data for visualization practice
+2016,Millet,Cereals,Storage,1.34,Synthetic data for visualization practice
+2016,Millet,Cereals,Transport,1.13,Synthetic data for visualization practice
+2016,Millet,Cereals,Market,0.98,Synthetic data for visualization practice
+2016,Sorghum,Cereals,Harvest,1.7,Synthetic data for visualization practice
+2016,Sorghum,Cereals,Handling,1.63,Synthetic data for visualization practice
+2016,Sorghum,Cereals,Storage,2.18,Synthetic data for visualization practice
+2016,Sorghum,Cereals,Transport,1.81,Synthetic data for visualization practice
+2016,Sorghum,Cereals,Market,1.74,Synthetic data for visualization practice
+2016,Chickpea,Pulses,Harvest,2.8,Synthetic data for visualization practice
+2016,Chickpea,Pulses,Handling,1.94,Synthetic data for visualization practice
+2016,Chickpea,Pulses,Storage,2.63,Synthetic data for visualization practice
+2016,Chickpea,Pulses,Transport,2.25,Synthetic data for visualization practice
+2016,Chickpea,Pulses,Market,1.87,Synthetic data for visualization practice
+2016,Pigeon Pea,Pulses,Harvest,2.16,Synthetic data for visualization practice
+2016,Pigeon Pea,Pulses,Handling,1.97,Synthetic data for visualization practice
+2016,Pigeon Pea,Pulses,Storage,2.82,Synthetic data for visualization practice
+2016,Pigeon Pea,Pulses,Transport,2.9,Synthetic data for visualization practice
+2016,Pigeon Pea,Pulses,Market,2.25,Synthetic data for visualization practice
+2016,Lentil,Pulses,Harvest,2.73,Synthetic data for visualization practice
+2016,Lentil,Pulses,Handling,1.87,Synthetic data for visualization practice
+2016,Lentil,Pulses,Storage,3.03,Synthetic data for visualization practice
+2016,Lentil,Pulses,Transport,2.69,Synthetic data for visualization practice
+2016,Lentil,Pulses,Market,2.35,Synthetic data for visualization practice
+2016,Green Gram,Pulses,Harvest,2.51,Synthetic data for visualization practice
+2016,Green Gram,Pulses,Handling,1.6,Synthetic data for visualization practice
+2016,Green Gram,Pulses,Storage,2.99,Synthetic data for visualization practice
+2016,Green Gram,Pulses,Transport,2.23,Synthetic data for visualization practice
+2016,Green Gram,Pulses,Market,1.83,Synthetic data for visualization practice
+2016,Black Gram,Pulses,Harvest,2.4,Synthetic data for visualization practice
+2016,Black Gram,Pulses,Handling,1.67,Synthetic data for visualization practice
+2016,Black Gram,Pulses,Storage,1.96,Synthetic data for visualization practice
+2016,Black Gram,Pulses,Transport,1.61,Synthetic data for visualization practice
+2016,Black Gram,Pulses,Market,2.09,Synthetic data for visualization practice
+2016,Mango,Fruits,Harvest,4.15,Synthetic data for visualization practice
+2016,Mango,Fruits,Handling,4.0,Synthetic data for visualization practice
+2016,Mango,Fruits,Storage,5.74,Synthetic data for visualization practice
+2016,Mango,Fruits,Transport,3.83,Synthetic data for visualization practice
+2016,Mango,Fruits,Market,3.15,Synthetic data for visualization practice
+2016,Banana,Fruits,Harvest,4.6,Synthetic data for visualization practice
+2016,Banana,Fruits,Handling,3.09,Synthetic data for visualization practice
+2016,Banana,Fruits,Storage,4.67,Synthetic data for visualization practice
+2016,Banana,Fruits,Transport,4.09,Synthetic data for visualization practice
+2016,Banana,Fruits,Market,3.17,Synthetic data for visualization practice
+2016,Apple,Fruits,Harvest,4.52,Synthetic data for visualization practice
+2016,Apple,Fruits,Handling,3.3,Synthetic data for visualization practice
+2016,Apple,Fruits,Storage,5.1,Synthetic data for visualization practice
+2016,Apple,Fruits,Transport,4.18,Synthetic data for visualization practice
+2016,Apple,Fruits,Market,3.4,Synthetic data for visualization practice
+2016,Guava,Fruits,Harvest,4.03,Synthetic data for visualization practice
+2016,Guava,Fruits,Handling,3.39,Synthetic data for visualization practice
+2016,Guava,Fruits,Storage,4.48,Synthetic data for visualization practice
+2016,Guava,Fruits,Transport,3.74,Synthetic data for visualization practice
+2016,Guava,Fruits,Market,2.88,Synthetic data for visualization practice
+2016,Papaya,Fruits,Harvest,6.0,Synthetic data for visualization practice
+2016,Papaya,Fruits,Handling,5.03,Synthetic data for visualization practice
+2016,Papaya,Fruits,Storage,6.99,Synthetic data for visualization practice
+2016,Papaya,Fruits,Transport,6.3,Synthetic data for visualization practice
+2016,Papaya,Fruits,Market,4.93,Synthetic data for visualization practice
+2016,Orange,Fruits,Harvest,4.73,Synthetic data for visualization practice
+2016,Orange,Fruits,Handling,3.66,Synthetic data for visualization practice
+2016,Orange,Fruits,Storage,5.87,Synthetic data for visualization practice
+2016,Orange,Fruits,Transport,4.66,Synthetic data for visualization practice
+2016,Orange,Fruits,Market,3.73,Synthetic data for visualization practice
+2016,Tomato,Vegetables,Harvest,4.51,Synthetic data for visualization practice
+2016,Tomato,Vegetables,Handling,3.54,Synthetic data for visualization practice
+2016,Tomato,Vegetables,Storage,4.57,Synthetic data for visualization practice
+2016,Tomato,Vegetables,Transport,3.88,Synthetic data for visualization practice
+2016,Tomato,Vegetables,Market,3.2,Synthetic data for visualization practice
+2016,Potato,Vegetables,Harvest,5.8,Synthetic data for visualization practice
+2016,Potato,Vegetables,Handling,4.67,Synthetic data for visualization practice
+2016,Potato,Vegetables,Storage,6.59,Synthetic data for visualization practice
+2016,Potato,Vegetables,Transport,5.52,Synthetic data for visualization practice
+2016,Potato,Vegetables,Market,4.67,Synthetic data for visualization practice
+2016,Onion,Vegetables,Harvest,5.28,Synthetic data for visualization practice
+2016,Onion,Vegetables,Handling,4.32,Synthetic data for visualization practice
+2016,Onion,Vegetables,Storage,6.13,Synthetic data for visualization practice
+2016,Onion,Vegetables,Transport,4.89,Synthetic data for visualization practice
+2016,Onion,Vegetables,Market,3.48,Synthetic data for visualization practice
+2016,Cauliflower,Vegetables,Harvest,5.64,Synthetic data for visualization practice
+2016,Cauliflower,Vegetables,Handling,3.78,Synthetic data for visualization practice
+2016,Cauliflower,Vegetables,Storage,6.12,Synthetic data for visualization practice
+2016,Cauliflower,Vegetables,Transport,4.78,Synthetic data for visualization practice
+2016,Cauliflower,Vegetables,Market,3.8,Synthetic data for visualization practice
+2016,Cabbage,Vegetables,Harvest,5.91,Synthetic data for visualization practice
+2016,Cabbage,Vegetables,Handling,5.12,Synthetic data for visualization practice
+2016,Cabbage,Vegetables,Storage,6.94,Synthetic data for visualization practice
+2016,Cabbage,Vegetables,Transport,6.03,Synthetic data for visualization practice
+2016,Cabbage,Vegetables,Market,4.69,Synthetic data for visualization practice
+2016,Okra,Vegetables,Harvest,5.99,Synthetic data for visualization practice
+2016,Okra,Vegetables,Handling,4.55,Synthetic data for visualization practice
+2016,Okra,Vegetables,Storage,6.5,Synthetic data for visualization practice
+2016,Okra,Vegetables,Transport,5.11,Synthetic data for visualization practice
+2016,Okra,Vegetables,Market,4.09,Synthetic data for visualization practice
+2016,Groundnut,Oilseeds,Harvest,2.53,Synthetic data for visualization practice
+2016,Groundnut,Oilseeds,Handling,1.53,Synthetic data for visualization practice
+2016,Groundnut,Oilseeds,Storage,2.78,Synthetic data for visualization practice
+2016,Groundnut,Oilseeds,Transport,2.08,Synthetic data for visualization practice
+2016,Groundnut,Oilseeds,Market,1.97,Synthetic data for visualization practice
+2016,Soybean,Oilseeds,Harvest,2.47,Synthetic data for visualization practice
+2016,Soybean,Oilseeds,Handling,1.79,Synthetic data for visualization practice
+2016,Soybean,Oilseeds,Storage,1.89,Synthetic data for visualization practice
+2016,Soybean,Oilseeds,Transport,1.86,Synthetic data for visualization practice
+2016,Soybean,Oilseeds,Market,1.18,Synthetic data for visualization practice
+2016,Mustard,Oilseeds,Harvest,3.37,Synthetic data for visualization practice
+2016,Mustard,Oilseeds,Handling,2.55,Synthetic data for visualization practice
+2016,Mustard,Oilseeds,Storage,3.21,Synthetic data for visualization practice
+2016,Mustard,Oilseeds,Transport,2.54,Synthetic data for visualization practice
+2016,Mustard,Oilseeds,Market,2.2,Synthetic data for visualization practice
+2016,Sunflower,Oilseeds,Harvest,2.53,Synthetic data for visualization practice
+2016,Sunflower,Oilseeds,Handling,2.24,Synthetic data for visualization practice
+2016,Sunflower,Oilseeds,Storage,3.35,Synthetic data for visualization practice
+2016,Sunflower,Oilseeds,Transport,2.67,Synthetic data for visualization practice
+2016,Sunflower,Oilseeds,Market,1.41,Synthetic data for visualization practice
+2016,Chilli,Spices,Harvest,3.16,Synthetic data for visualization practice
+2016,Chilli,Spices,Handling,2.62,Synthetic data for visualization practice
+2016,Chilli,Spices,Storage,3.97,Synthetic data for visualization practice
+2016,Chilli,Spices,Transport,2.42,Synthetic data for visualization practice
+2016,Chilli,Spices,Market,2.16,Synthetic data for visualization practice
+2016,Turmeric,Spices,Harvest,2.08,Synthetic data for visualization practice
+2016,Turmeric,Spices,Handling,2.35,Synthetic data for visualization practice
+2016,Turmeric,Spices,Storage,2.89,Synthetic data for visualization practice
+2016,Turmeric,Spices,Transport,2.52,Synthetic data for visualization practice
+2016,Turmeric,Spices,Market,1.67,Synthetic data for visualization practice
+2016,Coriander,Spices,Harvest,3.66,Synthetic data for visualization practice
+2016,Coriander,Spices,Handling,2.77,Synthetic data for visualization practice
+2016,Coriander,Spices,Storage,3.9,Synthetic data for visualization practice
+2016,Coriander,Spices,Transport,3.23,Synthetic data for visualization practice
+2016,Coriander,Spices,Market,2.27,Synthetic data for visualization practice
+2017,Rice,Cereals,Harvest,1.57,Synthetic data for visualization practice
+2017,Rice,Cereals,Handling,1.39,Synthetic data for visualization practice
+2017,Rice,Cereals,Storage,2.08,Synthetic data for visualization practice
+2017,Rice,Cereals,Transport,1.24,Synthetic data for visualization practice
+2017,Rice,Cereals,Market,1.15,Synthetic data for visualization practice
+2017,Wheat,Cereals,Harvest,1.82,Synthetic data for visualization practice
+2017,Wheat,Cereals,Handling,1.4,Synthetic data for visualization practice
+2017,Wheat,Cereals,Storage,2.33,Synthetic data for visualization practice
+2017,Wheat,Cereals,Transport,2.09,Synthetic data for visualization practice
+2017,Wheat,Cereals,Market,1.48,Synthetic data for visualization practice
+2017,Maize,Cereals,Harvest,2.47,Synthetic data for visualization practice
+2017,Maize,Cereals,Handling,2.02,Synthetic data for visualization practice
+2017,Maize,Cereals,Storage,2.7,Synthetic data for visualization practice
+2017,Maize,Cereals,Transport,2.69,Synthetic data for visualization practice
+2017,Maize,Cereals,Market,1.6,Synthetic data for visualization practice
+2017,Barley,Cereals,Harvest,1.83,Synthetic data for visualization practice
+2017,Barley,Cereals,Handling,1.03,Synthetic data for visualization practice
+2017,Barley,Cereals,Storage,1.64,Synthetic data for visualization practice
+2017,Barley,Cereals,Transport,1.66,Synthetic data for visualization practice
+2017,Barley,Cereals,Market,0.65,Synthetic data for visualization practice
+2017,Millet,Cereals,Harvest,1.19,Synthetic data for visualization practice
+2017,Millet,Cereals,Handling,1.08,Synthetic data for visualization practice
+2017,Millet,Cereals,Storage,1.92,Synthetic data for visualization practice
+2017,Millet,Cereals,Transport,1.62,Synthetic data for visualization practice
+2017,Millet,Cereals,Market,1.24,Synthetic data for visualization practice
+2017,Sorghum,Cereals,Harvest,0.84,Synthetic data for visualization practice
+2017,Sorghum,Cereals,Handling,1.15,Synthetic data for visualization practice
+2017,Sorghum,Cereals,Storage,1.49,Synthetic data for visualization practice
+2017,Sorghum,Cereals,Transport,1.44,Synthetic data for visualization practice
+2017,Sorghum,Cereals,Market,1.21,Synthetic data for visualization practice
+2017,Chickpea,Pulses,Harvest,2.67,Synthetic data for visualization practice
+2017,Chickpea,Pulses,Handling,2.3,Synthetic data for visualization practice
+2017,Chickpea,Pulses,Storage,3.4,Synthetic data for visualization practice
+2017,Chickpea,Pulses,Transport,2.7,Synthetic data for visualization practice
+2017,Chickpea,Pulses,Market,2.21,Synthetic data for visualization practice
+2017,Pigeon Pea,Pulses,Harvest,1.88,Synthetic data for visualization practice
+2017,Pigeon Pea,Pulses,Handling,1.59,Synthetic data for visualization practice
+2017,Pigeon Pea,Pulses,Storage,2.39,Synthetic data for visualization practice
+2017,Pigeon Pea,Pulses,Transport,1.7,Synthetic data for visualization practice
+2017,Pigeon Pea,Pulses,Market,1.54,Synthetic data for visualization practice
+2017,Lentil,Pulses,Harvest,1.65,Synthetic data for visualization practice
+2017,Lentil,Pulses,Handling,1.55,Synthetic data for visualization practice
+2017,Lentil,Pulses,Storage,1.41,Synthetic data for visualization practice
+2017,Lentil,Pulses,Transport,1.24,Synthetic data for visualization practice
+2017,Lentil,Pulses,Market,0.86,Synthetic data for visualization practice
+2017,Green Gram,Pulses,Harvest,2.49,Synthetic data for visualization practice
+2017,Green Gram,Pulses,Handling,2.31,Synthetic data for visualization practice
+2017,Green Gram,Pulses,Storage,2.94,Synthetic data for visualization practice
+2017,Green Gram,Pulses,Transport,2.53,Synthetic data for visualization practice
+2017,Green Gram,Pulses,Market,2.22,Synthetic data for visualization practice
+2017,Black Gram,Pulses,Harvest,2.63,Synthetic data for visualization practice
+2017,Black Gram,Pulses,Handling,2.45,Synthetic data for visualization practice
+2017,Black Gram,Pulses,Storage,3.02,Synthetic data for visualization practice
+2017,Black Gram,Pulses,Transport,2.26,Synthetic data for visualization practice
+2017,Black Gram,Pulses,Market,1.79,Synthetic data for visualization practice
+2017,Mango,Fruits,Harvest,5.49,Synthetic data for visualization practice
+2017,Mango,Fruits,Handling,4.48,Synthetic data for visualization practice
+2017,Mango,Fruits,Storage,6.67,Synthetic data for visualization practice
+2017,Mango,Fruits,Transport,5.76,Synthetic data for visualization practice
+2017,Mango,Fruits,Market,3.84,Synthetic data for visualization practice
+2017,Banana,Fruits,Harvest,3.6,Synthetic data for visualization practice
+2017,Banana,Fruits,Handling,3.21,Synthetic data for visualization practice
+2017,Banana,Fruits,Storage,4.34,Synthetic data for visualization practice
+2017,Banana,Fruits,Transport,3.14,Synthetic data for visualization practice
+2017,Banana,Fruits,Market,3.06,Synthetic data for visualization practice
+2017,Apple,Fruits,Harvest,3.83,Synthetic data for visualization practice
+2017,Apple,Fruits,Handling,2.9,Synthetic data for visualization practice
+2017,Apple,Fruits,Storage,4.32,Synthetic data for visualization practice
+2017,Apple,Fruits,Transport,3.8,Synthetic data for visualization practice
+2017,Apple,Fruits,Market,2.86,Synthetic data for visualization practice
+2017,Guava,Fruits,Harvest,5.36,Synthetic data for visualization practice
+2017,Guava,Fruits,Handling,4.54,Synthetic data for visualization practice
+2017,Guava,Fruits,Storage,5.88,Synthetic data for visualization practice
+2017,Guava,Fruits,Transport,4.55,Synthetic data for visualization practice
+2017,Guava,Fruits,Market,4.13,Synthetic data for visualization practice
+2017,Papaya,Fruits,Harvest,5.76,Synthetic data for visualization practice
+2017,Papaya,Fruits,Handling,4.48,Synthetic data for visualization practice
+2017,Papaya,Fruits,Storage,6.17,Synthetic data for visualization practice
+2017,Papaya,Fruits,Transport,5.2,Synthetic data for visualization practice
+2017,Papaya,Fruits,Market,4.5,Synthetic data for visualization practice
+2017,Orange,Fruits,Harvest,4.05,Synthetic data for visualization practice
+2017,Orange,Fruits,Handling,3.27,Synthetic data for visualization practice
+2017,Orange,Fruits,Storage,4.84,Synthetic data for visualization practice
+2017,Orange,Fruits,Transport,3.55,Synthetic data for visualization practice
+2017,Orange,Fruits,Market,3.04,Synthetic data for visualization practice
+2017,Tomato,Vegetables,Harvest,5.84,Synthetic data for visualization practice
+2017,Tomato,Vegetables,Handling,4.4,Synthetic data for visualization practice
+2017,Tomato,Vegetables,Storage,6.13,Synthetic data for visualization practice
+2017,Tomato,Vegetables,Transport,4.85,Synthetic data for visualization practice
+2017,Tomato,Vegetables,Market,3.94,Synthetic data for visualization practice
+2017,Potato,Vegetables,Harvest,3.96,Synthetic data for visualization practice
+2017,Potato,Vegetables,Handling,3.71,Synthetic data for visualization practice
+2017,Potato,Vegetables,Storage,4.85,Synthetic data for visualization practice
+2017,Potato,Vegetables,Transport,3.52,Synthetic data for visualization practice
+2017,Potato,Vegetables,Market,3.04,Synthetic data for visualization practice
+2017,Onion,Vegetables,Harvest,5.88,Synthetic data for visualization practice
+2017,Onion,Vegetables,Handling,4.81,Synthetic data for visualization practice
+2017,Onion,Vegetables,Storage,6.9,Synthetic data for visualization practice
+2017,Onion,Vegetables,Transport,5.47,Synthetic data for visualization practice
+2017,Onion,Vegetables,Market,4.63,Synthetic data for visualization practice
+2017,Cauliflower,Vegetables,Harvest,5.17,Synthetic data for visualization practice
+2017,Cauliflower,Vegetables,Handling,4.79,Synthetic data for visualization practice
+2017,Cauliflower,Vegetables,Storage,5.92,Synthetic data for visualization practice
+2017,Cauliflower,Vegetables,Transport,5.18,Synthetic data for visualization practice
+2017,Cauliflower,Vegetables,Market,3.82,Synthetic data for visualization practice
+2017,Cabbage,Vegetables,Harvest,6.57,Synthetic data for visualization practice
+2017,Cabbage,Vegetables,Handling,5.22,Synthetic data for visualization practice
+2017,Cabbage,Vegetables,Storage,7.26,Synthetic data for visualization practice
+2017,Cabbage,Vegetables,Transport,6.25,Synthetic data for visualization practice
+2017,Cabbage,Vegetables,Market,4.61,Synthetic data for visualization practice
+2017,Okra,Vegetables,Harvest,5.51,Synthetic data for visualization practice
+2017,Okra,Vegetables,Handling,4.45,Synthetic data for visualization practice
+2017,Okra,Vegetables,Storage,6.34,Synthetic data for visualization practice
+2017,Okra,Vegetables,Transport,5.09,Synthetic data for visualization practice
+2017,Okra,Vegetables,Market,3.85,Synthetic data for visualization practice
+2017,Groundnut,Oilseeds,Harvest,2.23,Synthetic data for visualization practice
+2017,Groundnut,Oilseeds,Handling,2.08,Synthetic data for visualization practice
+2017,Groundnut,Oilseeds,Storage,2.16,Synthetic data for visualization practice
+2017,Groundnut,Oilseeds,Transport,2.07,Synthetic data for visualization practice
+2017,Groundnut,Oilseeds,Market,1.2,Synthetic data for visualization practice
+2017,Soybean,Oilseeds,Harvest,3.36,Synthetic data for visualization practice
+2017,Soybean,Oilseeds,Handling,2.64,Synthetic data for visualization practice
+2017,Soybean,Oilseeds,Storage,3.24,Synthetic data for visualization practice
+2017,Soybean,Oilseeds,Transport,2.44,Synthetic data for visualization practice
+2017,Soybean,Oilseeds,Market,1.47,Synthetic data for visualization practice
+2017,Mustard,Oilseeds,Harvest,3.76,Synthetic data for visualization practice
+2017,Mustard,Oilseeds,Handling,2.64,Synthetic data for visualization practice
+2017,Mustard,Oilseeds,Storage,3.44,Synthetic data for visualization practice
+2017,Mustard,Oilseeds,Transport,3.06,Synthetic data for visualization practice
+2017,Mustard,Oilseeds,Market,1.93,Synthetic data for visualization practice
+2017,Sunflower,Oilseeds,Harvest,2.41,Synthetic data for visualization practice
+2017,Sunflower,Oilseeds,Handling,1.88,Synthetic data for visualization practice
+2017,Sunflower,Oilseeds,Storage,2.9,Synthetic data for visualization practice
+2017,Sunflower,Oilseeds,Transport,2.31,Synthetic data for visualization practice
+2017,Sunflower,Oilseeds,Market,1.91,Synthetic data for visualization practice
+2017,Chilli,Spices,Harvest,2.73,Synthetic data for visualization practice
+2017,Chilli,Spices,Handling,2.41,Synthetic data for visualization practice
+2017,Chilli,Spices,Storage,2.6,Synthetic data for visualization practice
+2017,Chilli,Spices,Transport,2.12,Synthetic data for visualization practice
+2017,Chilli,Spices,Market,2.17,Synthetic data for visualization practice
+2017,Turmeric,Spices,Harvest,2.82,Synthetic data for visualization practice
+2017,Turmeric,Spices,Handling,1.86,Synthetic data for visualization practice
+2017,Turmeric,Spices,Storage,3.16,Synthetic data for visualization practice
+2017,Turmeric,Spices,Transport,2.34,Synthetic data for visualization practice
+2017,Turmeric,Spices,Market,1.88,Synthetic data for visualization practice
+2017,Coriander,Spices,Harvest,2.92,Synthetic data for visualization practice
+2017,Coriander,Spices,Handling,2.17,Synthetic data for visualization practice
+2017,Coriander,Spices,Storage,3.3,Synthetic data for visualization practice
+2017,Coriander,Spices,Transport,2.92,Synthetic data for visualization practice
+2017,Coriander,Spices,Market,1.81,Synthetic data for visualization practice
+2018,Rice,Cereals,Harvest,1.43,Synthetic data for visualization practice
+2018,Rice,Cereals,Handling,1.54,Synthetic data for visualization practice
+2018,Rice,Cereals,Storage,1.18,Synthetic data for visualization practice
+2018,Rice,Cereals,Transport,1.26,Synthetic data for visualization practice
+2018,Rice,Cereals,Market,0.73,Synthetic data for visualization practice
+2018,Wheat,Cereals,Harvest,2.15,Synthetic data for visualization practice
+2018,Wheat,Cereals,Handling,1.62,Synthetic data for visualization practice
+2018,Wheat,Cereals,Storage,2.3,Synthetic data for visualization practice
+2018,Wheat,Cereals,Transport,1.91,Synthetic data for visualization practice
+2018,Wheat,Cereals,Market,1.58,Synthetic data for visualization practice
+2018,Maize,Cereals,Harvest,1.81,Synthetic data for visualization practice
+2018,Maize,Cereals,Handling,1.47,Synthetic data for visualization practice
+2018,Maize,Cereals,Storage,1.95,Synthetic data for visualization practice
+2018,Maize,Cereals,Transport,1.67,Synthetic data for visualization practice
+2018,Maize,Cereals,Market,1.27,Synthetic data for visualization practice
+2018,Barley,Cereals,Harvest,2.07,Synthetic data for visualization practice
+2018,Barley,Cereals,Handling,1.6,Synthetic data for visualization practice
+2018,Barley,Cereals,Storage,2.19,Synthetic data for visualization practice
+2018,Barley,Cereals,Transport,1.7,Synthetic data for visualization practice
+2018,Barley,Cereals,Market,1.23,Synthetic data for visualization practice
+2018,Millet,Cereals,Harvest,1.63,Synthetic data for visualization practice
+2018,Millet,Cereals,Handling,1.19,Synthetic data for visualization practice
+2018,Millet,Cereals,Storage,1.98,Synthetic data for visualization practice
+2018,Millet,Cereals,Transport,1.73,Synthetic data for visualization practice
+2018,Millet,Cereals,Market,1.3,Synthetic data for visualization practice
+2018,Sorghum,Cereals,Harvest,1.68,Synthetic data for visualization practice
+2018,Sorghum,Cereals,Handling,1.35,Synthetic data for visualization practice
+2018,Sorghum,Cereals,Storage,1.61,Synthetic data for visualization practice
+2018,Sorghum,Cereals,Transport,1.2,Synthetic data for visualization practice
+2018,Sorghum,Cereals,Market,1.21,Synthetic data for visualization practice
+2018,Chickpea,Pulses,Harvest,1.61,Synthetic data for visualization practice
+2018,Chickpea,Pulses,Handling,1.56,Synthetic data for visualization practice
+2018,Chickpea,Pulses,Storage,2.3,Synthetic data for visualization practice
+2018,Chickpea,Pulses,Transport,1.62,Synthetic data for visualization practice
+2018,Chickpea,Pulses,Market,1.5,Synthetic data for visualization practice
+2018,Pigeon Pea,Pulses,Harvest,3.11,Synthetic data for visualization practice
+2018,Pigeon Pea,Pulses,Handling,2.53,Synthetic data for visualization practice
+2018,Pigeon Pea,Pulses,Storage,3.08,Synthetic data for visualization practice
+2018,Pigeon Pea,Pulses,Transport,2.68,Synthetic data for visualization practice
+2018,Pigeon Pea,Pulses,Market,1.43,Synthetic data for visualization practice
+2018,Lentil,Pulses,Harvest,2.68,Synthetic data for visualization practice
+2018,Lentil,Pulses,Handling,1.93,Synthetic data for visualization practice
+2018,Lentil,Pulses,Storage,3.3,Synthetic data for visualization practice
+2018,Lentil,Pulses,Transport,3.07,Synthetic data for visualization practice
+2018,Lentil,Pulses,Market,1.72,Synthetic data for visualization practice
+2018,Green Gram,Pulses,Harvest,2.32,Synthetic data for visualization practice
+2018,Green Gram,Pulses,Handling,2.21,Synthetic data for visualization practice
+2018,Green Gram,Pulses,Storage,2.26,Synthetic data for visualization practice
+2018,Green Gram,Pulses,Transport,2.18,Synthetic data for visualization practice
+2018,Green Gram,Pulses,Market,2.12,Synthetic data for visualization practice
+2018,Black Gram,Pulses,Harvest,2.39,Synthetic data for visualization practice
+2018,Black Gram,Pulses,Handling,1.59,Synthetic data for visualization practice
+2018,Black Gram,Pulses,Storage,2.51,Synthetic data for visualization practice
+2018,Black Gram,Pulses,Transport,2.23,Synthetic data for visualization practice
+2018,Black Gram,Pulses,Market,1.7,Synthetic data for visualization practice
+2018,Mango,Fruits,Harvest,6.35,Synthetic data for visualization practice
+2018,Mango,Fruits,Handling,4.59,Synthetic data for visualization practice
+2018,Mango,Fruits,Storage,7.26,Synthetic data for visualization practice
+2018,Mango,Fruits,Transport,5.73,Synthetic data for visualization practice
+2018,Mango,Fruits,Market,4.93,Synthetic data for visualization practice
+2018,Banana,Fruits,Harvest,4.98,Synthetic data for visualization practice
+2018,Banana,Fruits,Handling,4.25,Synthetic data for visualization practice
+2018,Banana,Fruits,Storage,6.02,Synthetic data for visualization practice
+2018,Banana,Fruits,Transport,4.91,Synthetic data for visualization practice
+2018,Banana,Fruits,Market,3.35,Synthetic data for visualization practice
+2018,Apple,Fruits,Harvest,3.52,Synthetic data for visualization practice
+2018,Apple,Fruits,Handling,3.09,Synthetic data for visualization practice
+2018,Apple,Fruits,Storage,3.93,Synthetic data for visualization practice
+2018,Apple,Fruits,Transport,3.64,Synthetic data for visualization practice
+2018,Apple,Fruits,Market,2.57,Synthetic data for visualization practice
+2018,Guava,Fruits,Harvest,5.81,Synthetic data for visualization practice
+2018,Guava,Fruits,Handling,4.57,Synthetic data for visualization practice
+2018,Guava,Fruits,Storage,6.23,Synthetic data for visualization practice
+2018,Guava,Fruits,Transport,5.62,Synthetic data for visualization practice
+2018,Guava,Fruits,Market,4.02,Synthetic data for visualization practice
+2018,Papaya,Fruits,Harvest,3.73,Synthetic data for visualization practice
+2018,Papaya,Fruits,Handling,2.78,Synthetic data for visualization practice
+2018,Papaya,Fruits,Storage,4.27,Synthetic data for visualization practice
+2018,Papaya,Fruits,Transport,3.29,Synthetic data for visualization practice
+2018,Papaya,Fruits,Market,2.58,Synthetic data for visualization practice
+2018,Orange,Fruits,Harvest,5.19,Synthetic data for visualization practice
+2018,Orange,Fruits,Handling,3.76,Synthetic data for visualization practice
+2018,Orange,Fruits,Storage,6.58,Synthetic data for visualization practice
+2018,Orange,Fruits,Transport,5.73,Synthetic data for visualization practice
+2018,Orange,Fruits,Market,3.9,Synthetic data for visualization practice
+2018,Tomato,Vegetables,Harvest,5.46,Synthetic data for visualization practice
+2018,Tomato,Vegetables,Handling,4.36,Synthetic data for visualization practice
+2018,Tomato,Vegetables,Storage,6.23,Synthetic data for visualization practice
+2018,Tomato,Vegetables,Transport,4.89,Synthetic data for visualization practice
+2018,Tomato,Vegetables,Market,4.21,Synthetic data for visualization practice
+2018,Potato,Vegetables,Harvest,4.46,Synthetic data for visualization practice
+2018,Potato,Vegetables,Handling,4.04,Synthetic data for visualization practice
+2018,Potato,Vegetables,Storage,6.0,Synthetic data for visualization practice
+2018,Potato,Vegetables,Transport,4.56,Synthetic data for visualization practice
+2018,Potato,Vegetables,Market,3.46,Synthetic data for visualization practice
+2018,Onion,Vegetables,Harvest,4.41,Synthetic data for visualization practice
+2018,Onion,Vegetables,Handling,2.97,Synthetic data for visualization practice
+2018,Onion,Vegetables,Storage,4.86,Synthetic data for visualization practice
+2018,Onion,Vegetables,Transport,3.87,Synthetic data for visualization practice
+2018,Onion,Vegetables,Market,3.58,Synthetic data for visualization practice
+2018,Cauliflower,Vegetables,Harvest,4.67,Synthetic data for visualization practice
+2018,Cauliflower,Vegetables,Handling,3.12,Synthetic data for visualization practice
+2018,Cauliflower,Vegetables,Storage,4.96,Synthetic data for visualization practice
+2018,Cauliflower,Vegetables,Transport,4.05,Synthetic data for visualization practice
+2018,Cauliflower,Vegetables,Market,2.9,Synthetic data for visualization practice
+2018,Cabbage,Vegetables,Harvest,5.97,Synthetic data for visualization practice
+2018,Cabbage,Vegetables,Handling,4.45,Synthetic data for visualization practice
+2018,Cabbage,Vegetables,Storage,6.0,Synthetic data for visualization practice
+2018,Cabbage,Vegetables,Transport,5.29,Synthetic data for visualization practice
+2018,Cabbage,Vegetables,Market,3.93,Synthetic data for visualization practice
+2018,Okra,Vegetables,Harvest,4.65,Synthetic data for visualization practice
+2018,Okra,Vegetables,Handling,3.31,Synthetic data for visualization practice
+2018,Okra,Vegetables,Storage,4.89,Synthetic data for visualization practice
+2018,Okra,Vegetables,Transport,4.48,Synthetic data for visualization practice
+2018,Okra,Vegetables,Market,3.3,Synthetic data for visualization practice
+2018,Groundnut,Oilseeds,Harvest,3.02,Synthetic data for visualization practice
+2018,Groundnut,Oilseeds,Handling,2.32,Synthetic data for visualization practice
+2018,Groundnut,Oilseeds,Storage,3.02,Synthetic data for visualization practice
+2018,Groundnut,Oilseeds,Transport,2.3,Synthetic data for visualization practice
+2018,Groundnut,Oilseeds,Market,2.28,Synthetic data for visualization practice
+2018,Soybean,Oilseeds,Harvest,2.63,Synthetic data for visualization practice
+2018,Soybean,Oilseeds,Handling,1.73,Synthetic data for visualization practice
+2018,Soybean,Oilseeds,Storage,2.4,Synthetic data for visualization practice
+2018,Soybean,Oilseeds,Transport,1.86,Synthetic data for visualization practice
+2018,Soybean,Oilseeds,Market,1.7,Synthetic data for visualization practice
+2018,Mustard,Oilseeds,Harvest,2.78,Synthetic data for visualization practice
+2018,Mustard,Oilseeds,Handling,1.84,Synthetic data for visualization practice
+2018,Mustard,Oilseeds,Storage,2.68,Synthetic data for visualization practice
+2018,Mustard,Oilseeds,Transport,2.18,Synthetic data for visualization practice
+2018,Mustard,Oilseeds,Market,2.0,Synthetic data for visualization practice
+2018,Sunflower,Oilseeds,Harvest,1.85,Synthetic data for visualization practice
+2018,Sunflower,Oilseeds,Handling,1.46,Synthetic data for visualization practice
+2018,Sunflower,Oilseeds,Storage,2.3,Synthetic data for visualization practice
+2018,Sunflower,Oilseeds,Transport,1.77,Synthetic data for visualization practice
+2018,Sunflower,Oilseeds,Market,1.68,Synthetic data for visualization practice
+2018,Chilli,Spices,Harvest,3.55,Synthetic data for visualization practice
+2018,Chilli,Spices,Handling,2.81,Synthetic data for visualization practice
+2018,Chilli,Spices,Storage,3.67,Synthetic data for visualization practice
+2018,Chilli,Spices,Transport,3.26,Synthetic data for visualization practice
+2018,Chilli,Spices,Market,2.52,Synthetic data for visualization practice
+2018,Turmeric,Spices,Harvest,3.31,Synthetic data for visualization practice
+2018,Turmeric,Spices,Handling,2.37,Synthetic data for visualization practice
+2018,Turmeric,Spices,Storage,3.18,Synthetic data for visualization practice
+2018,Turmeric,Spices,Transport,2.82,Synthetic data for visualization practice
+2018,Turmeric,Spices,Market,2.49,Synthetic data for visualization practice
+2018,Coriander,Spices,Harvest,3.1,Synthetic data for visualization practice
+2018,Coriander,Spices,Handling,2.8,Synthetic data for visualization practice
+2018,Coriander,Spices,Storage,3.72,Synthetic data for visualization practice
+2018,Coriander,Spices,Transport,3.27,Synthetic data for visualization practice
+2018,Coriander,Spices,Market,2.44,Synthetic data for visualization practice
+2019,Rice,Cereals,Harvest,1.11,Synthetic data for visualization practice
+2019,Rice,Cereals,Handling,1.1,Synthetic data for visualization practice
+2019,Rice,Cereals,Storage,1.5,Synthetic data for visualization practice
+2019,Rice,Cereals,Transport,0.98,Synthetic data for visualization practice
+2019,Rice,Cereals,Market,0.62,Synthetic data for visualization practice
+2019,Wheat,Cereals,Harvest,1.58,Synthetic data for visualization practice
+2019,Wheat,Cereals,Handling,1.08,Synthetic data for visualization practice
+2019,Wheat,Cereals,Storage,1.87,Synthetic data for visualization practice
+2019,Wheat,Cereals,Transport,1.84,Synthetic data for visualization practice
+2019,Wheat,Cereals,Market,0.65,Synthetic data for visualization practice
+2019,Maize,Cereals,Harvest,1.48,Synthetic data for visualization practice
+2019,Maize,Cereals,Handling,1.74,Synthetic data for visualization practice
+2019,Maize,Cereals,Storage,2.01,Synthetic data for visualization practice
+2019,Maize,Cereals,Transport,1.79,Synthetic data for visualization practice
+2019,Maize,Cereals,Market,0.97,Synthetic data for visualization practice
+2019,Barley,Cereals,Harvest,1.81,Synthetic data for visualization practice
+2019,Barley,Cereals,Handling,1.37,Synthetic data for visualization practice
+2019,Barley,Cereals,Storage,2.06,Synthetic data for visualization practice
+2019,Barley,Cereals,Transport,1.54,Synthetic data for visualization practice
+2019,Barley,Cereals,Market,1.31,Synthetic data for visualization practice
+2019,Millet,Cereals,Harvest,1.47,Synthetic data for visualization practice
+2019,Millet,Cereals,Handling,1.22,Synthetic data for visualization practice
+2019,Millet,Cereals,Storage,1.04,Synthetic data for visualization practice
+2019,Millet,Cereals,Transport,0.63,Synthetic data for visualization practice
+2019,Millet,Cereals,Market,1.19,Synthetic data for visualization practice
+2019,Sorghum,Cereals,Harvest,1.54,Synthetic data for visualization practice
+2019,Sorghum,Cereals,Handling,0.97,Synthetic data for visualization practice
+2019,Sorghum,Cereals,Storage,2.06,Synthetic data for visualization practice
+2019,Sorghum,Cereals,Transport,1.91,Synthetic data for visualization practice
+2019,Sorghum,Cereals,Market,1.77,Synthetic data for visualization practice
+2019,Chickpea,Pulses,Harvest,1.68,Synthetic data for visualization practice
+2019,Chickpea,Pulses,Handling,1.2,Synthetic data for visualization practice
+2019,Chickpea,Pulses,Storage,2.02,Synthetic data for visualization practice
+2019,Chickpea,Pulses,Transport,1.58,Synthetic data for visualization practice
+2019,Chickpea,Pulses,Market,1.05,Synthetic data for visualization practice
+2019,Pigeon Pea,Pulses,Harvest,2.73,Synthetic data for visualization practice
+2019,Pigeon Pea,Pulses,Handling,2.11,Synthetic data for visualization practice
+2019,Pigeon Pea,Pulses,Storage,2.36,Synthetic data for visualization practice
+2019,Pigeon Pea,Pulses,Transport,2.35,Synthetic data for visualization practice
+2019,Pigeon Pea,Pulses,Market,1.84,Synthetic data for visualization practice
+2019,Lentil,Pulses,Harvest,2.6,Synthetic data for visualization practice
+2019,Lentil,Pulses,Handling,1.99,Synthetic data for visualization practice
+2019,Lentil,Pulses,Storage,2.77,Synthetic data for visualization practice
+2019,Lentil,Pulses,Transport,2.29,Synthetic data for visualization practice
+2019,Lentil,Pulses,Market,1.76,Synthetic data for visualization practice
+2019,Green Gram,Pulses,Harvest,2.01,Synthetic data for visualization practice
+2019,Green Gram,Pulses,Handling,1.45,Synthetic data for visualization practice
+2019,Green Gram,Pulses,Storage,1.93,Synthetic data for visualization practice
+2019,Green Gram,Pulses,Transport,2.28,Synthetic data for visualization practice
+2019,Green Gram,Pulses,Market,1.89,Synthetic data for visualization practice
+2019,Black Gram,Pulses,Harvest,2.02,Synthetic data for visualization practice
+2019,Black Gram,Pulses,Handling,1.9,Synthetic data for visualization practice
+2019,Black Gram,Pulses,Storage,2.22,Synthetic data for visualization practice
+2019,Black Gram,Pulses,Transport,1.88,Synthetic data for visualization practice
+2019,Black Gram,Pulses,Market,1.16,Synthetic data for visualization practice
+2019,Mango,Fruits,Harvest,4.07,Synthetic data for visualization practice
+2019,Mango,Fruits,Handling,2.92,Synthetic data for visualization practice
+2019,Mango,Fruits,Storage,4.58,Synthetic data for visualization practice
+2019,Mango,Fruits,Transport,3.76,Synthetic data for visualization practice
+2019,Mango,Fruits,Market,3.42,Synthetic data for visualization practice
+2019,Banana,Fruits,Harvest,5.14,Synthetic data for visualization practice
+2019,Banana,Fruits,Handling,4.17,Synthetic data for visualization practice
+2019,Banana,Fruits,Storage,5.83,Synthetic data for visualization practice
+2019,Banana,Fruits,Transport,4.74,Synthetic data for visualization practice
+2019,Banana,Fruits,Market,3.5,Synthetic data for visualization practice
+2019,Apple,Fruits,Harvest,4.13,Synthetic data for visualization practice
+2019,Apple,Fruits,Handling,3.14,Synthetic data for visualization practice
+2019,Apple,Fruits,Storage,5.02,Synthetic data for visualization practice
+2019,Apple,Fruits,Transport,4.13,Synthetic data for visualization practice
+2019,Apple,Fruits,Market,2.72,Synthetic data for visualization practice
+2019,Guava,Fruits,Harvest,3.89,Synthetic data for visualization practice
+2019,Guava,Fruits,Handling,3.18,Synthetic data for visualization practice
+2019,Guava,Fruits,Storage,4.39,Synthetic data for visualization practice
+2019,Guava,Fruits,Transport,3.41,Synthetic data for visualization practice
+2019,Guava,Fruits,Market,2.46,Synthetic data for visualization practice
+2019,Papaya,Fruits,Harvest,5.14,Synthetic data for visualization practice
+2019,Papaya,Fruits,Handling,4.14,Synthetic data for visualization practice
+2019,Papaya,Fruits,Storage,6.05,Synthetic data for visualization practice
+2019,Papaya,Fruits,Transport,4.99,Synthetic data for visualization practice
+2019,Papaya,Fruits,Market,3.67,Synthetic data for visualization practice
+2019,Orange,Fruits,Harvest,6.11,Synthetic data for visualization practice
+2019,Orange,Fruits,Handling,5.01,Synthetic data for visualization practice
+2019,Orange,Fruits,Storage,6.96,Synthetic data for visualization practice
+2019,Orange,Fruits,Transport,5.63,Synthetic data for visualization practice
+2019,Orange,Fruits,Market,4.6,Synthetic data for visualization practice
+2019,Tomato,Vegetables,Harvest,4.79,Synthetic data for visualization practice
+2019,Tomato,Vegetables,Handling,4.03,Synthetic data for visualization practice
+2019,Tomato,Vegetables,Storage,5.5,Synthetic data for visualization practice
+2019,Tomato,Vegetables,Transport,4.68,Synthetic data for visualization practice
+2019,Tomato,Vegetables,Market,3.7,Synthetic data for visualization practice
+2019,Potato,Vegetables,Harvest,6.37,Synthetic data for visualization practice
+2019,Potato,Vegetables,Handling,5.55,Synthetic data for visualization practice
+2019,Potato,Vegetables,Storage,7.07,Synthetic data for visualization practice
+2019,Potato,Vegetables,Transport,5.53,Synthetic data for visualization practice
+2019,Potato,Vegetables,Market,4.29,Synthetic data for visualization practice
+2019,Onion,Vegetables,Harvest,6.27,Synthetic data for visualization practice
+2019,Onion,Vegetables,Handling,4.98,Synthetic data for visualization practice
+2019,Onion,Vegetables,Storage,7.4,Synthetic data for visualization practice
+2019,Onion,Vegetables,Transport,5.17,Synthetic data for visualization practice
+2019,Onion,Vegetables,Market,4.69,Synthetic data for visualization practice
+2019,Cauliflower,Vegetables,Harvest,5.12,Synthetic data for visualization practice
+2019,Cauliflower,Vegetables,Handling,4.22,Synthetic data for visualization practice
+2019,Cauliflower,Vegetables,Storage,5.93,Synthetic data for visualization practice
+2019,Cauliflower,Vegetables,Transport,4.81,Synthetic data for visualization practice
+2019,Cauliflower,Vegetables,Market,3.88,Synthetic data for visualization practice
+2019,Cabbage,Vegetables,Harvest,4.84,Synthetic data for visualization practice
+2019,Cabbage,Vegetables,Handling,3.42,Synthetic data for visualization practice
+2019,Cabbage,Vegetables,Storage,5.44,Synthetic data for visualization practice
+2019,Cabbage,Vegetables,Transport,4.09,Synthetic data for visualization practice
+2019,Cabbage,Vegetables,Market,3.65,Synthetic data for visualization practice
+2019,Okra,Vegetables,Harvest,6.32,Synthetic data for visualization practice
+2019,Okra,Vegetables,Handling,5.12,Synthetic data for visualization practice
+2019,Okra,Vegetables,Storage,7.92,Synthetic data for visualization practice
+2019,Okra,Vegetables,Transport,6.08,Synthetic data for visualization practice
+2019,Okra,Vegetables,Market,4.43,Synthetic data for visualization practice
+2019,Groundnut,Oilseeds,Harvest,2.5,Synthetic data for visualization practice
+2019,Groundnut,Oilseeds,Handling,1.95,Synthetic data for visualization practice
+2019,Groundnut,Oilseeds,Storage,3.16,Synthetic data for visualization practice
+2019,Groundnut,Oilseeds,Transport,2.43,Synthetic data for visualization practice
+2019,Groundnut,Oilseeds,Market,1.97,Synthetic data for visualization practice
+2019,Soybean,Oilseeds,Harvest,2.05,Synthetic data for visualization practice
+2019,Soybean,Oilseeds,Handling,1.68,Synthetic data for visualization practice
+2019,Soybean,Oilseeds,Storage,1.75,Synthetic data for visualization practice
+2019,Soybean,Oilseeds,Transport,2.01,Synthetic data for visualization practice
+2019,Soybean,Oilseeds,Market,1.2,Synthetic data for visualization practice
+2019,Mustard,Oilseeds,Harvest,1.91,Synthetic data for visualization practice
+2019,Mustard,Oilseeds,Handling,1.56,Synthetic data for visualization practice
+2019,Mustard,Oilseeds,Storage,2.01,Synthetic data for visualization practice
+2019,Mustard,Oilseeds,Transport,2.01,Synthetic data for visualization practice
+2019,Mustard,Oilseeds,Market,1.08,Synthetic data for visualization practice
+2019,Sunflower,Oilseeds,Harvest,2.34,Synthetic data for visualization practice
+2019,Sunflower,Oilseeds,Handling,1.98,Synthetic data for visualization practice
+2019,Sunflower,Oilseeds,Storage,2.89,Synthetic data for visualization practice
+2019,Sunflower,Oilseeds,Transport,2.07,Synthetic data for visualization practice
+2019,Sunflower,Oilseeds,Market,2.0,Synthetic data for visualization practice
+2019,Chilli,Spices,Harvest,2.73,Synthetic data for visualization practice
+2019,Chilli,Spices,Handling,2.07,Synthetic data for visualization practice
+2019,Chilli,Spices,Storage,3.63,Synthetic data for visualization practice
+2019,Chilli,Spices,Transport,2.94,Synthetic data for visualization practice
+2019,Chilli,Spices,Market,2.32,Synthetic data for visualization practice
+2019,Turmeric,Spices,Harvest,3.62,Synthetic data for visualization practice
+2019,Turmeric,Spices,Handling,3.09,Synthetic data for visualization practice
+2019,Turmeric,Spices,Storage,3.76,Synthetic data for visualization practice
+2019,Turmeric,Spices,Transport,3.03,Synthetic data for visualization practice
+2019,Turmeric,Spices,Market,2.34,Synthetic data for visualization practice
+2019,Coriander,Spices,Harvest,2.7,Synthetic data for visualization practice
+2019,Coriander,Spices,Handling,1.8,Synthetic data for visualization practice
+2019,Coriander,Spices,Storage,2.08,Synthetic data for visualization practice
+2019,Coriander,Spices,Transport,1.8,Synthetic data for visualization practice
+2019,Coriander,Spices,Market,1.54,Synthetic data for visualization practice
+2020,Rice,Cereals,Harvest,1.64,Synthetic data for visualization practice
+2020,Rice,Cereals,Handling,1.41,Synthetic data for visualization practice
+2020,Rice,Cereals,Storage,1.9,Synthetic data for visualization practice
+2020,Rice,Cereals,Transport,1.89,Synthetic data for visualization practice
+2020,Rice,Cereals,Market,1.11,Synthetic data for visualization practice
+2020,Wheat,Cereals,Harvest,2.04,Synthetic data for visualization practice
+2020,Wheat,Cereals,Handling,1.15,Synthetic data for visualization practice
+2020,Wheat,Cereals,Storage,2.28,Synthetic data for visualization practice
+2020,Wheat,Cereals,Transport,1.82,Synthetic data for visualization practice
+2020,Wheat,Cereals,Market,1.37,Synthetic data for visualization practice
+2020,Maize,Cereals,Harvest,1.28,Synthetic data for visualization practice
+2020,Maize,Cereals,Handling,1.67,Synthetic data for visualization practice
+2020,Maize,Cereals,Storage,1.57,Synthetic data for visualization practice
+2020,Maize,Cereals,Transport,1.02,Synthetic data for visualization practice
+2020,Maize,Cereals,Market,1.07,Synthetic data for visualization practice
+2020,Barley,Cereals,Harvest,1.84,Synthetic data for visualization practice
+2020,Barley,Cereals,Handling,1.72,Synthetic data for visualization practice
+2020,Barley,Cereals,Storage,2.43,Synthetic data for visualization practice
+2020,Barley,Cereals,Transport,1.73,Synthetic data for visualization practice
+2020,Barley,Cereals,Market,1.73,Synthetic data for visualization practice
+2020,Millet,Cereals,Harvest,2.39,Synthetic data for visualization practice
+2020,Millet,Cereals,Handling,1.76,Synthetic data for visualization practice
+2020,Millet,Cereals,Storage,2.64,Synthetic data for visualization practice
+2020,Millet,Cereals,Transport,1.42,Synthetic data for visualization practice
+2020,Millet,Cereals,Market,1.41,Synthetic data for visualization practice
+2020,Sorghum,Cereals,Harvest,2.14,Synthetic data for visualization practice
+2020,Sorghum,Cereals,Handling,1.54,Synthetic data for visualization practice
+2020,Sorghum,Cereals,Storage,2.35,Synthetic data for visualization practice
+2020,Sorghum,Cereals,Transport,2.44,Synthetic data for visualization practice
+2020,Sorghum,Cereals,Market,1.5,Synthetic data for visualization practice
+2020,Chickpea,Pulses,Harvest,2.12,Synthetic data for visualization practice
+2020,Chickpea,Pulses,Handling,1.76,Synthetic data for visualization practice
+2020,Chickpea,Pulses,Storage,2.47,Synthetic data for visualization practice
+2020,Chickpea,Pulses,Transport,2.14,Synthetic data for visualization practice
+2020,Chickpea,Pulses,Market,1.89,Synthetic data for visualization practice
+2020,Pigeon Pea,Pulses,Harvest,2.73,Synthetic data for visualization practice
+2020,Pigeon Pea,Pulses,Handling,2.27,Synthetic data for visualization practice
+2020,Pigeon Pea,Pulses,Storage,2.72,Synthetic data for visualization practice
+2020,Pigeon Pea,Pulses,Transport,2.45,Synthetic data for visualization practice
+2020,Pigeon Pea,Pulses,Market,2.18,Synthetic data for visualization practice
+2020,Lentil,Pulses,Harvest,1.75,Synthetic data for visualization practice
+2020,Lentil,Pulses,Handling,1.58,Synthetic data for visualization practice
+2020,Lentil,Pulses,Storage,2.05,Synthetic data for visualization practice
+2020,Lentil,Pulses,Transport,1.88,Synthetic data for visualization practice
+2020,Lentil,Pulses,Market,1.32,Synthetic data for visualization practice
+2020,Green Gram,Pulses,Harvest,2.25,Synthetic data for visualization practice
+2020,Green Gram,Pulses,Handling,1.0,Synthetic data for visualization practice
+2020,Green Gram,Pulses,Storage,2.55,Synthetic data for visualization practice
+2020,Green Gram,Pulses,Transport,1.11,Synthetic data for visualization practice
+2020,Green Gram,Pulses,Market,1.16,Synthetic data for visualization practice
+2020,Black Gram,Pulses,Harvest,1.86,Synthetic data for visualization practice
+2020,Black Gram,Pulses,Handling,1.1,Synthetic data for visualization practice
+2020,Black Gram,Pulses,Storage,1.79,Synthetic data for visualization practice
+2020,Black Gram,Pulses,Transport,1.96,Synthetic data for visualization practice
+2020,Black Gram,Pulses,Market,1.15,Synthetic data for visualization practice
+2020,Mango,Fruits,Harvest,5.15,Synthetic data for visualization practice
+2020,Mango,Fruits,Handling,4.23,Synthetic data for visualization practice
+2020,Mango,Fruits,Storage,6.25,Synthetic data for visualization practice
+2020,Mango,Fruits,Transport,4.84,Synthetic data for visualization practice
+2020,Mango,Fruits,Market,3.53,Synthetic data for visualization practice
+2020,Banana,Fruits,Harvest,5.19,Synthetic data for visualization practice
+2020,Banana,Fruits,Handling,3.82,Synthetic data for visualization practice
+2020,Banana,Fruits,Storage,5.82,Synthetic data for visualization practice
+2020,Banana,Fruits,Transport,4.66,Synthetic data for visualization practice
+2020,Banana,Fruits,Market,4.04,Synthetic data for visualization practice
+2020,Apple,Fruits,Harvest,3.8,Synthetic data for visualization practice
+2020,Apple,Fruits,Handling,3.07,Synthetic data for visualization practice
+2020,Apple,Fruits,Storage,4.45,Synthetic data for visualization practice
+2020,Apple,Fruits,Transport,3.77,Synthetic data for visualization practice
+2020,Apple,Fruits,Market,2.59,Synthetic data for visualization practice
+2020,Guava,Fruits,Harvest,5.7,Synthetic data for visualization practice
+2020,Guava,Fruits,Handling,4.23,Synthetic data for visualization practice
+2020,Guava,Fruits,Storage,5.79,Synthetic data for visualization practice
+2020,Guava,Fruits,Transport,5.17,Synthetic data for visualization practice
+2020,Guava,Fruits,Market,4.09,Synthetic data for visualization practice
+2020,Papaya,Fruits,Harvest,4.48,Synthetic data for visualization practice
+2020,Papaya,Fruits,Handling,3.73,Synthetic data for visualization practice
+2020,Papaya,Fruits,Storage,5.11,Synthetic data for visualization practice
+2020,Papaya,Fruits,Transport,4.29,Synthetic data for visualization practice
+2020,Papaya,Fruits,Market,2.9,Synthetic data for visualization practice
+2020,Orange,Fruits,Harvest,5.78,Synthetic data for visualization practice
+2020,Orange,Fruits,Handling,4.56,Synthetic data for visualization practice
+2020,Orange,Fruits,Storage,6.85,Synthetic data for visualization practice
+2020,Orange,Fruits,Transport,5.83,Synthetic data for visualization practice
+2020,Orange,Fruits,Market,4.74,Synthetic data for visualization practice
+2020,Tomato,Vegetables,Harvest,5.75,Synthetic data for visualization practice
+2020,Tomato,Vegetables,Handling,4.71,Synthetic data for visualization practice
+2020,Tomato,Vegetables,Storage,6.74,Synthetic data for visualization practice
+2020,Tomato,Vegetables,Transport,5.42,Synthetic data for visualization practice
+2020,Tomato,Vegetables,Market,4.27,Synthetic data for visualization practice
+2020,Potato,Vegetables,Harvest,4.88,Synthetic data for visualization practice
+2020,Potato,Vegetables,Handling,3.74,Synthetic data for visualization practice
+2020,Potato,Vegetables,Storage,5.45,Synthetic data for visualization practice
+2020,Potato,Vegetables,Transport,4.73,Synthetic data for visualization practice
+2020,Potato,Vegetables,Market,3.59,Synthetic data for visualization practice
+2020,Onion,Vegetables,Harvest,4.17,Synthetic data for visualization practice
+2020,Onion,Vegetables,Handling,3.1,Synthetic data for visualization practice
+2020,Onion,Vegetables,Storage,4.72,Synthetic data for visualization practice
+2020,Onion,Vegetables,Transport,3.83,Synthetic data for visualization practice
+2020,Onion,Vegetables,Market,2.62,Synthetic data for visualization practice
+2020,Cauliflower,Vegetables,Harvest,4.16,Synthetic data for visualization practice
+2020,Cauliflower,Vegetables,Handling,3.02,Synthetic data for visualization practice
+2020,Cauliflower,Vegetables,Storage,4.6,Synthetic data for visualization practice
+2020,Cauliflower,Vegetables,Transport,3.75,Synthetic data for visualization practice
+2020,Cauliflower,Vegetables,Market,3.16,Synthetic data for visualization practice
+2020,Cabbage,Vegetables,Harvest,4.42,Synthetic data for visualization practice
+2020,Cabbage,Vegetables,Handling,3.76,Synthetic data for visualization practice
+2020,Cabbage,Vegetables,Storage,5.19,Synthetic data for visualization practice
+2020,Cabbage,Vegetables,Transport,4.28,Synthetic data for visualization practice
+2020,Cabbage,Vegetables,Market,3.4,Synthetic data for visualization practice
+2020,Okra,Vegetables,Harvest,4.71,Synthetic data for visualization practice
+2020,Okra,Vegetables,Handling,4.1,Synthetic data for visualization practice
+2020,Okra,Vegetables,Storage,5.39,Synthetic data for visualization practice
+2020,Okra,Vegetables,Transport,4.9,Synthetic data for visualization practice
+2020,Okra,Vegetables,Market,3.84,Synthetic data for visualization practice
+2020,Groundnut,Oilseeds,Harvest,2.48,Synthetic data for visualization practice
+2020,Groundnut,Oilseeds,Handling,1.8,Synthetic data for visualization practice
+2020,Groundnut,Oilseeds,Storage,2.35,Synthetic data for visualization practice
+2020,Groundnut,Oilseeds,Transport,2.16,Synthetic data for visualization practice
+2020,Groundnut,Oilseeds,Market,1.47,Synthetic data for visualization practice
+2020,Soybean,Oilseeds,Harvest,3.15,Synthetic data for visualization practice
+2020,Soybean,Oilseeds,Handling,2.18,Synthetic data for visualization practice
+2020,Soybean,Oilseeds,Storage,3.49,Synthetic data for visualization practice
+2020,Soybean,Oilseeds,Transport,2.88,Synthetic data for visualization practice
+2020,Soybean,Oilseeds,Market,1.89,Synthetic data for visualization practice
+2020,Mustard,Oilseeds,Harvest,2.65,Synthetic data for visualization practice
+2020,Mustard,Oilseeds,Handling,2.01,Synthetic data for visualization practice
+2020,Mustard,Oilseeds,Storage,2.61,Synthetic data for visualization practice
+2020,Mustard,Oilseeds,Transport,2.1,Synthetic data for visualization practice
+2020,Mustard,Oilseeds,Market,1.68,Synthetic data for visualization practice
+2020,Sunflower,Oilseeds,Harvest,2.73,Synthetic data for visualization practice
+2020,Sunflower,Oilseeds,Handling,2.48,Synthetic data for visualization practice
+2020,Sunflower,Oilseeds,Storage,3.05,Synthetic data for visualization practice
+2020,Sunflower,Oilseeds,Transport,2.72,Synthetic data for visualization practice
+2020,Sunflower,Oilseeds,Market,2.2,Synthetic data for visualization practice
+2020,Chilli,Spices,Harvest,2.54,Synthetic data for visualization practice
+2020,Chilli,Spices,Handling,2.68,Synthetic data for visualization practice
+2020,Chilli,Spices,Storage,3.31,Synthetic data for visualization practice
+2020,Chilli,Spices,Transport,2.8,Synthetic data for visualization practice
+2020,Chilli,Spices,Market,2.15,Synthetic data for visualization practice
+2020,Turmeric,Spices,Harvest,3.01,Synthetic data for visualization practice
+2020,Turmeric,Spices,Handling,2.8,Synthetic data for visualization practice
+2020,Turmeric,Spices,Storage,3.34,Synthetic data for visualization practice
+2020,Turmeric,Spices,Transport,3.13,Synthetic data for visualization practice
+2020,Turmeric,Spices,Market,2.08,Synthetic data for visualization practice
+2020,Coriander,Spices,Harvest,1.88,Synthetic data for visualization practice
+2020,Coriander,Spices,Handling,1.83,Synthetic data for visualization practice
+2020,Coriander,Spices,Storage,2.79,Synthetic data for visualization practice
+2020,Coriander,Spices,Transport,1.98,Synthetic data for visualization practice
+2020,Coriander,Spices,Market,1.52,Synthetic data for visualization practice
+2021,Rice,Cereals,Harvest,1.28,Synthetic data for visualization practice
+2021,Rice,Cereals,Handling,0.67,Synthetic data for visualization practice
+2021,Rice,Cereals,Storage,1.28,Synthetic data for visualization practice
+2021,Rice,Cereals,Transport,1.3,Synthetic data for visualization practice
+2021,Rice,Cereals,Market,1.31,Synthetic data for visualization practice
+2021,Wheat,Cereals,Harvest,1.64,Synthetic data for visualization practice
+2021,Wheat,Cereals,Handling,1.79,Synthetic data for visualization practice
+2021,Wheat,Cereals,Storage,2.09,Synthetic data for visualization practice
+2021,Wheat,Cereals,Transport,1.63,Synthetic data for visualization practice
+2021,Wheat,Cereals,Market,1.42,Synthetic data for visualization practice
+2021,Maize,Cereals,Harvest,1.5,Synthetic data for visualization practice
+2021,Maize,Cereals,Handling,1.08,Synthetic data for visualization practice
+2021,Maize,Cereals,Storage,1.32,Synthetic data for visualization practice
+2021,Maize,Cereals,Transport,0.99,Synthetic data for visualization practice
+2021,Maize,Cereals,Market,1.24,Synthetic data for visualization practice
+2021,Barley,Cereals,Harvest,1.46,Synthetic data for visualization practice
+2021,Barley,Cereals,Handling,1.29,Synthetic data for visualization practice
+2021,Barley,Cereals,Storage,2.02,Synthetic data for visualization practice
+2021,Barley,Cereals,Transport,1.55,Synthetic data for visualization practice
+2021,Barley,Cereals,Market,1.02,Synthetic data for visualization practice
+2021,Millet,Cereals,Harvest,2.11,Synthetic data for visualization practice
+2021,Millet,Cereals,Handling,2.1,Synthetic data for visualization practice
+2021,Millet,Cereals,Storage,2.54,Synthetic data for visualization practice
+2021,Millet,Cereals,Transport,2.23,Synthetic data for visualization practice
+2021,Millet,Cereals,Market,1.87,Synthetic data for visualization practice
+2021,Sorghum,Cereals,Harvest,1.8,Synthetic data for visualization practice
+2021,Sorghum,Cereals,Handling,1.46,Synthetic data for visualization practice
+2021,Sorghum,Cereals,Storage,1.99,Synthetic data for visualization practice
+2021,Sorghum,Cereals,Transport,1.26,Synthetic data for visualization practice
+2021,Sorghum,Cereals,Market,1.38,Synthetic data for visualization practice
+2021,Chickpea,Pulses,Harvest,2.27,Synthetic data for visualization practice
+2021,Chickpea,Pulses,Handling,2.3,Synthetic data for visualization practice
+2021,Chickpea,Pulses,Storage,3.01,Synthetic data for visualization practice
+2021,Chickpea,Pulses,Transport,2.68,Synthetic data for visualization practice
+2021,Chickpea,Pulses,Market,1.75,Synthetic data for visualization practice
+2021,Pigeon Pea,Pulses,Harvest,2.03,Synthetic data for visualization practice
+2021,Pigeon Pea,Pulses,Handling,1.7,Synthetic data for visualization practice
+2021,Pigeon Pea,Pulses,Storage,2.39,Synthetic data for visualization practice
+2021,Pigeon Pea,Pulses,Transport,2.23,Synthetic data for visualization practice
+2021,Pigeon Pea,Pulses,Market,1.44,Synthetic data for visualization practice
+2021,Lentil,Pulses,Harvest,1.89,Synthetic data for visualization practice
+2021,Lentil,Pulses,Handling,1.82,Synthetic data for visualization practice
+2021,Lentil,Pulses,Storage,2.42,Synthetic data for visualization practice
+2021,Lentil,Pulses,Transport,1.81,Synthetic data for visualization practice
+2021,Lentil,Pulses,Market,1.51,Synthetic data for visualization practice
+2021,Green Gram,Pulses,Harvest,1.51,Synthetic data for visualization practice
+2021,Green Gram,Pulses,Handling,1.7,Synthetic data for visualization practice
+2021,Green Gram,Pulses,Storage,1.76,Synthetic data for visualization practice
+2021,Green Gram,Pulses,Transport,1.41,Synthetic data for visualization practice
+2021,Green Gram,Pulses,Market,0.63,Synthetic data for visualization practice
+2021,Black Gram,Pulses,Harvest,2.4,Synthetic data for visualization practice
+2021,Black Gram,Pulses,Handling,1.8,Synthetic data for visualization practice
+2021,Black Gram,Pulses,Storage,3.14,Synthetic data for visualization practice
+2021,Black Gram,Pulses,Transport,2.26,Synthetic data for visualization practice
+2021,Black Gram,Pulses,Market,2.13,Synthetic data for visualization practice
+2021,Mango,Fruits,Harvest,4.15,Synthetic data for visualization practice
+2021,Mango,Fruits,Handling,3.29,Synthetic data for visualization practice
+2021,Mango,Fruits,Storage,4.69,Synthetic data for visualization practice
+2021,Mango,Fruits,Transport,4.29,Synthetic data for visualization practice
+2021,Mango,Fruits,Market,2.45,Synthetic data for visualization practice
+2021,Banana,Fruits,Harvest,3.9,Synthetic data for visualization practice
+2021,Banana,Fruits,Handling,3.24,Synthetic data for visualization practice
+2021,Banana,Fruits,Storage,4.75,Synthetic data for visualization practice
+2021,Banana,Fruits,Transport,3.89,Synthetic data for visualization practice
+2021,Banana,Fruits,Market,2.87,Synthetic data for visualization practice
+2021,Apple,Fruits,Harvest,4.19,Synthetic data for visualization practice
+2021,Apple,Fruits,Handling,3.19,Synthetic data for visualization practice
+2021,Apple,Fruits,Storage,4.69,Synthetic data for visualization practice
+2021,Apple,Fruits,Transport,3.73,Synthetic data for visualization practice
+2021,Apple,Fruits,Market,2.74,Synthetic data for visualization practice
+2021,Guava,Fruits,Harvest,4.65,Synthetic data for visualization practice
+2021,Guava,Fruits,Handling,3.7,Synthetic data for visualization practice
+2021,Guava,Fruits,Storage,5.61,Synthetic data for visualization practice
+2021,Guava,Fruits,Transport,3.71,Synthetic data for visualization practice
+2021,Guava,Fruits,Market,3.04,Synthetic data for visualization practice
+2021,Papaya,Fruits,Harvest,3.95,Synthetic data for visualization practice
+2021,Papaya,Fruits,Handling,3.17,Synthetic data for visualization practice
+2021,Papaya,Fruits,Storage,4.21,Synthetic data for visualization practice
+2021,Papaya,Fruits,Transport,3.53,Synthetic data for visualization practice
+2021,Papaya,Fruits,Market,2.75,Synthetic data for visualization practice
+2021,Orange,Fruits,Harvest,6.05,Synthetic data for visualization practice
+2021,Orange,Fruits,Handling,4.37,Synthetic data for visualization practice
+2021,Orange,Fruits,Storage,6.25,Synthetic data for visualization practice
+2021,Orange,Fruits,Transport,4.94,Synthetic data for visualization practice
+2021,Orange,Fruits,Market,3.63,Synthetic data for visualization practice
+2021,Tomato,Vegetables,Harvest,4.14,Synthetic data for visualization practice
+2021,Tomato,Vegetables,Handling,3.49,Synthetic data for visualization practice
+2021,Tomato,Vegetables,Storage,4.57,Synthetic data for visualization practice
+2021,Tomato,Vegetables,Transport,3.91,Synthetic data for visualization practice
+2021,Tomato,Vegetables,Market,3.26,Synthetic data for visualization practice
+2021,Potato,Vegetables,Harvest,4.52,Synthetic data for visualization practice
+2021,Potato,Vegetables,Handling,3.2,Synthetic data for visualization practice
+2021,Potato,Vegetables,Storage,5.22,Synthetic data for visualization practice
+2021,Potato,Vegetables,Transport,3.92,Synthetic data for visualization practice
+2021,Potato,Vegetables,Market,3.4,Synthetic data for visualization practice
+2021,Onion,Vegetables,Harvest,3.34,Synthetic data for visualization practice
+2021,Onion,Vegetables,Handling,2.87,Synthetic data for visualization practice
+2021,Onion,Vegetables,Storage,4.27,Synthetic data for visualization practice
+2021,Onion,Vegetables,Transport,3.6,Synthetic data for visualization practice
+2021,Onion,Vegetables,Market,2.67,Synthetic data for visualization practice
+2021,Cauliflower,Vegetables,Harvest,5.21,Synthetic data for visualization practice
+2021,Cauliflower,Vegetables,Handling,3.9,Synthetic data for visualization practice
+2021,Cauliflower,Vegetables,Storage,5.8,Synthetic data for visualization practice
+2021,Cauliflower,Vegetables,Transport,5.11,Synthetic data for visualization practice
+2021,Cauliflower,Vegetables,Market,4.12,Synthetic data for visualization practice
+2021,Cabbage,Vegetables,Harvest,3.98,Synthetic data for visualization practice
+2021,Cabbage,Vegetables,Handling,3.74,Synthetic data for visualization practice
+2021,Cabbage,Vegetables,Storage,4.51,Synthetic data for visualization practice
+2021,Cabbage,Vegetables,Transport,3.6,Synthetic data for visualization practice
+2021,Cabbage,Vegetables,Market,2.97,Synthetic data for visualization practice
+2021,Okra,Vegetables,Harvest,4.14,Synthetic data for visualization practice
+2021,Okra,Vegetables,Handling,3.17,Synthetic data for visualization practice
+2021,Okra,Vegetables,Storage,4.55,Synthetic data for visualization practice
+2021,Okra,Vegetables,Transport,3.71,Synthetic data for visualization practice
+2021,Okra,Vegetables,Market,2.83,Synthetic data for visualization practice
+2021,Groundnut,Oilseeds,Harvest,2.27,Synthetic data for visualization practice
+2021,Groundnut,Oilseeds,Handling,1.98,Synthetic data for visualization practice
+2021,Groundnut,Oilseeds,Storage,2.37,Synthetic data for visualization practice
+2021,Groundnut,Oilseeds,Transport,2.0,Synthetic data for visualization practice
+2021,Groundnut,Oilseeds,Market,1.43,Synthetic data for visualization practice
+2021,Soybean,Oilseeds,Harvest,1.52,Synthetic data for visualization practice
+2021,Soybean,Oilseeds,Handling,1.04,Synthetic data for visualization practice
+2021,Soybean,Oilseeds,Storage,1.55,Synthetic data for visualization practice
+2021,Soybean,Oilseeds,Transport,1.44,Synthetic data for visualization practice
+2021,Soybean,Oilseeds,Market,1.7,Synthetic data for visualization practice
+2021,Mustard,Oilseeds,Harvest,3.03,Synthetic data for visualization practice
+2021,Mustard,Oilseeds,Handling,2.27,Synthetic data for visualization practice
+2021,Mustard,Oilseeds,Storage,3.26,Synthetic data for visualization practice
+2021,Mustard,Oilseeds,Transport,2.3,Synthetic data for visualization practice
+2021,Mustard,Oilseeds,Market,2.11,Synthetic data for visualization practice
+2021,Sunflower,Oilseeds,Harvest,2.01,Synthetic data for visualization practice
+2021,Sunflower,Oilseeds,Handling,1.86,Synthetic data for visualization practice
+2021,Sunflower,Oilseeds,Storage,2.58,Synthetic data for visualization practice
+2021,Sunflower,Oilseeds,Transport,1.87,Synthetic data for visualization practice
+2021,Sunflower,Oilseeds,Market,1.3,Synthetic data for visualization practice
+2021,Chilli,Spices,Harvest,2.89,Synthetic data for visualization practice
+2021,Chilli,Spices,Handling,2.37,Synthetic data for visualization practice
+2021,Chilli,Spices,Storage,3.05,Synthetic data for visualization practice
+2021,Chilli,Spices,Transport,2.68,Synthetic data for visualization practice
+2021,Chilli,Spices,Market,2.24,Synthetic data for visualization practice
+2021,Turmeric,Spices,Harvest,2.78,Synthetic data for visualization practice
+2021,Turmeric,Spices,Handling,2.24,Synthetic data for visualization practice
+2021,Turmeric,Spices,Storage,2.47,Synthetic data for visualization practice
+2021,Turmeric,Spices,Transport,2.66,Synthetic data for visualization practice
+2021,Turmeric,Spices,Market,1.62,Synthetic data for visualization practice
+2021,Coriander,Spices,Harvest,2.78,Synthetic data for visualization practice
+2021,Coriander,Spices,Handling,2.11,Synthetic data for visualization practice
+2021,Coriander,Spices,Storage,2.68,Synthetic data for visualization practice
+2021,Coriander,Spices,Transport,2.54,Synthetic data for visualization practice
+2021,Coriander,Spices,Market,1.64,Synthetic data for visualization practice
+2022,Rice,Cereals,Harvest,1.99,Synthetic data for visualization practice
+2022,Rice,Cereals,Handling,1.09,Synthetic data for visualization practice
+2022,Rice,Cereals,Storage,1.9,Synthetic data for visualization practice
+2022,Rice,Cereals,Transport,1.32,Synthetic data for visualization practice
+2022,Rice,Cereals,Market,1.02,Synthetic data for visualization practice
+2022,Wheat,Cereals,Harvest,1.5,Synthetic data for visualization practice
+2022,Wheat,Cereals,Handling,1.65,Synthetic data for visualization practice
+2022,Wheat,Cereals,Storage,1.6,Synthetic data for visualization practice
+2022,Wheat,Cereals,Transport,1.66,Synthetic data for visualization practice
+2022,Wheat,Cereals,Market,1.14,Synthetic data for visualization practice
+2022,Maize,Cereals,Harvest,1.29,Synthetic data for visualization practice
+2022,Maize,Cereals,Handling,1.11,Synthetic data for visualization practice
+2022,Maize,Cereals,Storage,1.56,Synthetic data for visualization practice
+2022,Maize,Cereals,Transport,1.1,Synthetic data for visualization practice
+2022,Maize,Cereals,Market,1.19,Synthetic data for visualization practice
+2022,Barley,Cereals,Harvest,1.89,Synthetic data for visualization practice
+2022,Barley,Cereals,Handling,1.77,Synthetic data for visualization practice
+2022,Barley,Cereals,Storage,2.33,Synthetic data for visualization practice
+2022,Barley,Cereals,Transport,1.53,Synthetic data for visualization practice
+2022,Barley,Cereals,Market,1.37,Synthetic data for visualization practice
+2022,Millet,Cereals,Harvest,1.73,Synthetic data for visualization practice
+2022,Millet,Cereals,Handling,1.23,Synthetic data for visualization practice
+2022,Millet,Cereals,Storage,2.36,Synthetic data for visualization practice
+2022,Millet,Cereals,Transport,1.7,Synthetic data for visualization practice
+2022,Millet,Cereals,Market,1.21,Synthetic data for visualization practice
+2022,Sorghum,Cereals,Harvest,1.32,Synthetic data for visualization practice
+2022,Sorghum,Cereals,Handling,0.99,Synthetic data for visualization practice
+2022,Sorghum,Cereals,Storage,2.31,Synthetic data for visualization practice
+2022,Sorghum,Cereals,Transport,1.76,Synthetic data for visualization practice
+2022,Sorghum,Cereals,Market,1.43,Synthetic data for visualization practice
+2022,Chickpea,Pulses,Harvest,1.87,Synthetic data for visualization practice
+2022,Chickpea,Pulses,Handling,2.0,Synthetic data for visualization practice
+2022,Chickpea,Pulses,Storage,2.33,Synthetic data for visualization practice
+2022,Chickpea,Pulses,Transport,1.79,Synthetic data for visualization practice
+2022,Chickpea,Pulses,Market,1.27,Synthetic data for visualization practice
+2022,Pigeon Pea,Pulses,Harvest,1.84,Synthetic data for visualization practice
+2022,Pigeon Pea,Pulses,Handling,1.96,Synthetic data for visualization practice
+2022,Pigeon Pea,Pulses,Storage,2.9,Synthetic data for visualization practice
+2022,Pigeon Pea,Pulses,Transport,1.82,Synthetic data for visualization practice
+2022,Pigeon Pea,Pulses,Market,1.57,Synthetic data for visualization practice
+2022,Lentil,Pulses,Harvest,1.48,Synthetic data for visualization practice
+2022,Lentil,Pulses,Handling,1.39,Synthetic data for visualization practice
+2022,Lentil,Pulses,Storage,1.43,Synthetic data for visualization practice
+2022,Lentil,Pulses,Transport,1.76,Synthetic data for visualization practice
+2022,Lentil,Pulses,Market,1.45,Synthetic data for visualization practice
+2022,Green Gram,Pulses,Harvest,1.52,Synthetic data for visualization practice
+2022,Green Gram,Pulses,Handling,1.46,Synthetic data for visualization practice
+2022,Green Gram,Pulses,Storage,2.73,Synthetic data for visualization practice
+2022,Green Gram,Pulses,Transport,1.3,Synthetic data for visualization practice
+2022,Green Gram,Pulses,Market,1.48,Synthetic data for visualization practice
+2022,Black Gram,Pulses,Harvest,1.84,Synthetic data for visualization practice
+2022,Black Gram,Pulses,Handling,1.14,Synthetic data for visualization practice
+2022,Black Gram,Pulses,Storage,1.96,Synthetic data for visualization practice
+2022,Black Gram,Pulses,Transport,1.67,Synthetic data for visualization practice
+2022,Black Gram,Pulses,Market,1.66,Synthetic data for visualization practice
+2022,Mango,Fruits,Harvest,3.58,Synthetic data for visualization practice
+2022,Mango,Fruits,Handling,2.42,Synthetic data for visualization practice
+2022,Mango,Fruits,Storage,4.25,Synthetic data for visualization practice
+2022,Mango,Fruits,Transport,3.06,Synthetic data for visualization practice
+2022,Mango,Fruits,Market,2.41,Synthetic data for visualization practice
+2022,Banana,Fruits,Harvest,3.98,Synthetic data for visualization practice
+2022,Banana,Fruits,Handling,3.55,Synthetic data for visualization practice
+2022,Banana,Fruits,Storage,5.19,Synthetic data for visualization practice
+2022,Banana,Fruits,Transport,4.15,Synthetic data for visualization practice
+2022,Banana,Fruits,Market,2.81,Synthetic data for visualization practice
+2022,Apple,Fruits,Harvest,3.96,Synthetic data for visualization practice
+2022,Apple,Fruits,Handling,2.55,Synthetic data for visualization practice
+2022,Apple,Fruits,Storage,4.01,Synthetic data for visualization practice
+2022,Apple,Fruits,Transport,3.74,Synthetic data for visualization practice
+2022,Apple,Fruits,Market,2.84,Synthetic data for visualization practice
+2022,Guava,Fruits,Harvest,5.92,Synthetic data for visualization practice
+2022,Guava,Fruits,Handling,4.48,Synthetic data for visualization practice
+2022,Guava,Fruits,Storage,6.35,Synthetic data for visualization practice
+2022,Guava,Fruits,Transport,5.77,Synthetic data for visualization practice
+2022,Guava,Fruits,Market,3.95,Synthetic data for visualization practice
+2022,Papaya,Fruits,Harvest,4.61,Synthetic data for visualization practice
+2022,Papaya,Fruits,Handling,3.71,Synthetic data for visualization practice
+2022,Papaya,Fruits,Storage,4.97,Synthetic data for visualization practice
+2022,Papaya,Fruits,Transport,3.94,Synthetic data for visualization practice
+2022,Papaya,Fruits,Market,3.88,Synthetic data for visualization practice
+2022,Orange,Fruits,Harvest,3.34,Synthetic data for visualization practice
+2022,Orange,Fruits,Handling,3.05,Synthetic data for visualization practice
+2022,Orange,Fruits,Storage,3.97,Synthetic data for visualization practice
+2022,Orange,Fruits,Transport,3.23,Synthetic data for visualization practice
+2022,Orange,Fruits,Market,2.73,Synthetic data for visualization practice
+2022,Tomato,Vegetables,Harvest,5.94,Synthetic data for visualization practice
+2022,Tomato,Vegetables,Handling,5.16,Synthetic data for visualization practice
+2022,Tomato,Vegetables,Storage,6.75,Synthetic data for visualization practice
+2022,Tomato,Vegetables,Transport,5.37,Synthetic data for visualization practice
+2022,Tomato,Vegetables,Market,4.16,Synthetic data for visualization practice
+2022,Potato,Vegetables,Harvest,5.07,Synthetic data for visualization practice
+2022,Potato,Vegetables,Handling,4.01,Synthetic data for visualization practice
+2022,Potato,Vegetables,Storage,6.05,Synthetic data for visualization practice
+2022,Potato,Vegetables,Transport,4.36,Synthetic data for visualization practice
+2022,Potato,Vegetables,Market,3.98,Synthetic data for visualization practice
+2022,Onion,Vegetables,Harvest,4.22,Synthetic data for visualization practice
+2022,Onion,Vegetables,Handling,3.02,Synthetic data for visualization practice
+2022,Onion,Vegetables,Storage,5.01,Synthetic data for visualization practice
+2022,Onion,Vegetables,Transport,4.16,Synthetic data for visualization practice
+2022,Onion,Vegetables,Market,3.27,Synthetic data for visualization practice
+2022,Cauliflower,Vegetables,Harvest,6.04,Synthetic data for visualization practice
+2022,Cauliflower,Vegetables,Handling,4.77,Synthetic data for visualization practice
+2022,Cauliflower,Vegetables,Storage,6.21,Synthetic data for visualization practice
+2022,Cauliflower,Vegetables,Transport,5.44,Synthetic data for visualization practice
+2022,Cauliflower,Vegetables,Market,4.37,Synthetic data for visualization practice
+2022,Cabbage,Vegetables,Harvest,5.12,Synthetic data for visualization practice
+2022,Cabbage,Vegetables,Handling,4.13,Synthetic data for visualization practice
+2022,Cabbage,Vegetables,Storage,6.12,Synthetic data for visualization practice
+2022,Cabbage,Vegetables,Transport,5.04,Synthetic data for visualization practice
+2022,Cabbage,Vegetables,Market,3.01,Synthetic data for visualization practice
+2022,Okra,Vegetables,Harvest,4.8,Synthetic data for visualization practice
+2022,Okra,Vegetables,Handling,3.43,Synthetic data for visualization practice
+2022,Okra,Vegetables,Storage,5.51,Synthetic data for visualization practice
+2022,Okra,Vegetables,Transport,4.83,Synthetic data for visualization practice
+2022,Okra,Vegetables,Market,3.28,Synthetic data for visualization practice
+2022,Groundnut,Oilseeds,Harvest,2.46,Synthetic data for visualization practice
+2022,Groundnut,Oilseeds,Handling,1.98,Synthetic data for visualization practice
+2022,Groundnut,Oilseeds,Storage,3.42,Synthetic data for visualization practice
+2022,Groundnut,Oilseeds,Transport,2.38,Synthetic data for visualization practice
+2022,Groundnut,Oilseeds,Market,2.09,Synthetic data for visualization practice
+2022,Soybean,Oilseeds,Harvest,2.44,Synthetic data for visualization practice
+2022,Soybean,Oilseeds,Handling,1.73,Synthetic data for visualization practice
+2022,Soybean,Oilseeds,Storage,2.19,Synthetic data for visualization practice
+2022,Soybean,Oilseeds,Transport,1.98,Synthetic data for visualization practice
+2022,Soybean,Oilseeds,Market,1.09,Synthetic data for visualization practice
+2022,Mustard,Oilseeds,Harvest,1.93,Synthetic data for visualization practice
+2022,Mustard,Oilseeds,Handling,1.56,Synthetic data for visualization practice
+2022,Mustard,Oilseeds,Storage,2.15,Synthetic data for visualization practice
+2022,Mustard,Oilseeds,Transport,1.73,Synthetic data for visualization practice
+2022,Mustard,Oilseeds,Market,1.65,Synthetic data for visualization practice
+2022,Sunflower,Oilseeds,Harvest,3.02,Synthetic data for visualization practice
+2022,Sunflower,Oilseeds,Handling,2.28,Synthetic data for visualization practice
+2022,Sunflower,Oilseeds,Storage,3.37,Synthetic data for visualization practice
+2022,Sunflower,Oilseeds,Transport,2.56,Synthetic data for visualization practice
+2022,Sunflower,Oilseeds,Market,2.65,Synthetic data for visualization practice
+2022,Chilli,Spices,Harvest,3.69,Synthetic data for visualization practice
+2022,Chilli,Spices,Handling,3.04,Synthetic data for visualization practice
+2022,Chilli,Spices,Storage,3.61,Synthetic data for visualization practice
+2022,Chilli,Spices,Transport,3.7,Synthetic data for visualization practice
+2022,Chilli,Spices,Market,2.72,Synthetic data for visualization practice
+2022,Turmeric,Spices,Harvest,3.5,Synthetic data for visualization practice
+2022,Turmeric,Spices,Handling,2.74,Synthetic data for visualization practice
+2022,Turmeric,Spices,Storage,3.91,Synthetic data for visualization practice
+2022,Turmeric,Spices,Transport,3.36,Synthetic data for visualization practice
+2022,Turmeric,Spices,Market,2.91,Synthetic data for visualization practice
+2022,Coriander,Spices,Harvest,2.82,Synthetic data for visualization practice
+2022,Coriander,Spices,Handling,2.65,Synthetic data for visualization practice
+2022,Coriander,Spices,Storage,3.69,Synthetic data for visualization practice
+2022,Coriander,Spices,Transport,3.01,Synthetic data for visualization practice
+2022,Coriander,Spices,Market,2.43,Synthetic data for visualization practice
+2023,Rice,Cereals,Harvest,1.77,Synthetic data for visualization practice
+2023,Rice,Cereals,Handling,1.39,Synthetic data for visualization practice
+2023,Rice,Cereals,Storage,1.86,Synthetic data for visualization practice
+2023,Rice,Cereals,Transport,1.93,Synthetic data for visualization practice
+2023,Rice,Cereals,Market,1.45,Synthetic data for visualization practice
+2023,Wheat,Cereals,Harvest,0.83,Synthetic data for visualization practice
+2023,Wheat,Cereals,Handling,0.94,Synthetic data for visualization practice
+2023,Wheat,Cereals,Storage,2.06,Synthetic data for visualization practice
+2023,Wheat,Cereals,Transport,1.3,Synthetic data for visualization practice
+2023,Wheat,Cereals,Market,1.24,Synthetic data for visualization practice
+2023,Maize,Cereals,Harvest,2.06,Synthetic data for visualization practice
+2023,Maize,Cereals,Handling,1.33,Synthetic data for visualization practice
+2023,Maize,Cereals,Storage,2.0,Synthetic data for visualization practice
+2023,Maize,Cereals,Transport,2.17,Synthetic data for visualization practice
+2023,Maize,Cereals,Market,1.63,Synthetic data for visualization practice
+2023,Barley,Cereals,Harvest,1.82,Synthetic data for visualization practice
+2023,Barley,Cereals,Handling,1.49,Synthetic data for visualization practice
+2023,Barley,Cereals,Storage,2.36,Synthetic data for visualization practice
+2023,Barley,Cereals,Transport,1.81,Synthetic data for visualization practice
+2023,Barley,Cereals,Market,1.35,Synthetic data for visualization practice
+2023,Millet,Cereals,Harvest,1.53,Synthetic data for visualization practice
+2023,Millet,Cereals,Handling,1.82,Synthetic data for visualization practice
+2023,Millet,Cereals,Storage,1.79,Synthetic data for visualization practice
+2023,Millet,Cereals,Transport,1.9,Synthetic data for visualization practice
+2023,Millet,Cereals,Market,1.23,Synthetic data for visualization practice
+2023,Sorghum,Cereals,Harvest,1.59,Synthetic data for visualization practice
+2023,Sorghum,Cereals,Handling,1.21,Synthetic data for visualization practice
+2023,Sorghum,Cereals,Storage,2.12,Synthetic data for visualization practice
+2023,Sorghum,Cereals,Transport,1.9,Synthetic data for visualization practice
+2023,Sorghum,Cereals,Market,1.31,Synthetic data for visualization practice
+2023,Chickpea,Pulses,Harvest,1.95,Synthetic data for visualization practice
+2023,Chickpea,Pulses,Handling,1.47,Synthetic data for visualization practice
+2023,Chickpea,Pulses,Storage,2.15,Synthetic data for visualization practice
+2023,Chickpea,Pulses,Transport,2.16,Synthetic data for visualization practice
+2023,Chickpea,Pulses,Market,1.96,Synthetic data for visualization practice
+2023,Pigeon Pea,Pulses,Harvest,1.6,Synthetic data for visualization practice
+2023,Pigeon Pea,Pulses,Handling,1.69,Synthetic data for visualization practice
+2023,Pigeon Pea,Pulses,Storage,2.42,Synthetic data for visualization practice
+2023,Pigeon Pea,Pulses,Transport,2.55,Synthetic data for visualization practice
+2023,Pigeon Pea,Pulses,Market,1.23,Synthetic data for visualization practice
+2023,Lentil,Pulses,Harvest,2.08,Synthetic data for visualization practice
+2023,Lentil,Pulses,Handling,1.44,Synthetic data for visualization practice
+2023,Lentil,Pulses,Storage,2.01,Synthetic data for visualization practice
+2023,Lentil,Pulses,Transport,1.57,Synthetic data for visualization practice
+2023,Lentil,Pulses,Market,1.29,Synthetic data for visualization practice
+2023,Green Gram,Pulses,Harvest,2.05,Synthetic data for visualization practice
+2023,Green Gram,Pulses,Handling,2.02,Synthetic data for visualization practice
+2023,Green Gram,Pulses,Storage,2.21,Synthetic data for visualization practice
+2023,Green Gram,Pulses,Transport,2.19,Synthetic data for visualization practice
+2023,Green Gram,Pulses,Market,1.7,Synthetic data for visualization practice
+2023,Black Gram,Pulses,Harvest,1.82,Synthetic data for visualization practice
+2023,Black Gram,Pulses,Handling,1.3,Synthetic data for visualization practice
+2023,Black Gram,Pulses,Storage,1.8,Synthetic data for visualization practice
+2023,Black Gram,Pulses,Transport,1.61,Synthetic data for visualization practice
+2023,Black Gram,Pulses,Market,1.06,Synthetic data for visualization practice
+2023,Mango,Fruits,Harvest,5.01,Synthetic data for visualization practice
+2023,Mango,Fruits,Handling,4.42,Synthetic data for visualization practice
+2023,Mango,Fruits,Storage,5.71,Synthetic data for visualization practice
+2023,Mango,Fruits,Transport,4.8,Synthetic data for visualization practice
+2023,Mango,Fruits,Market,3.73,Synthetic data for visualization practice
+2023,Banana,Fruits,Harvest,4.34,Synthetic data for visualization practice
+2023,Banana,Fruits,Handling,3.35,Synthetic data for visualization practice
+2023,Banana,Fruits,Storage,4.95,Synthetic data for visualization practice
+2023,Banana,Fruits,Transport,3.45,Synthetic data for visualization practice
+2023,Banana,Fruits,Market,3.11,Synthetic data for visualization practice
+2023,Apple,Fruits,Harvest,4.17,Synthetic data for visualization practice
+2023,Apple,Fruits,Handling,3.33,Synthetic data for visualization practice
+2023,Apple,Fruits,Storage,4.83,Synthetic data for visualization practice
+2023,Apple,Fruits,Transport,4.09,Synthetic data for visualization practice
+2023,Apple,Fruits,Market,2.54,Synthetic data for visualization practice
+2023,Guava,Fruits,Harvest,4.0,Synthetic data for visualization practice
+2023,Guava,Fruits,Handling,2.98,Synthetic data for visualization practice
+2023,Guava,Fruits,Storage,4.8,Synthetic data for visualization practice
+2023,Guava,Fruits,Transport,3.61,Synthetic data for visualization practice
+2023,Guava,Fruits,Market,2.41,Synthetic data for visualization practice
+2023,Papaya,Fruits,Harvest,5.14,Synthetic data for visualization practice
+2023,Papaya,Fruits,Handling,4.61,Synthetic data for visualization practice
+2023,Papaya,Fruits,Storage,6.56,Synthetic data for visualization practice
+2023,Papaya,Fruits,Transport,5.34,Synthetic data for visualization practice
+2023,Papaya,Fruits,Market,4.55,Synthetic data for visualization practice
+2023,Orange,Fruits,Harvest,3.52,Synthetic data for visualization practice
+2023,Orange,Fruits,Handling,2.32,Synthetic data for visualization practice
+2023,Orange,Fruits,Storage,4.2,Synthetic data for visualization practice
+2023,Orange,Fruits,Transport,3.47,Synthetic data for visualization practice
+2023,Orange,Fruits,Market,2.69,Synthetic data for visualization practice
+2023,Tomato,Vegetables,Harvest,4.72,Synthetic data for visualization practice
+2023,Tomato,Vegetables,Handling,4.51,Synthetic data for visualization practice
+2023,Tomato,Vegetables,Storage,5.43,Synthetic data for visualization practice
+2023,Tomato,Vegetables,Transport,4.86,Synthetic data for visualization practice
+2023,Tomato,Vegetables,Market,3.25,Synthetic data for visualization practice
+2023,Potato,Vegetables,Harvest,6.54,Synthetic data for visualization practice
+2023,Potato,Vegetables,Handling,4.87,Synthetic data for visualization practice
+2023,Potato,Vegetables,Storage,7.2,Synthetic data for visualization practice
+2023,Potato,Vegetables,Transport,5.81,Synthetic data for visualization practice
+2023,Potato,Vegetables,Market,4.49,Synthetic data for visualization practice
+2023,Onion,Vegetables,Harvest,5.09,Synthetic data for visualization practice
+2023,Onion,Vegetables,Handling,3.67,Synthetic data for visualization practice
+2023,Onion,Vegetables,Storage,5.63,Synthetic data for visualization practice
+2023,Onion,Vegetables,Transport,4.94,Synthetic data for visualization practice
+2023,Onion,Vegetables,Market,3.87,Synthetic data for visualization practice
+2023,Cauliflower,Vegetables,Harvest,3.89,Synthetic data for visualization practice
+2023,Cauliflower,Vegetables,Handling,3.11,Synthetic data for visualization practice
+2023,Cauliflower,Vegetables,Storage,4.53,Synthetic data for visualization practice
+2023,Cauliflower,Vegetables,Transport,3.46,Synthetic data for visualization practice
+2023,Cauliflower,Vegetables,Market,2.83,Synthetic data for visualization practice
+2023,Cabbage,Vegetables,Harvest,4.26,Synthetic data for visualization practice
+2023,Cabbage,Vegetables,Handling,3.45,Synthetic data for visualization practice
+2023,Cabbage,Vegetables,Storage,4.57,Synthetic data for visualization practice
+2023,Cabbage,Vegetables,Transport,3.7,Synthetic data for visualization practice
+2023,Cabbage,Vegetables,Market,3.02,Synthetic data for visualization practice
+2023,Okra,Vegetables,Harvest,5.05,Synthetic data for visualization practice
+2023,Okra,Vegetables,Handling,4.03,Synthetic data for visualization practice
+2023,Okra,Vegetables,Storage,5.89,Synthetic data for visualization practice
+2023,Okra,Vegetables,Transport,4.69,Synthetic data for visualization practice
+2023,Okra,Vegetables,Market,3.95,Synthetic data for visualization practice
+2023,Groundnut,Oilseeds,Harvest,1.82,Synthetic data for visualization practice
+2023,Groundnut,Oilseeds,Handling,1.78,Synthetic data for visualization practice
+2023,Groundnut,Oilseeds,Storage,2.45,Synthetic data for visualization practice
+2023,Groundnut,Oilseeds,Transport,2.15,Synthetic data for visualization practice
+2023,Groundnut,Oilseeds,Market,1.62,Synthetic data for visualization practice
+2023,Soybean,Oilseeds,Harvest,2.4,Synthetic data for visualization practice
+2023,Soybean,Oilseeds,Handling,2.18,Synthetic data for visualization practice
+2023,Soybean,Oilseeds,Storage,3.33,Synthetic data for visualization practice
+2023,Soybean,Oilseeds,Transport,1.98,Synthetic data for visualization practice
+2023,Soybean,Oilseeds,Market,2.08,Synthetic data for visualization practice
+2023,Mustard,Oilseeds,Harvest,1.9,Synthetic data for visualization practice
+2023,Mustard,Oilseeds,Handling,1.69,Synthetic data for visualization practice
+2023,Mustard,Oilseeds,Storage,2.02,Synthetic data for visualization practice
+2023,Mustard,Oilseeds,Transport,1.78,Synthetic data for visualization practice
+2023,Mustard,Oilseeds,Market,1.02,Synthetic data for visualization practice
+2023,Sunflower,Oilseeds,Harvest,2.38,Synthetic data for visualization practice
+2023,Sunflower,Oilseeds,Handling,1.47,Synthetic data for visualization practice
+2023,Sunflower,Oilseeds,Storage,2.31,Synthetic data for visualization practice
+2023,Sunflower,Oilseeds,Transport,1.65,Synthetic data for visualization practice
+2023,Sunflower,Oilseeds,Market,1.22,Synthetic data for visualization practice
+2023,Chilli,Spices,Harvest,2.8,Synthetic data for visualization practice
+2023,Chilli,Spices,Handling,2.48,Synthetic data for visualization practice
+2023,Chilli,Spices,Storage,3.5,Synthetic data for visualization practice
+2023,Chilli,Spices,Transport,2.87,Synthetic data for visualization practice
+2023,Chilli,Spices,Market,2.25,Synthetic data for visualization practice
+2023,Turmeric,Spices,Harvest,2.13,Synthetic data for visualization practice
+2023,Turmeric,Spices,Handling,1.9,Synthetic data for visualization practice
+2023,Turmeric,Spices,Storage,3.0,Synthetic data for visualization practice
+2023,Turmeric,Spices,Transport,2.55,Synthetic data for visualization practice
+2023,Turmeric,Spices,Market,1.4,Synthetic data for visualization practice
+2023,Coriander,Spices,Harvest,2.64,Synthetic data for visualization practice
+2023,Coriander,Spices,Handling,1.97,Synthetic data for visualization practice
+2023,Coriander,Spices,Storage,2.66,Synthetic data for visualization practice
+2023,Coriander,Spices,Transport,2.1,Synthetic data for visualization practice
+2023,Coriander,Spices,Market,1.59,Synthetic data for visualization practice
+2024,Rice,Cereals,Harvest,1.33,Synthetic data for visualization practice
+2024,Rice,Cereals,Handling,1.11,Synthetic data for visualization practice
+2024,Rice,Cereals,Storage,1.6,Synthetic data for visualization practice
+2024,Rice,Cereals,Transport,1.13,Synthetic data for visualization practice
+2024,Rice,Cereals,Market,1.16,Synthetic data for visualization practice
+2024,Wheat,Cereals,Harvest,0.92,Synthetic data for visualization practice
+2024,Wheat,Cereals,Handling,1.17,Synthetic data for visualization practice
+2024,Wheat,Cereals,Storage,1.35,Synthetic data for visualization practice
+2024,Wheat,Cereals,Transport,1.41,Synthetic data for visualization practice
+2024,Wheat,Cereals,Market,1.01,Synthetic data for visualization practice
+2024,Maize,Cereals,Harvest,2.13,Synthetic data for visualization practice
+2024,Maize,Cereals,Handling,1.52,Synthetic data for visualization practice
+2024,Maize,Cereals,Storage,2.37,Synthetic data for visualization practice
+2024,Maize,Cereals,Transport,1.13,Synthetic data for visualization practice
+2024,Maize,Cereals,Market,1.75,Synthetic data for visualization practice
+2024,Barley,Cereals,Harvest,1.48,Synthetic data for visualization practice
+2024,Barley,Cereals,Handling,0.66,Synthetic data for visualization practice
+2024,Barley,Cereals,Storage,1.16,Synthetic data for visualization practice
+2024,Barley,Cereals,Transport,1.17,Synthetic data for visualization practice
+2024,Barley,Cereals,Market,0.88,Synthetic data for visualization practice
+2024,Millet,Cereals,Harvest,2.11,Synthetic data for visualization practice
+2024,Millet,Cereals,Handling,1.03,Synthetic data for visualization practice
+2024,Millet,Cereals,Storage,2.32,Synthetic data for visualization practice
+2024,Millet,Cereals,Transport,1.72,Synthetic data for visualization practice
+2024,Millet,Cereals,Market,1.3,Synthetic data for visualization practice
+2024,Sorghum,Cereals,Harvest,1.93,Synthetic data for visualization practice
+2024,Sorghum,Cereals,Handling,0.84,Synthetic data for visualization practice
+2024,Sorghum,Cereals,Storage,2.21,Synthetic data for visualization practice
+2024,Sorghum,Cereals,Transport,1.31,Synthetic data for visualization practice
+2024,Sorghum,Cereals,Market,1.34,Synthetic data for visualization practice
+2024,Chickpea,Pulses,Harvest,2.29,Synthetic data for visualization practice
+2024,Chickpea,Pulses,Handling,1.56,Synthetic data for visualization practice
+2024,Chickpea,Pulses,Storage,2.09,Synthetic data for visualization practice
+2024,Chickpea,Pulses,Transport,1.74,Synthetic data for visualization practice
+2024,Chickpea,Pulses,Market,1.79,Synthetic data for visualization practice
+2024,Pigeon Pea,Pulses,Harvest,2.15,Synthetic data for visualization practice
+2024,Pigeon Pea,Pulses,Handling,1.74,Synthetic data for visualization practice
+2024,Pigeon Pea,Pulses,Storage,2.16,Synthetic data for visualization practice
+2024,Pigeon Pea,Pulses,Transport,2.2,Synthetic data for visualization practice
+2024,Pigeon Pea,Pulses,Market,1.21,Synthetic data for visualization practice
+2024,Lentil,Pulses,Harvest,2.26,Synthetic data for visualization practice
+2024,Lentil,Pulses,Handling,2.38,Synthetic data for visualization practice
+2024,Lentil,Pulses,Storage,2.25,Synthetic data for visualization practice
+2024,Lentil,Pulses,Transport,2.06,Synthetic data for visualization practice
+2024,Lentil,Pulses,Market,2.09,Synthetic data for visualization practice
+2024,Green Gram,Pulses,Harvest,2.34,Synthetic data for visualization practice
+2024,Green Gram,Pulses,Handling,2.07,Synthetic data for visualization practice
+2024,Green Gram,Pulses,Storage,2.85,Synthetic data for visualization practice
+2024,Green Gram,Pulses,Transport,2.42,Synthetic data for visualization practice
+2024,Green Gram,Pulses,Market,1.67,Synthetic data for visualization practice
+2024,Black Gram,Pulses,Harvest,1.47,Synthetic data for visualization practice
+2024,Black Gram,Pulses,Handling,1.53,Synthetic data for visualization practice
+2024,Black Gram,Pulses,Storage,2.23,Synthetic data for visualization practice
+2024,Black Gram,Pulses,Transport,1.69,Synthetic data for visualization practice
+2024,Black Gram,Pulses,Market,0.97,Synthetic data for visualization practice
+2024,Mango,Fruits,Harvest,4.87,Synthetic data for visualization practice
+2024,Mango,Fruits,Handling,3.64,Synthetic data for visualization practice
+2024,Mango,Fruits,Storage,5.35,Synthetic data for visualization practice
+2024,Mango,Fruits,Transport,4.09,Synthetic data for visualization practice
+2024,Mango,Fruits,Market,3.25,Synthetic data for visualization practice
+2024,Banana,Fruits,Harvest,4.98,Synthetic data for visualization practice
+2024,Banana,Fruits,Handling,3.58,Synthetic data for visualization practice
+2024,Banana,Fruits,Storage,5.46,Synthetic data for visualization practice
+2024,Banana,Fruits,Transport,4.23,Synthetic data for visualization practice
+2024,Banana,Fruits,Market,3.49,Synthetic data for visualization practice
+2024,Apple,Fruits,Harvest,4.49,Synthetic data for visualization practice
+2024,Apple,Fruits,Handling,3.28,Synthetic data for visualization practice
+2024,Apple,Fruits,Storage,4.45,Synthetic data for visualization practice
+2024,Apple,Fruits,Transport,3.64,Synthetic data for visualization practice
+2024,Apple,Fruits,Market,3.0,Synthetic data for visualization practice
+2024,Guava,Fruits,Harvest,3.94,Synthetic data for visualization practice
+2024,Guava,Fruits,Handling,2.95,Synthetic data for visualization practice
+2024,Guava,Fruits,Storage,4.94,Synthetic data for visualization practice
+2024,Guava,Fruits,Transport,3.14,Synthetic data for visualization practice
+2024,Guava,Fruits,Market,2.86,Synthetic data for visualization practice
+2024,Papaya,Fruits,Harvest,5.51,Synthetic data for visualization practice
+2024,Papaya,Fruits,Handling,4.54,Synthetic data for visualization practice
+2024,Papaya,Fruits,Storage,5.8,Synthetic data for visualization practice
+2024,Papaya,Fruits,Transport,5.32,Synthetic data for visualization practice
+2024,Papaya,Fruits,Market,4.61,Synthetic data for visualization practice
+2024,Orange,Fruits,Harvest,4.46,Synthetic data for visualization practice
+2024,Orange,Fruits,Handling,3.78,Synthetic data for visualization practice
+2024,Orange,Fruits,Storage,4.94,Synthetic data for visualization practice
+2024,Orange,Fruits,Transport,3.96,Synthetic data for visualization practice
+2024,Orange,Fruits,Market,2.66,Synthetic data for visualization practice
+2024,Tomato,Vegetables,Harvest,4.96,Synthetic data for visualization practice
+2024,Tomato,Vegetables,Handling,3.74,Synthetic data for visualization practice
+2024,Tomato,Vegetables,Storage,5.69,Synthetic data for visualization practice
+2024,Tomato,Vegetables,Transport,4.51,Synthetic data for visualization practice
+2024,Tomato,Vegetables,Market,3.53,Synthetic data for visualization practice
+2024,Potato,Vegetables,Harvest,3.6,Synthetic data for visualization practice
+2024,Potato,Vegetables,Handling,3.41,Synthetic data for visualization practice
+2024,Potato,Vegetables,Storage,4.11,Synthetic data for visualization practice
+2024,Potato,Vegetables,Transport,3.51,Synthetic data for visualization practice
+2024,Potato,Vegetables,Market,3.37,Synthetic data for visualization practice
+2024,Onion,Vegetables,Harvest,3.72,Synthetic data for visualization practice
+2024,Onion,Vegetables,Handling,2.72,Synthetic data for visualization practice
+2024,Onion,Vegetables,Storage,4.05,Synthetic data for visualization practice
+2024,Onion,Vegetables,Transport,3.47,Synthetic data for visualization practice
+2024,Onion,Vegetables,Market,2.72,Synthetic data for visualization practice
+2024,Cauliflower,Vegetables,Harvest,5.76,Synthetic data for visualization practice
+2024,Cauliflower,Vegetables,Handling,4.56,Synthetic data for visualization practice
+2024,Cauliflower,Vegetables,Storage,6.18,Synthetic data for visualization practice
+2024,Cauliflower,Vegetables,Transport,5.26,Synthetic data for visualization practice
+2024,Cauliflower,Vegetables,Market,4.46,Synthetic data for visualization practice
+2024,Cabbage,Vegetables,Harvest,4.66,Synthetic data for visualization practice
+2024,Cabbage,Vegetables,Handling,3.56,Synthetic data for visualization practice
+2024,Cabbage,Vegetables,Storage,5.36,Synthetic data for visualization practice
+2024,Cabbage,Vegetables,Transport,4.29,Synthetic data for visualization practice
+2024,Cabbage,Vegetables,Market,3.82,Synthetic data for visualization practice
+2024,Okra,Vegetables,Harvest,5.34,Synthetic data for visualization practice
+2024,Okra,Vegetables,Handling,4.7,Synthetic data for visualization practice
+2024,Okra,Vegetables,Storage,6.23,Synthetic data for visualization practice
+2024,Okra,Vegetables,Transport,5.14,Synthetic data for visualization practice
+2024,Okra,Vegetables,Market,4.23,Synthetic data for visualization practice
+2024,Groundnut,Oilseeds,Harvest,2.25,Synthetic data for visualization practice
+2024,Groundnut,Oilseeds,Handling,1.43,Synthetic data for visualization practice
+2024,Groundnut,Oilseeds,Storage,2.14,Synthetic data for visualization practice
+2024,Groundnut,Oilseeds,Transport,1.73,Synthetic data for visualization practice
+2024,Groundnut,Oilseeds,Market,1.35,Synthetic data for visualization practice
+2024,Soybean,Oilseeds,Harvest,2.16,Synthetic data for visualization practice
+2024,Soybean,Oilseeds,Handling,2.03,Synthetic data for visualization practice
+2024,Soybean,Oilseeds,Storage,2.84,Synthetic data for visualization practice
+2024,Soybean,Oilseeds,Transport,1.61,Synthetic data for visualization practice
+2024,Soybean,Oilseeds,Market,1.49,Synthetic data for visualization practice
+2024,Mustard,Oilseeds,Harvest,2.3,Synthetic data for visualization practice
+2024,Mustard,Oilseeds,Handling,1.84,Synthetic data for visualization practice
+2024,Mustard,Oilseeds,Storage,2.56,Synthetic data for visualization practice
+2024,Mustard,Oilseeds,Transport,2.07,Synthetic data for visualization practice
+2024,Mustard,Oilseeds,Market,1.79,Synthetic data for visualization practice
+2024,Sunflower,Oilseeds,Harvest,1.97,Synthetic data for visualization practice
+2024,Sunflower,Oilseeds,Handling,1.18,Synthetic data for visualization practice
+2024,Sunflower,Oilseeds,Storage,2.7,Synthetic data for visualization practice
+2024,Sunflower,Oilseeds,Transport,1.53,Synthetic data for visualization practice
+2024,Sunflower,Oilseeds,Market,1.31,Synthetic data for visualization practice
+2024,Chilli,Spices,Harvest,3.11,Synthetic data for visualization practice
+2024,Chilli,Spices,Handling,2.43,Synthetic data for visualization practice
+2024,Chilli,Spices,Storage,3.12,Synthetic data for visualization practice
+2024,Chilli,Spices,Transport,2.17,Synthetic data for visualization practice
+2024,Chilli,Spices,Market,2.02,Synthetic data for visualization practice
+2024,Turmeric,Spices,Harvest,3.24,Synthetic data for visualization practice
+2024,Turmeric,Spices,Handling,2.5,Synthetic data for visualization practice
+2024,Turmeric,Spices,Storage,3.28,Synthetic data for visualization practice
+2024,Turmeric,Spices,Transport,2.07,Synthetic data for visualization practice
+2024,Turmeric,Spices,Market,1.86,Synthetic data for visualization practice
+2024,Coriander,Spices,Harvest,3.02,Synthetic data for visualization practice
+2024,Coriander,Spices,Handling,2.45,Synthetic data for visualization practice
+2024,Coriander,Spices,Storage,2.68,Synthetic data for visualization practice
+2024,Coriander,Spices,Transport,2.61,Synthetic data for visualization practice
+2024,Coriander,Spices,Market,2.25,Synthetic data for visualization practice
